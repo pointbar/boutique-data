@@ -1,0 +1,47 @@
+[{
+        "id": "ga18",
+        "titre": {
+            "en": "Gaiwan 3.4oz",
+            "fr": "Gaiwan 10cl"
+        },
+        "modification": "2020-11-21",
+        "création": "2020-11-13",
+        "catégorie": "Gaiwan",
+        "description": {
+            "en": "Artisanal glazed stoneware gaiwan 3.4 oz.",
+            "fr": "Gaiwan artisanal en grès émaillé de 10cl."
+        },
+        "prix": 52.00,
+        "poids": 0.3,
+        "stock": 8,
+        "photos": [
+            "gaiwan_18-a.jpg",
+            "gaiwan_18-b.jpg",
+            "gaiwan_18-c.jpg",
+            "gaiwan_18-d.jpg"
+        ]
+    },
+    {
+        "id": "ga21",
+        "titre": {
+            "en": "Gaiwan 3.4oz",
+            "fr": "Gaiwan 10cl"
+        },
+        "modification": "2020-11-21",
+        "création": "2020-11-13",
+        "catégorie": "Gaiwan",
+        "description": {
+            "en": "This 3.4oz gaiwan is glazed with an ash-based enamel, which gives it this rather lively aspect.",
+            "fr": "Ce gaïwan de 10cl est recouvert d'un émail à base de cendre, ce qui lui donne cette aspect assez vivant."
+        },
+        "prix": 58.00,
+        "poids": 0.3,
+        "stock": 7,
+        "photos": [
+            "gaiwan_21-a.jpg",
+            "gaiwan_21-b.jpg",
+            "gaiwan_21-c.jpg",
+            "gaiwan_21-d.jpg"
+        ]
+    }
+]
