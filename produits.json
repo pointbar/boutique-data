@@ -13,7 +13,7 @@
         },
         "prix": 52.00,
         "poids": 0.3,
-        "stock": 8,
+        "quantité_produite": 8,
         "photos": [
             "gaiwan_18-a.jpg",
             "gaiwan_18-b.jpg",
@@ -36,7 +36,7 @@
         },
         "prix": 58.00,
         "poids": 0.3,
-        "stock": 7,
+        "quantité_produite": 7,
         "photos": [
             "gaiwan_21-a.jpg",
             "gaiwan_21-b.jpg",
