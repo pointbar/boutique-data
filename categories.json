@@ -9,4 +9,28 @@
             "en": "The gaiwan or zhong, is the ideal utensil to start on the way to tea. Indeed, the gaiwan is enamelled (therefore rather neutral). Its shape and design allow to observe the evolution of the infusion easily. Its price is lower than that of a teapot. You just have to take the hand to use it. Test a new tea. Continue making tea while you are on the go."
         }
     }
-}
+},
+{
+    "Théière": {
+        "titre": {
+            "fr": "Théière",
+            "en": "Teapot"
+        },
+        "description": {
+            "fr": "La théière est, avec le gaiwan et le verre à thé, un 
+            des outils utilisés pour infuser le thé. Elle est combinée avec un Chahai, la tasse de l'équité, dans laquelle on verse le thé infusé avant de le répartir dans les tasses. Ces trois outils sont indissociables pour préparer un thé à la théière.",
+            "en": "The teapot is, along the gaiwan and the tea glass, one utensil used to brew tea. It is combined with a Chahai, an equity pitcher, where tea is first poured before distributing it into the cups. These three tools are inseparable to prepare a tea in a tea pot."
+        }
+    }
+},
+{
+    "Set de Voyage": {
+        "titre": {
+            "fr": "Set de Voyage",
+            "en": "Travel Set"
+        },
+        "description": {
+            "fr": "Le set de voyage se veut pratique et fonctionnel, il peut se glisser facilement dans vos bagages ou votre sac. Le set de voyage se compose",
+            "en": "The travel set is practical and functional, it can be easily slipped into your luggage or bag."
+        }
+    },
