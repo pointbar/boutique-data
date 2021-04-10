@@ -1,4 +1,5 @@
-[{
+[
+    {
         "id": "ga18",
         "titre": {
             "en": "Gaiwan 3.4oz",
@@ -42,6 +43,202 @@
             "gaiwan_21-b.jpg",
             "gaiwan_21-c.jpg",
             "gaiwan_21-d.jpg"
+        ]
+    },
+    {
+        "id": "ga1",
+        "titre": {
+            "en": "Gaiwan 3.4oz",
+            "fr": "Gaiwan 10cl"
+        },
+        "modification": "2021-04-10",
+        "création": "2021-04-10",
+        "catégorie": "Gaiwan",
+        "description": {
+            "en": "This 3.4oz gaiwan is glazed with an ash-based enamel, which gives it this rather lively aspect.",
+            "fr": "Ce gaïwan de 10cl est recouvert d'un émail à base de cendre, ce qui lui donne cette aspect assez vivant."
+        },
+        "prix": 58.00,
+        "poids": 0.3,
+        "quantité_produite": 7,
+        "photos": [
+            "gaiwan_1-a.jpg",
+            "gaiwan_1-b.jpg"
+        ]
+    },
+    {
+        "id": "ga2",
+        "titre": {
+            "en": "Gaiwan 3.4oz",
+            "fr": "Gaiwan 10cl"
+        },
+        "modification": "2021-04-10",
+        "création": "2021-04-10",
+        "catégorie": "Gaiwan",
+        "description": {
+            "en": "This 3.4oz gaiwan is glazed with an ash-based enamel, which gives it this rather lively aspect.",
+            "fr": "Ce gaïwan de 10cl est recouvert d'un émail à base de cendre, ce qui lui donne cette aspect assez vivant."
+        },
+        "prix": 58.00,
+        "poids": 0.3,
+        "quantité_produite": 7,
+        "photos": [
+            "gaiwan_2-a.jpg",
+            "gaiwan_2-b.jpg"
+        ]
+    },
+    {
+        "id": "ga3",
+        "titre": {
+            "en": "Gaiwan 3.4oz",
+            "fr": "Gaiwan 10cl"
+        },
+        "modification": "2021-04-10",
+        "création": "2021-04-10",
+        "catégorie": "Gaiwan",
+        "description": {
+            "en": "This 3.4oz gaiwan is glazed with an ash-based enamel, which gives it this rather lively aspect.",
+            "fr": "Ce gaïwan de 10cl est recouvert d'un émail à base de cendre, ce qui lui donne cette aspect assez vivant."
+        },
+        "prix": 58.00,
+        "poids": 0.3,
+        "quantité_produite": 7,
+        "photos": [
+            "gaiwan_3-a.jpg",
+            "gaiwan_3-b.jpg",
+            "gaiwan_3-c.jpg"
+        ]
+    },
+    {
+        "id": "sdv1",
+        "titre": {
+            "en": "Travel set 3.4oz",
+            "fr": "Set de voyage 10cl"
+        },
+        "modification": "2021-04-10",
+        "création": "2021-04-10",
+        "catégorie": "Set de voyage",
+        "description": {
+            "en": "The perfect travel companion with its protective cover, Gaiwan, ChaHai and three cups.",
+            "fr": "Le compagnon de voyage idéal avec sa housse de protection, son Gaiwan, son ChaHai et ses trois tasses."
+        },
+        "prix": 58.00,
+        "poids": 0.3,
+        "quantité_produite": 7,
+        "photos": [
+            "set-de-voyage_1-a.jpg",
+            "set-de-voyage_1-b.jpg",
+            "set-de-voyage_1-c.jpg",
+            "set-de-voyage_1-d.jpg"
+        ]
+    },
+    {
+        "id": "th1",
+        "titre": {
+            "en": "Teapot 3.4oz",
+            "fr": "Théière 10cl"
+        },
+        "modification": "2021-04-10",
+        "création": "2021-04-10",
+        "catégorie": "Théière",
+        "description": {
+            "en": "Small unglazed clay teapot, interacting with tea. It is advisable to use this teapot for only one family of tea.",
+            "fr": "Petite théière en argile non émaillée, interagissant avec le thé. Il est conseillé d'utiliser cette théière pour une seule famille de thé."
+        },
+        "prix": 132.00,
+        "poids": 0.3,
+        "quantité_produite": 7,
+        "photos": [
+            "teapot_1-a.jpg",
+            "teapot_1-b.jpg"
+        ]
+    },
+    {
+        "id": "th2",
+        "titre": {
+            "en": "Teapot 3.4oz",
+            "fr": "Théière 10cl"
+        },
+        "modification": "2021-04-10",
+        "création": "2021-04-10",
+        "catégorie": "Théière",
+        "description": {
+            "en": "Small unglazed clay teapot, interacting with tea. It is advisable to use this teapot for only one family of tea.",
+            "fr": "Petite théière en argile non émaillée, interagissant avec le thé. Il est conseillé d'utiliser cette théière pour une seule famille de thé."
+        },
+        "prix": 132.00,
+        "poids": 0.3,
+        "quantité_produite": 7,
+        "photos": [
+            "teapot_2-a.jpg",
+            "teapot_2-b.jpg",
+            "teapot_2-c.jpg"
+        ]
+    },
+    {
+        "id": "th3",
+        "titre": {
+            "en": "Teapot 3.4oz",
+            "fr": "Théière 10cl"
+        },
+        "modification": "2021-04-10",
+        "création": "2021-04-10",
+        "catégorie": "Théière",
+        "description": {
+            "en": "Small unglazed clay teapot, interacting with tea. It is advisable to use this teapot for only one family of tea.",
+            "fr": "Petite théière en argile non émaillée, interagissant avec le thé. Il est conseillé d'utiliser cette théière pour une seule famille de thé."
+        },
+        "prix": 132.00,
+        "poids": 0.3,
+        "quantité_produite": 7,
+        "photos": [
+            "teapot_3-a.jpg",
+            "teapot_3-b.jpg",
+            "teapot_3-c.jpg",
+            "teapot_3-d.jpg"
+        ]
+    },
+    {
+        "id": "th4",
+        "titre": {
+            "en": "Teapot 3.4oz",
+            "fr": "Théière 10cl"
+        },
+        "modification": "2021-04-10",
+        "création": "2021-04-10",
+        "catégorie": "Théière",
+        "description": {
+            "en": "Small unglazed clay teapot, interacting with tea. It is advisable to use this teapot for only one family of tea.",
+            "fr": "Petite théière en argile non émaillée, interagissant avec le thé. Il est conseillé d'utiliser cette théière pour une seule famille de thé."
+        },
+        "prix": 132.00,
+        "poids": 0.3,
+        "quantité_produite": 7,
+        "photos": [
+            "teapot_4-a.jpg",
+            "teapot_4-b.jpg",
+            "teapot_4-c.jpg"
+        ]
+    },
+    {
+        "id": "th5",
+        "titre": {
+            "en": "Teapot 3.4oz",
+            "fr": "Théière 10cl"
+        },
+        "modification": "2021-04-10",
+        "création": "2021-04-10",
+        "catégorie": "Théière",
+        "description": {
+            "en": "Small unglazed clay teapot, interacting with tea. It is advisable to use this teapot for only one family of tea.",
+            "fr": "Petite théière en argile non émaillée, interagissant avec le thé. Il est conseillé d'utiliser cette théière pour une seule famille de thé."
+        },
+        "prix": 132.00,
+        "poids": 0.3,
+        "quantité_produite": 7,
+        "photos": [
+            "teapot_5-a.jpg",
+            "teapot_5-b.jpg"
         ]
     }
 ]
