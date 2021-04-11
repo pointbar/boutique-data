@@ -149,8 +149,8 @@
         "poids": 0.3,
         "quantité_produite": 7,
         "photos": [
-            "teapot_1-a.jpg",
-            "teapot_1-b.jpg"
+            "theiere_1-a.jpg",
+            "theiere_1-b.jpg"
         ]
     },
     {
@@ -170,9 +170,10 @@
         "poids": 0.3,
         "quantité_produite": 7,
         "photos": [
-            "teapot_2-a.jpg",
-            "teapot_2-b.jpg",
-            "teapot_2-c.jpg"
+            "theiere_2-a.jpg",
+            "theiere_2-b.jpg",
+            "theiere_2-c.jpg",
+            "theiere_2-d.jpg"
         ]
     },
     {
@@ -192,10 +193,10 @@
         "poids": 0.3,
         "quantité_produite": 7,
         "photos": [
-            "teapot_3-a.jpg",
-            "teapot_3-b.jpg",
-            "teapot_3-c.jpg",
-            "teapot_3-d.jpg"
+            "theiere_3-a.jpg",
+            "theiere_3-b.jpg",
+            "theiere_3-c.jpg",
+            "theiere_3-d.jpg"
         ]
     },
     {
@@ -215,9 +216,10 @@
         "poids": 0.3,
         "quantité_produite": 7,
         "photos": [
-            "teapot_4-a.jpg",
-            "teapot_4-b.jpg",
-            "teapot_4-c.jpg"
+            "theiere_4-a.jpg",
+            "theiere_4-b.jpg",
+            "theiere_4-c.jpg",
+            "theiere_4-d.jpg"
         ]
     },
     {
@@ -237,8 +239,11 @@
         "poids": 0.3,
         "quantité_produite": 7,
         "photos": [
-            "teapot_5-a.jpg",
-            "teapot_5-b.jpg"
+            "theiere_5-a.jpg",
+            "theiere_5-b.jpg",
+            "theiere_5-c.jpg",
+            "theiere_5-d.jpg",
+            "theiere_5-e.jpg"
         ]
     }
 ]
