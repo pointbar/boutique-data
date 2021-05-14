@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 [{
+=======
+[
+    {
+>>>>>>> 2029be315417cc206075061a09265a69a7b3dea3
         "id": "ga1",
         "titre": {
             "en": "Gaiwan 3.4oz",
@@ -11,7 +16,7 @@
             "en": "This 3.4oz gaiwan is glazed with an ash-based enamel, which gives it this rather lively aspect.",
             "fr": "Ce gaïwan de 10cl est recouvert d'un émail à base de cendre, ce qui lui donne cette aspect assez vivant."
         },
-        "prix": 58.00,
+        "prix": 6.00,
         "poids": 0.3,
         "quantité_produite": 7,
         "photos": [
