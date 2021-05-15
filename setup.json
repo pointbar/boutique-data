@@ -1,4 +1,11 @@
 {
+    "forme_social": "association",
     "nom": "Brut de thé",
-    "couleur": "#73d56b"
+    "proprietaire": "Thaïs Erbs et Stéphane Langlois",
+    "email": "coucou@brutdethe.fr",
+    "site": "https://boutique.brutdethé.fr",
+    "siege": "6 rue d’Armaillé, 75017 Paris",
+    "enregistrement": "du RM de Moulin",
+    "RCS": "899 032 494",
+    "APE": "1083-Z"
 }
