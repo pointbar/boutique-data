@@ -1,20 +1,25 @@
 [{
         "id": "ga1",
+        "origine": "德化 - DéHuà, 泉州- QuánZhōu, 福建 - Fújiàn",
         "titre": {
-            "en": "Gaiwan 3.4oz",
-            "fr": "Gaiwan 10cl"
+            "en": "GàiWǎn style RǔYáo",
+            "fr": "GàiWǎn style RǔYáo"
         },
-        "modification": "2021-04-10",
-        "création": "2021-04-10",
+        "modification": "2021-05-16",
+        "création": "2021-05-16",
         "catégorie": "Gaiwan",
-        "origine": "德化 - DéHuà, Quanzhou, Fujian Province, China",
         "description": {
-            "en": "This 3.4oz gaiwan is glazed with an ash-based enamel, which gives it this rather lively aspect.",
-            "fr": "Ce gaïwan de 10cl est recouvert d'un émail à base de cendre, ce qui lui donne cette aspect assez vivant."
+            "fr": "Les porcelaines de 汝窯 - RǔYáo, possèdent une glaçure d'un vert céladon à la fois brillant et nuageux, semblable au jade. Sa surface lisse est subtilement craquelée. Le thé s'infiltre dans les fissures pour produire, avec le temps, une pièce unique.",
+            "en": "The porcelains of 汝窯 - RǔYáo, have a celadon green glaze that is both bright and cloudy, similar to jade. Its smooth surface is subtly cracked. The tea seeps into the cracks to produce, over time, a unique piece."
         },
-        "prix": 6.00,
-        "poids": 0.3,
-        "quantité_produite": 7,
+        "prix": 69.00,
+        "poids": 233,
+        "dimension": {
+            "largeur": 10.3,
+            "hauteur": 7.8
+        },
+        "capacite": 120,
+        "quantité_produite": 1,
         "photos": [
             "gaiwan_1-a.jpg",
             "gaiwan_1-b.jpg"
