@@ -2,8 +2,8 @@
         "id": "ga1",
         "origine": "德化 - DéHuà, 泉州- QuánZhōu, 福建 - Fújiàn",
         "titre": {
-            "en": "GàiWǎn style RǔYáo",
-            "fr": "GàiWǎn style RǔYáo"
+            "en": "GàiWǎn RǔYáo",
+            "fr": "GàiWǎn RǔYáo"
         },
         "modification": "2021-05-16",
         "création": "2021-05-16",
@@ -13,7 +13,7 @@
             "en": "The porcelains of 汝窯 - RǔYáo, have a celadon green glaze that is both bright and cloudy, similar to jade. Its smooth surface is subtly cracked. The tea seeps into the cracks to produce, over time, a unique piece."
         },
         "prix": 69.00,
-        "poids": 233,
+        "poids": 0.23,
         "dimension": {
             "largeur": 10.3,
             "hauteur": 7.8

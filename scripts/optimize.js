@@ -15,8 +15,8 @@ const resizeTo = {
         height: 297
     },
     carousels: {
-        width: 1374,
-        height: 916
+        width: 926,
+        height: 612
     }
 }
 
