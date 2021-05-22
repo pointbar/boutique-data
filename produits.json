@@ -94,20 +94,26 @@
     },
     {
         "id": "th1",
+        "origine": "福建 - FúJiàn - 德化縣 - DéHuà Xiàn",
         "titre": {
-            "en": "Teapot 3.4oz",
-            "fr": "Théière 10cl"
+            "en": "Teapot 西施 - 湯瓶 - TāngPíng",
+            "fr": "Théière 西施 - 湯瓶 - TāngPíng"
         },
         "modification": "2021-04-10",
         "création": "2021-04-10",
         "catégorie": "Théière",
         "description": {
-            "en": "Small unglazed clay teapot, interacting with tea. It is advisable to use this teapot for only one family of tea.",
-            "fr": "Petite théière en argile non émaillée, interagissant avec le thé. Il est conseillé d'utiliser cette théière pour une seule famille de thé."
+            "en": "Teapots 湯瓶 - TāngPíng originated in China during the Song Dynasty (960-1279). It was in Japan that they had their evolutions under the term 横手急須 - Yokode Kyūsu. Its iconic feature is that it has a side handle. The mineral-rich clay softens the tea by limiting astringency. This teapot was fired at high temperature, then a sand glaze is applied.",
+            "fr": "Les théières 湯瓶 - TāngPíng sont nées en Chine pendant la dynastie Song (960-1279). C'est au Japon qu'elles ont connu leurs évolutions sous le terme de 横手急須 - Yokode Kyūsu. Sa caractéristique emblématique est qu'elle possède une poignée latérale. L'argile riche en minéraux adoucit le thé en limitant l'astringence. Cette théière a été cuite à haute température, puis un glaçage au sable est appliqué.",
         },
-        "prix": 132.00,
+        "prix": 36.00,
         "poids": 0.3,
-        "quantité_produite": 1,
+        "dimension": {
+            "largeur": 18,
+            "hauteur": 7.5
+        },
+        "capacité": 220,
+        "quantité_produite": 4,
         "photos": [
             "theiere_1-a.jpg",
             "theiere_1-b.jpg"
