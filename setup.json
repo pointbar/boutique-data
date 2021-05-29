@@ -3,11 +3,12 @@
     "logo": "https://raw.githubusercontent.com/brutdethe/boutique-data/main/logo.svg",
     "nom": "Brut de thé",
     "a_propos": "https://www.brutdethé.fr",
-    "proprietaire": "Thaïs Erbs et Stéphane Langlois",
+    "proprietaire": "Thaïs Erbs, Stéphane Langlois et Violaine Andrieux",
     "email": "coucou@brutdethe.fr",
-    "site": "boutique.brutdethé.fr",
+    "site": "https://boutique.brutdethé.fr",
     "siege": "6 rue d’Armaillé, 75017 Paris",
     "enregistrement": "des greffes du tribunal de Paris",
     "RCS": "899 032 494",
-    "APE": "1083-Z"
+    "APE": "1083-Z",
+    "stat": "<script async defer data-domain=\"boutique.xn--brutdeth-i1a.fr\" src=\"https://plausible.io/js/plausible.js\"></script>"
 }
