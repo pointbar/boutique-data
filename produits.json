@@ -8,8 +8,8 @@
         "création": "2021-06-06",
         "catégorie": "Thé",
         "description": {
-            "en": "We prefer to work with growers we know and that is not the case for this tea. This 烏龍 - WūLóng FānShǔ (sweet potato) is Violaine's favorite, its roast is a bit more intense than normal, it is possible to see beneficial to let it age. If our purchase information is accurate, no pesticides or artificial fertilizers were used.",
-            "fr": "Nous préférons travailler avec des personnes productrices que nous connaissons et ce n'est pas le cas pour ce thé. Ce 烏龍 - WūLóng FānShǔ (patate douce) est le coup de cœur de Violaine, sa torréfaction est un peu plus appuyée que la normale, il est possible voir bénéfique de le laisser vieillir. Si nos informations d'achat sont exactes, aucun pesticide ou engrais artificiel n'ont été utilisés."
+            "en": "We prefer to work with growers we know and that is not the case for this tea. This 烏龍 - WūLóng FānShǔ (sweet potato) is Violaine's favorite, its roast is a bit more intense than normal. If our purchase information is accurate, no pesticides or artificial fertilizers were used.",
+            "fr": "Nous préférons travailler avec des personnes productrices que nous connaissons et ce n'est pas le cas pour ce thé. Ce 烏龍 - WūLóng FānShǔ (patate douce) est le coup de cœur de Violaine, sa torréfaction est un peu plus appuyée que la normale. Si nos informations d'achat sont exactes, aucun pesticide ou engrais artificiel n'ont été utilisés."
         },
         "prix": 15.00,
         "poids": 0.025,
@@ -25,6 +25,34 @@
         "photos": [
             "QingCha_FanShuXiang-DanCong_1-a.jpg",
             "QingCha_FanShuXiang-DanCong_1-b.jpg"
+        ]
+    },
+    {
+        "id": "tea2",
+        "titre": {
+            "en": "四季春 - SìJìChūn",
+            "fr": "四季春 - SìJìChūn"
+        },
+        "modification": "2021-06-06",
+        "création": "2021-06-06",
+        "catégorie": "Thé",
+        "description": {
+            "en": "A 烏龍 - WūLóng in low oxidized pearl produced by Mr. Zheng. The cultivar was created recently (1981), the translation -four spring seasons- expresses the idea that all crops are as interesting as the first spring.",
+            "fr": "Un 烏龍 - WūLóng en perle peu oxydé produit par Mr Zheng. Le cultivar a été créé récemment (1981), la traduction -quatre saisons printemps- exprime l'idée que toutes les récoltes sont aussi intéressantes que la première de printemps."
+        },
+        "prix": 15.00,
+        "poids": 0.025,
+        "quantité_produite": 4,
+        "producteur": "M. Zheng",
+        "type": "青茶 - QīngChá",
+        "fiche": "SiJiChun",
+        "village": "南投 - NánTóu",
+        "province": "臺灣 - Táiwān",
+        "cultivar": "四季春 - SìJìChūn",
+        "photos": [
+            "QingCha_SiJiChun_mr-zheng_1-a.jpg",
+            "QingCha_SiJiChun_mr-zheng_1-b.jpg",
+            "QingCha_SiJiChun_mr-zheng_1-c.jpg"
         ]
     },
     {
