@@ -1,4 +1,33 @@
 [{
+        "id": "tea1",
+        "titre": {
+            "en": "香番薯單叢 - XiāngFānShǔ DānCóng",
+            "fr": "香番薯單叢 - XiāngFānShǔ DānCóng"
+        },
+        "modification": "2021-06-06",
+        "création": "2021-06-06",
+        "catégorie": "Thé",
+        "description": {
+            "en": "We prefer to work with growers we know and that is not the case for this tea. This 烏龍 - WūLóng FānShǔ (sweet potato) is Violaine's favorite, its roast is a bit more intense than normal, it is possible to see beneficial to let it age. If our purchase information is accurate, no pesticides or artificial fertilizers were used.",
+            "fr": "Nous préférons travailler avec des personnes productrices que nous connaissons et ce n'est pas le cas pour ce thé. Ce 烏龍 - WūLóng FānShǔ (patate douce) est le coup de cœur de Violaine, sa torréfaction est un peu plus appuyée que la normale, il est possible voir bénéfique de le laisser vieillir. Si nos informations d'achat sont exactes, aucun pesticide ou engrais artificiel n'ont été utilisés."
+        },
+        "prix": 15.00,
+        "poids": 0.025,
+        "millésime": "avril 2020",
+        "altitude": 980,
+        "quantité_produite": 16,
+        "producteur": "inconnu",
+        "type": "青茶 - QīngChá",
+        "fiche": "FengHuangDanCong",
+        "village": "獅頭腳 - ShīTóuJiǎo",
+        "province": "海南 - GuǎngDōng",
+        "cultivar": "杏仁 - XìngRén",
+        "photos": [
+            "QingCha_FanShuXiang-DanCong _1-a.jpg",
+            "QingCha_FanShuXiang-DanCong _1-b.jpg"
+        ]
+    },
+    {
         "id": "ga2",
         "titre": {
             "en": "Gaiwan 3.4oz",
