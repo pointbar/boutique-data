@@ -1,4 +1,14 @@
 {
+    "Thé": {
+        "titre": {
+            "fr": "茶 Chá",
+            "en": "茶 Chá"
+        },
+        "description": {
+            "fr": "Le thé",
+            "en": "The tea"
+        }
+    },
     "Théière": {
         "titre": {
             "fr": "茶壺 CháHú",
@@ -25,7 +35,7 @@
             "en": "Travel Set"
         },
         "description": {
-            "fr": "Le set de voyage se veut pratique et fonctionnel, il peut se glisser facilement dans vos bagages ou votre sac. Le set de voyage se compose",
+            "fr": "Le set de voyage se veut pratique et fonctionnel, il peut se glisser facilement dans vos bagages ou votre sac. Le set de voyage se compose.",
             "en": "The travel set is practical and functional, it can be easily slipped into your luggage or bag."
         }
     }
