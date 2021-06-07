@@ -1,19 +1,21 @@
 [{
         "id": "lu1",
         "titre": {
-            "en": "十堰茶 - ShíYànChá",
-            "fr": "十堰茶 - ShíYànChá"
+            "en": "一品香 - YīPǐnXiāng",
+            "fr": "一品香 - YīPǐnXiāng"
         },
         "modification": "2021-06-06",
         "création": "2021-06-06",
         "catégorie": "Thé",
         "description": {
-            "en": "十堰茶 - ShíYànChá",
-            "fr": "十堰茶 - ShíYànChá"
+            "en": "This tea, created in 2011, is a variant of the famous 綠寶石 - LǜBǎoShí created by the Mou family and bought by the 貴茶 - GuìChá company. It is particularly sweet. It is a pure and simple green tea, ideal for getting closer to the essence of this tea family.",
+            "fr": "Ce thé, créé en 2011, est une variante du célèbre 綠寶石 - LǜBǎoShí créé par la famille Mou et racheté par la société 貴茶 - GuìChá. Il est particulièrement doux. C’est un thé vert pur et simple, idéal pour se rapprocher de l’essence même de cette famille de thé."
         },
         "prix": 15.00,
         "poids": 0.025,
-        "quantité_produite": 0,
+        "quantité_produite": 4,
+        "altitude": 1000,
+        "producteur": "Famille Mu",
         "type": "LǜChá",
         "village": "十堰 - ShíYàn",
         "province": "湖北 - HúBěi",
@@ -193,20 +195,20 @@
     {
         "id": "hong2",
         "titre": {
-            "en": "",
-            "fr": ""
+            "en": "紅寶石 - HóngBǎoShí",
+            "fr": "紅寶石 - HóngBǎoShí"
         },
         "modification": "2021-06-06",
         "création": "2021-06-06",
         "catégorie": "Thé",
         "description": {
-            "en": "寶石 - BǎoShí",
-            "fr": "寶石 - BǎoShí"
+            "en": "This original tea was created by the Mou family in 2008. Its powerful notes make it a very aromatic tea.",
+            "fr": "Ce thé original a été créé par la famille Mou en 2008. Ses notes puissantes en font un thé très aromatique."
         },
         "prix": 15.00,
         "poids": 0.025,
         "quantité_produite": 4,
-        "producteur": "",
+        "producteur": "Famille Mou",
         "type": "HóngChá",
         "fiche": "BaoShi",
         "village": "",
@@ -274,19 +276,43 @@
     {
         "id": "puer1",
         "titre": {
-            "en": "生普洱 - Shēng Pǔ'ěr - Chan Yue",
-            "fr": "生普洱 - Shēng Pǔ'ěr - Chan Yue"
+            "en": "生普洱 - Shēng Pǔ'ěr - 禅悦 ChánYuè",
+            "fr": "生普洱 - Shēng Pǔ'ěr - 禅悦 ChánYuè"
         },
         "modification": "2021-06-06",
         "création": "2021-06-06",
         "catégorie": "Thé",
         "description": {
             "en": "This 生普洱-Shēng Pǔ'ěr of 白福藏倉-BáiFúCáng Cāng comes from wild tea bushes that are between 300 years old and 1000 years old and grow in areas that are little known to date.",
-            "fr": "Ce 生普洱 - Shēng Pǔ'ěr de 白福藏倉 - BáiFúCáng Cāng est issu de théiers sauvages âgés entre 300 ans et 1000 ans et poussent dans des zones peu connues à ce jour."
+            "fr": "Ce 生普洱 - Shēng Pǔ'ěr de 白福藏倉-BáiFúCáng Cāng est issu de théiers sauvages âgés entre 300 ans et 1000 ans et poussent dans des zones peu connues à ce jour."
         },
         "prix": 100.00,
         "poids": 0.25,
         "quantité_produite": 1,
+        "producteur": "白福藏倉 - BáiFúCáng Cāng",
+        "type": "Shēng Pǔ'ěr",
+        "cultivar": "大葉 - DàYè",
+        "photos": [
+            "PuEr_HeHa_1-a.jpg",
+            "PuEr_HeHa_1-b.jpg"
+        ]
+    },
+    {
+        "id": "hei1",
+        "titre": {
+            "en": "生普洱 - Shēng Pǔ'ěr - 禅悦 ChánYuè",
+            "fr": "生普洱 - Shēng Pǔ'ěr - 禅悦 ChánYuè"
+        },
+        "modification": "2021-06-06",
+        "création": "2021-06-06",
+        "catégorie": "Thé",
+        "description": {
+            "en": "This 生普洱-Shēng Pǔ'ěr of 白福藏倉-BáiFúCáng Cāng comes from wild tea bushes that are between 300 years old and 1000 years old and grow in areas that are little known to date.",
+            "fr": "Ce 生普洱 - Shēng Pǔ'ěr de 白福藏倉-BáiFúCáng Cāng est issu de théiers sauvages âgés entre 300 ans et 1000 ans et poussent dans des zones peu connues à ce jour."
+        },
+        "prix": 100.00,
+        "poids": 0.25,
+        "quantité_produite": 0,
         "producteur": "白福藏倉 - BáiFúCáng Cāng",
         "type": "Shēng Pǔ'ěr",
         "cultivar": "大葉 - DàYè",
