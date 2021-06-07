@@ -1,25 +1,22 @@
 [{
         "id": "lu1",
         "titre": {
-            "en": "",
-            "fr": ""
+            "en": "十堰茶 - ShíYànChá",
+            "fr": "十堰茶 - ShíYànChá"
         },
         "modification": "2021-06-06",
         "création": "2021-06-06",
         "catégorie": "Thé",
         "description": {
-            "en": "",
-            "fr": ""
+            "en": "十堰茶 - ShíYànChá",
+            "fr": "十堰茶 - ShíYànChá"
         },
         "prix": 15.00,
         "poids": 0.025,
-        "quantité_produite": 4,
-        "producteur": "",
+        "quantité_produite": 0,
         "type": "綠茶 - LǜChá",
-        "fiche": "",
-        "village": "",
-        "province": "",
-        "cultivar": "",
+        "village": "十堰 - ShíYàn",
+        "province": "湖北 - HúBěi",
         "photos": [
             "LuCha_ShiYan_1-a.jpg",
             "LuCha_ShiYan_1-b.jpg"
@@ -83,8 +80,8 @@
     {
         "id": "wulong3",
         "titre": {
-            "en": "",
-            "fr": ""
+            "en": "貴妃 - GuìFēi",
+            "fr": "貴妃 - GuìFēi"
         },
         "modification": "2021-06-06",
         "création": "2021-06-06",
@@ -104,9 +101,9 @@
         "province": "臺灣 - Táiwān",
         "cultivar": "",
         "photos": [
-            "QingCha_CuiFei_3-a.jpg",
-            "QingCha_CuiFei_3-b.jpg",
-            "QingCha_CuiFei_3-c.jpg"
+            "QingCha_GuiFei_3-a.jpg",
+            "QingCha_GuiFei_3-b.jpg",
+            "QingCha_GuiFei_3-c.jpg"
         ]
     },
     {
@@ -148,7 +145,7 @@
         "catégorie": "Thé",
         "description": {
             "en": "安溪鐵觀音 - ĀnXī TiěGuānYīn",
-            "fr": ""
+            "fr": "Ce 烏龍 - WūLóng "
         },
         "prix": 15.00,
         "poids": 0.025,
@@ -182,7 +179,7 @@
         "prix": 15.00,
         "poids": 0.025,
         "quantité_produite": 4,
-        "producteur": "",
+        "producteur": "inconnu",
         "type": "紅茶 - HóngChá",
         "fiche": "JinJunMei",
         "village": "武夷 - WǔYí",
