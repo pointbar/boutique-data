@@ -200,15 +200,15 @@
         "création": "2021-06-06",
         "catégorie": "Thé",
         "description": {
-            "en": "",
-            "fr": ""
+            "en": "寶石 - BǎoShí",
+            "fr": "寶石 - BǎoShí"
         },
         "prix": 15.00,
         "poids": 0.025,
         "quantité_produite": 4,
         "producteur": "",
         "type": "HóngChá",
-        "fiche": "",
+        "fiche": "BaoShi",
         "village": "",
         "province": "臺灣 - Táiwān",
         "cultivar": "",
@@ -221,20 +221,20 @@
     {
         "id": "hong3",
         "titre": {
-            "en": "",
-            "fr": ""
+            "en": "蜜香 - MìXiāng",
+            "fr": "蜜香 - MìXiāng"
         },
         "modification": "2021-06-06",
         "création": "2021-06-06",
         "catégorie": "Thé",
         "description": {
-            "en": "",
-            "fr": ""
+            "en": "蜜香 - MìXiāng",
+            "fr": "蜜香 - MìXiāng"
         },
         "prix": 15.00,
         "poids": 0.025,
         "quantité_produite": 4,
-        "producteur": "",
+        "producteur": "M. Huang",
         "type": "HóngChá",
         "fiche": "",
         "village": "",
