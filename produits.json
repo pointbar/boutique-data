@@ -1,10 +1,11 @@
-[{
+[
+    {
         "id": "lu1",
         "titre": {
             "en": "一品香 - YīPǐnXiāng",
             "fr": "一品香 - YīPǐnXiāng"
         },
-        "modification": "2021-06-06",
+        "modification": "2021-06-28",
         "création": "2021-06-06",
         "catégorie": "Thé",
         "description": {
@@ -15,13 +16,80 @@
         "poids": 0.025,
         "quantité_produite": 4,
         "altitude": 1000,
-        "producteur": "Famille Mu",
+        "producteur": "Famille Mou",
         "type": "LǜChá",
         "village": "十堰 - ShíYàn",
         "province": "湖北 - HúBěi",
         "photos": [
-            "LuCha_ShiYan_1-a.jpg",
-            "LuCha_ShiYan_1-b.jpg"
+            "LuCha_YiPingXiang_1-a.jpg",
+            "LuCha_YiPingXiang_1-b.jpg",
+            "LuCha_YiPingXiang_1-c.jpg",
+            "LuCha_YiPingXiang_1-d.jpg",
+            "LuCha_YiPingXiang_1-e.jpg",
+            "LuCha_YiPingXiang_1-f.jpg",
+            "LuCha_YiPingXiang_1-g.jpg"
+        ]
+    },
+    {
+        "id": "lu2",
+        "titre": {
+            "en": "都匀毛尖 - DuYum MaoJian",
+            "fr": "都匀毛尖 - DuYum MaoJian"
+        },
+        "modification": "2021-06-28",
+        "création": "2021-06-28",
+        "catégorie": "Thé",
+        "description": {
+            "en": "This tea one of the iconic teas of 貴州 - GuìZhōu. Miss 螺 - Luó has tea bushes that she planted herself, but also wild tea bushes, growing on extremely healthy land in a breathtaking landscape. This tea is from those wild tea bushes.",
+            "fr": "Ce thé l’un des thés emblématiques du 貴州 - GuìZhōu. Mademoiselle 螺 - Luó possède des théiers qu’elle a elle-même plantés, mais aussi des théiers sauvages, poussant sur des terres extrêmement saines dans un paysage à couper le souffle. Ce thé est issu des théiers sauvages de ses parcelles."
+        },
+        "prix": 15.00,
+        "poids": 0.025,
+        "quantité_produite": 4,
+        "altitude": 1000,
+        "producteur": "Mademoiselle Luó",
+        "type": "LǜChá",
+        "village": "",
+        "province": "貴州 - GuìZhōu",
+        "photos": [
+            "LuCha_DuYumMaoJian_1-a.jpg",
+            "LuCha_DuYumMaoJian_1-b.jpg",
+            "LuCha_DuYumMaoJian_1-c.jpg",
+            "LuCha_DuYumMaoJian_1-d.jpg",
+            "LuCha_DuYumMaoJian_1-e.jpg",
+            "LuCha_DuYumMaoJian_1-f.jpg",
+            "LuCha_DuYumMaoJian_1-g.jpg",
+            "LuCha_DuYumMaoJian_1-h.jpg",
+            "LuCha_DuYumMaoJian_1-i.jpg",
+            "LuCha_DuYumMaoJian_1-j.jpg"
+        ]
+    },
+    {
+        "id": "lu3",
+        "titre": {
+            "en": "供芽 - Gōng yá",
+            "fr": "供芽 - Gōng yá"
+        },
+        "modification": "2021-06-28",
+        "création": "2021-06-28",
+        "catégorie": "Thé",
+        "description": {
+            "en": "This tea is harvested and prepared in the three days before 清明节 - Qīngmíngjié, April 4th, by Madame 问 - Wèn of the TuJia Taoist ethnic group. QingMingJie is the day of the annual visit to the ancestors' tombs by the families. It is lightly fired on traditional kilns, which allows it to develop its flavours while keeping the qualities of bud teas.",
+            "fr": "Ce thé est récolté et fabriqué dans les trois jours précédants 清明节 - Qīngmíngjié, le 4 avril, par Madame 问 - Wèn de l’ethnie taoïste TuJia. QingMingJie est le jour de la visite annuelle des tombes des ancêtres par les familles. Il est légèrement cuit sur des fours traditionnels, ce qui lui permet de développer ses arômes tout en gardant les qualités des thés en bourgeon."
+        },
+        "prix": 15.00,
+        "poids": 0.025,
+        "quantité_produite": 4,
+        "altitude": 1000,
+        "producteur": "Madame Wèn",
+        "type": "LǜChá",
+        "village": "",
+        "province": "湖北 - Húběi",
+        "photos": [
+            "LuCha_GongYa_1-a.jpg",
+            "LuCha_GongYa_1-b.jpg",
+            "LuCha_GongYa_1-c.jpg",
+            "LuCha_GongYa_1-d.jpg"
         ]
     },
     {
