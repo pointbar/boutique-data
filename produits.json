@@ -1,5 +1,33 @@
 [
     {
+        "id": "bai1",
+        "titre": {
+            "en": "老白茶 - Lǎo BáiChá",
+            "fr": "老白茶 - Lǎo BáiChá"
+        },
+        "modification": "2021-06-28",
+        "création": "2021-06-28",
+        "catégorie": "Thé",
+        "description": {
+            "en": "This white tea is made by the 牟 - Móu family. The term 老白茶, meaning old white tea, is used to describe a white tea that has been allowed to age for at least 10 years before being released to the market. During the aging process, the tea's aromas and medicinal properties develop into the exceptional characteristics that tea lovers seek.",
+            "fr": "Ce thé blanc est fabriqué par la famille 牟 - Móu. Le terme 老白茶, qui signifie vieux thé blanc, est utilisé pour décrire un thé blanc que l’on a laissé vieillir pendant au moins 10 ans avant de le mettre sur le marché. Durant la maturation, les arômes ainsi que les propriétés médicinales du thé se développent pour donner les caractéristiques exceptionnelles recherchées par les amateurs."
+        },
+        "prix": 15.00,
+        "poids": 0.025,
+        "quantité_produite": 4,
+        "altitude": 1000,
+        "producteur": "Famille Móu",
+        "type": "BáiChá",
+        "village": "",
+        "province": "贵州 - Guìzhōu",
+        "photos": [
+            "BaiCha_Lao_1-a.jpg",
+            "BaiCha_Lao_1-b.jpg",
+            "BaiCha_Lao_1-c.jpg",
+            "BaiCha_Lao_2-d.jpg"
+        ]
+    },
+    {
         "id": "lu1",
         "titre": {
             "en": "一品香 - YīPǐnXiāng",
@@ -9,17 +37,17 @@
         "création": "2021-06-06",
         "catégorie": "Thé",
         "description": {
-            "en": "This tea, created in 2011, is a variant of the famous 綠寶石 - LǜBǎoShí created by the Mou family and bought by the 貴茶 - GuìChá company. It is particularly sweet. It is a pure and simple green tea, ideal for getting closer to the essence of this tea family.",
-            "fr": "Ce thé, créé en 2011, est une variante du célèbre 綠寶石 - LǜBǎoShí créé par la famille Mou et racheté par la société 貴茶 - GuìChá. Il est particulièrement doux. C’est un thé vert pur et simple, idéal pour se rapprocher de l’essence même de cette famille de thé."
+            "en": "This tea, created in 2011, is a variant of the famous 綠寶石 - LǜBǎoShí created by the 牟 - Móu family and bought by the 貴茶 - GuìChá company. It is particularly sweet. It is a pure and simple green tea, ideal for getting closer to the essence of this tea family.",
+            "fr": "Ce thé, créé en 2011, est une variante du célèbre 綠寶石 - LǜBǎoShí créé par la famille 牟 - Móu et racheté par la société 貴茶 - GuìChá. Il est particulièrement doux. C’est un thé vert pur et simple, idéal pour se rapprocher de l’essence même de cette famille de thé."
         },
         "prix": 15.00,
         "poids": 0.025,
         "quantité_produite": 4,
         "altitude": 1000,
-        "producteur": "Famille Mou",
+        "producteur": "Famille Móu",
         "type": "LǜChá",
-        "village": "十堰 - ShíYàn",
-        "province": "湖北 - HúBěi",
+        "village": "",
+        "province": "贵州 - Guìzhōu",
         "photos": [
             "LuCha_YiPingXiang_1-a.jpg",
             "LuCha_YiPingXiang_1-b.jpg",
@@ -40,7 +68,7 @@
         "création": "2021-06-28",
         "catégorie": "Thé",
         "description": {
-            "en": "This tea one of the iconic teas of 貴州 - GuìZhōu. Miss 螺 - Luó has tea bushes that she planted herself, but also wild tea bushes, growing on extremely healthy land in a breathtaking landscape. This tea is from those wild tea bushes.",
+            "en": "This tea is one of the iconic teas of 貴州 - GuìZhōu. Miss 螺 - Luó has tea bushes that she planted herself, but also wild tea bushes, growing on extremely healthy land in a breathtaking landscape. This tea is from those wild tea bushes.",
             "fr": "Ce thé l’un des thés emblématiques du 貴州 - GuìZhōu. Mademoiselle 螺 - Luó possède des théiers qu’elle a elle-même plantés, mais aussi des théiers sauvages, poussant sur des terres extrêmement saines dans un paysage à couper le souffle. Ce thé est issu des théiers sauvages de ses parcelles."
         },
         "prix": 15.00,
