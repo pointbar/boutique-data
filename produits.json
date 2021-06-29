@@ -1,4 +1,5 @@
-[{
+[
+    {
         "id": "bai1",
         "titre": {
             "en": "老白茶 - Lǎo BáiChá",
@@ -114,7 +115,8 @@
             "LuCha_GongYa_1-a.jpg",
             "LuCha_GongYa_1-b.jpg",
             "LuCha_GongYa_1-c.jpg",
-            "LuCha_GongYa_1-d.jpg"
+            "LuCha_GongYa_1-d.jpg",
+            "LuCha_GongYa_1-e.jpg"
         ]
     },
     {
