@@ -1,5 +1,4 @@
-[
-    {
+[{
         "id": "bai1",
         "titre": {
             "en": "老白茶 - Lǎo BáiChá",
@@ -270,8 +269,8 @@
         "création": "2021-06-06",
         "catégorie": "Thé",
         "description": {
-            "en": "",
-            "fr": ""
+            "en": "This 金駿眉 - JīnJùnMéi is a perfect representative of 紅茶 - HóngChá (red teas). It is exclusively composed of buds. It was harvested in late March 2021 in the village of 桐木關 - TóngMùGuān.",
+            "fr": "Ce 金駿眉 - JīnJùnMéi est un parfait représentant des 紅茶 - HóngChá (thés rouges). Il est exclusivement composés de bourgeons. La récolte a été réalisée fin mars 2021 dans le village de 桐木關 - TóngMùGuān."
         },
         "prix": 15.00,
         "poids": 0.025,
