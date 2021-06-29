@@ -1,5 +1,4 @@
-[
-    {
+[{
         "id": "bai1",
         "titre": {
             "en": "老白茶 - Lǎo BáiChá",
@@ -69,13 +68,13 @@
         "catégorie": "Thé",
         "description": {
             "en": "This tea is one of the iconic teas of 貴州 - GuìZhōu. Miss 螺 - Luó has tea bushes that she planted herself, but also wild tea bushes, growing on extremely healthy land in a breathtaking landscape. This tea is from those wild tea bushes.",
-            "fr": "Ce thé l’un des thés emblématiques du 貴州 - GuìZhōu. Mademoiselle 螺 - Luó possède des théiers qu’elle a elle-même plantés, mais aussi des théiers sauvages, poussant sur des terres extrêmement saines dans un paysage à couper le souffle. Ce thé est issu des théiers sauvages de ses parcelles."
+            "fr": "Ce thé l’un des thés emblématiques du 貴州 - GuìZhōu. Madame 螺 - Luó possède des théiers qu’elle a elle-même plantés, mais aussi des théiers sauvages, poussant sur des terres extrêmement saines dans un paysage à couper le souffle. Ce thé est issu des théiers sauvages de ses parcelles."
         },
         "prix": 15.00,
         "poids": 0.025,
         "quantité_produite": 4,
         "altitude": 1000,
-        "producteur": "Mademoiselle Luó",
+        "producteur": "Madame Luó",
         "type": "LǜChá",
         "village": "",
         "province": "貴州 - GuìZhōu",
@@ -102,8 +101,8 @@
         "création": "2021-06-28",
         "catégorie": "Thé",
         "description": {
-            "en": "This tea is harvested and prepared in the three days before 清明节 - Qīngmíngjié, April 4th, by Madame 问 - Wèn of the TuJia Taoist ethnic group. QingMingJie is the day of the annual visit to the ancestors' tombs by the families. It is lightly fired on traditional kilns, which allows it to develop its flavours while keeping the qualities of bud teas.",
-            "fr": "Ce thé est récolté et fabriqué dans les trois jours précédants 清明节 - Qīngmíngjié, le 4 avril, par Madame 问 - Wèn de l’ethnie taoïste TuJia. QingMingJie est le jour de la visite annuelle des tombes des ancêtres par les familles. Il est légèrement cuit sur des fours traditionnels, ce qui lui permet de développer ses arômes tout en gardant les qualités des thés en bourgeon."
+            "en": "This tea is harvested and prepared in the three days before 清明节 - QīngMíngJié, April 4th, by Madame 问 - Wèn of the TuJia Taoist ethnic group. QingMingJie is the day of the annual visit to the ancestors' tombs by the families. It is lightly fired on traditional kilns, which allows it to develop its flavours while keeping the qualities of bud teas.",
+            "fr": "Ce thé est récolté et fabriqué dans les trois jours précédant 清明节 - QīngMíngJié, le 4 avril, par Madame 问 - Wèn de l’ethnie taoïste TuJia. QingMingJie est le jour de la visite annuelle des tombes des ancêtres par les familles. Il est légèrement cuit sur des fours traditionnels, ce qui lui permet de développer ses arômes tout en gardant les qualités des thés en bourgeon."
         },
         "prix": 15.00,
         "poids": 0.025,
@@ -242,8 +241,8 @@
         "création": "2021-06-06",
         "catégorie": "Thé",
         "description": {
-            "en": "安溪鐵觀音 - ĀnXī TiěGuānYīn",
-            "fr": "Ce 烏龍 - WūLóng "
+            "en": "This 烏龍 - WūLóng was harvested by hand in April 2021. It is an exceptional tea, with each harvest not exceeding 90 pounds. It is unroasted, very green, floral and reminiscent of lily of the valley. Some TiěGuānYīn can tend to be exuberant, heady, this one charms us with its discretion, finesse and humility. We do not personally know the person who produces this tea.",
+            "fr": "Ce 烏龍 - WūLóng a été récolté à la main au mois d'avril 2021. C'est un thé d'exception, chaque récolte ne dépassant pas les 40 Kg. Il n'est pas torréfié, il est très vert, floral et fait penser à une fleur à clochettes que l'on trouve souvent aux premiers jours de mai. Certains TiěGuānYīn peuvent avoir tendance à être exubérant, capiteux, celui-ci nous charme par sa discrétion, sa finesse et son humilité. Nous ne connaissons pas personnellement la personne qui produit ce thé."
         },
         "prix": 15.00,
         "poids": 0.025,
