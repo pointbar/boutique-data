@@ -296,17 +296,18 @@
         "création": "2021-06-06",
         "catégorie": "Thé",
         "description": {
-            "en": "This original tea was created by the 牟 - Móu family in 2008. Its powerful notes make it a very aromatic tea.",
-            "fr": "Ce thé original a été créé par la famille 牟 - Móu en 2008. Ses notes puissantes en font un thé très aromatique."
+            "en": "This original ruby tea was created by the 牟 - Móu family in 2008. Its powerful notes make it a very aromatic tea.",
+            "fr": "Ce thé rubis original a été créé par la famille 牟 - Móu en 2008. Ses notes puissantes en font un thé très aromatique."
         },
         "prix": 15.00,
         "poids": 0.025,
         "quantité_produite": 4,
+        "altitude": 1000,
         "producteur": "Famille Mou",
         "type": "HóngChá",
         "fiche": "BaoShi",
         "village": "",
-        "province": "臺灣 - Táiwān",
+        "province": "貴州 - GuìZhōu",
         "cultivar": "",
         "photos": [
             "HongCha_BaoShi_2-a.jpg",
@@ -324,8 +325,8 @@
         "création": "2021-06-06",
         "catégorie": "Thé",
         "description": {
-            "en": "蜜香 - MìXiāng",
-            "fr": "蜜香 - MìXiāng"
+            "en": "This 蜜香 - MìXiāng is a very aromatic red tea, produced by Mr Huang in north Taïwan.",
+            "fr": "Ce 蜜香 - MìXiāng est un thé rouge très aromatique, produit par M. Huang, au nord de Taïwan."
         },
         "prix": 15.00,
         "poids": 0.025,
@@ -499,8 +500,8 @@
             "fr": "Le compagnon de voyage idéal avec sa housse de protection, son Gaiwan, son ChaHai et ses trois tasses."
         },
         "prix": 58.00,
-        "poids": 0.3,
-        "quantité_produite": 1,
+        "poids": 0.470,
+        "quantité_produite": 16,
         "photos": [
             "set-de-voyage_1-a.jpg",
             "set-de-voyage_1-b.jpg",
