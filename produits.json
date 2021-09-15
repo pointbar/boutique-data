@@ -393,27 +393,28 @@
         ]
     },
     {
-        "id": "hei1",
+        "id": "puer2",
         "titre": {
-            "en": "生普洱 - Shēng Pǔ'ěr - 禅悦 ChánYuè",
-            "fr": "生普洱 - Shēng Pǔ'ěr - 禅悦 ChánYuè"
+            "en": "普洱 - Pǔ'ěr - 茶化石 - ChaHuaShi",
+            "fr": "普洱 - Pǔ'ěr - 茶化石 - ChaHuaShi"
         },
-        "modification": "2021-06-06",
+        "modification": "2021-09-15",
         "création": "2021-06-06",
         "catégorie": "Thé",
         "description": {
-            "en": "This 生普洱-Shēng Pǔ'ěr of 白福藏倉-BáiFúCáng Cāng comes from wild tea bushes that are between 300 years old and 1000 years old and grow in areas that are little known to date.",
-            "fr": "Ce 生普洱 - Shēng Pǔ'ěr de 白福藏倉-BáiFúCáng Cāng est issu de théiers sauvages âgés entre 300 ans et 1000 ans et poussent dans des zones peu connues à ce jour."
+            "en": "This 茶化石 - ChaHuaShi is the only fossil tea of the brand, marking the originality from other Pǔ'ěr. This very rare tea is worked to obtain a shape of small pebbles, which do not reveal the leaves and buds during infusion.",
+            "fr": "Ce 茶化石 - ChaHuaShi est le seul thé fossile de la marque, marquant l’originalité d’avec les autres Pǔ'ěr. Ce thé très rare est travaillé afin d'obtenir une forme de petits cailloux, qui ne révèlent pas les feuilles et bourgeons à l’infusion."
         },
         "prix": 100.00,
-        "poids": 0.25,
-        "quantité_produite": 0,
-        "producteur": "白福藏倉 - BáiFúCáng Cāng",
-        "type": "Shēng Pǔ'ěr",
-        "cultivar": "大葉 - DàYè",
+        "poids": 0.15,
+        "quantité_produite": 2,
+        "producteur": " - LongYuanHao",
+        "province": " - XiShuangBanNa",
+        "type": "Pǔ'ěr",
         "photos": [
-            "PuEr_HeHa_1-a.jpg",
-            "PuEr_HeHa_1-b.jpg"
+            "PuEr_ChaHuaShi_1-a.jpg",
+            "PuEr_ChaHuaShi_1-b.jpg",
+            "PuEr_ChaHuaShi_1-c.jpg"
         ]
     },
     {
