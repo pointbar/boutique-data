@@ -402,15 +402,15 @@
         "création": "2021-06-06",
         "catégorie": "Thé",
         "description": {
-            "en": "This 茶化石 - ChaHuaShi is the only fossil tea of the brand, marking the originality from other Pǔ'ěr. This very rare tea is worked to obtain a shape of small pebbles, which do not reveal the leaves and buds during infusion.",
-            "fr": "Ce 茶化石 - ChaHuaShi est le seul thé fossile de la marque, marquant l’originalité d’avec les autres Pǔ'ěr. Ce thé très rare est travaillé afin d'obtenir une forme de petits cailloux, qui ne révèlent pas les feuilles et bourgeons à l’infusion."
+            "en": "This 茶化石 - ChaHuaShi is the only fossil tea of the brand, marking the originality from other cooked Pǔ'ěr. This very rare tea is worked to obtain a shape of small pebbles, which do not reveal the leaves and buds during infusion.",
+            "fr": "Ce 茶化石 - ChaHuaShi est le seul thé fossile de la marque, marquant l’originalité d’avec les autres Pǔ'ěr cuit. Ce thé très rare est travaillé afin d'obtenir une forme de petits cailloux, qui ne révèlent pas les feuilles et bourgeons à l’infusion."
         },
         "prix": 100.00,
         "poids": 0.15,
         "quantité_produite": 2,
-        "producteur": " - LongYuanHao",
-        "province": " - XiShuangBanNa",
-        "type": "Pǔ'ěr",
+        "producteur": "龙园号 - LongYuanHao",
+        "province": "西双版纳州 - XiShuangBanNa",
+        "type": "熟普洱 - Shú Pǔ'ěr",
         "photos": [
             "PuEr_ChaHuaShi_1-a.jpg",
             "PuEr_ChaHuaShi_1-b.jpg",
