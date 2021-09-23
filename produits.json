@@ -420,18 +420,18 @@
     {
         "id": "ga2",
         "titre": {
-            "en": "Gaiwan",
-            "fr": "Gaiwan"
+            "en": "Basic GàiWǎn",
+            "fr": "GàiWǎn basique"
         },
         "modification": "2021-04-10",
         "création": "2021-04-10",
         "catégorie": "Gaiwan",
         "description": {
-            "en": "White basic porcelain gaiwan.",
-            "fr": "Gaïwan basique en porcelaine blanche."
+            "en": "White basic porcelain GàiWǎn.",
+            "fr": "GàiWǎn basique en porcelaine blanche."
         },
         "prix": 8.00,
-        "poids": 0.3,
+        "poids": 0.2,
         "capacité": 100,
         "quantité_produite": 1,
         "photos": [
@@ -469,20 +469,20 @@
     {
         "id": "ga4",
         "titre": {
-            "en": "Gaiwan 3.4oz",
-            "fr": "Gaiwan 10cl"
+            "en": "Glass GàiWǎn",
+            "fr": "GàiWǎn en verre"
         },
         "modification": "2021-04-10",
         "création": "2021-04-10",
         "catégorie": "Gaiwan",
         "description": {
-            "en": "Glass gaiwan. This is not the traditional approach, but it is convenient to witness the spectacle of your brews.",
-            "fr": "Gaïwan en verre. Ce n'est pas l'approche traditionnel, mais c'est pratique pour assister au spectacle de vos infusions."
+            "en": "Glass GàiWǎn. This is not the traditional approach, but it is convenient to witness the spectacle of your brews.",
+            "fr": "GàiWǎn en verre. Ce n'est pas l'approche traditionnel, mais c'est pratique pour assister au spectacle de vos infusions."
         },
         "prix": 10.00,
-        "poids": 0.3,
+        "poids": 0.2,
         "quantité_produite": 1,
-        "capacité": 120,
+        "capacité": 100,
         "photos": [
             "gaiwan_3-a.jpg",
             "gaiwan_3-b.jpg",
@@ -492,18 +492,19 @@
     {
         "id": "sdv2",
         "titre": {
-            "en": "Travel set 3.4oz",
-            "fr": "Set de voyage 10cl"
+            "en": "Travel set",
+            "fr": "Set de voyage"
         },
         "modification": "2021-04-10",
         "création": "2021-04-10",
         "catégorie": "Set de voyage",
         "description": {
-            "en": "The perfect travel companion with its protective cover, Gaiwan, ChaHai and three cups.",
-            "fr": "Le compagnon de voyage idéal avec sa housse de protection, son Gaiwan, son ChaHai et ses trois tasses."
+            "en": "This beginners kit includes the essentiels to prepare authentic tea : a 蓋碗 - GàiWǎn, a 茶海 - CháHǎi and three tea bowls (茶杯 - CháBēi). It is the perfect travel companion thanks to its protective cover.",
+            "fr": "Ce kit de démarrage comprend les éléments essentiels à la préparation du thé authentique : un 蓋碗 - GàiWǎn, un 茶海 - CháHǎi et trois bols à thé (茶杯 - CháBēi). C'est aussi le compagnon de voyage idéal grâce à sa housse de protection."
         },
         "prix": 45.00,
         "poids": 0.470,
+        "capacité": 110,
         "quantité_produite": 16,
         "photos": [
             "set-de-voyage_1-a.jpg",
@@ -527,7 +528,7 @@
             "fr": "Les théières 湯瓶 - TāngPíng sont nées en Chine pendant la dynastie Song (960-1279). C'est au Japon qu'elles ont connu leurs évolutions sous le terme de 横手急須 - Yokode Kyūsu. Sa caractéristique emblématique est qu'elle possède une poignée latérale. L'argile riche en minéraux adoucit le thé en limitant l'astringence. Cette théière a été cuite à haute température, puis un glaçage au sable est appliqué."
         },
         "prix": 36.00,
-        "poids": 0.3,
+        "poids": 0.4,
         "dimension": {
             "largeur": 18,
             "hauteur": 7.5
@@ -554,7 +555,7 @@
             "fr": "Les poteries de NíXìng sont uniques car elles obtiennent une coloration complexe et tachetée pendant la cuisson. Elles sont fabriquées en mélangeant l'argile des deux rives de la rivière 欽江 - QīnJiāng. La couleur change dans le four en évoluant du brun bronze au gris-bleu, rendant chaque pièce unique."
         },
         "prix": 169.00,
-        "poids": 0.3,
+        "poids": 0.4,
         "dimension": {
             "largeur": 11.8,
             "hauteur": 7.2
@@ -582,7 +583,7 @@
             "fr": "Petite théière en argile non émaillée, interagissant avec le thé. Il est conseillé d'utiliser cette théière pour une seule famille de thé."
         },
         "prix": 132.00,
-        "poids": 0.3,
+        "poids": 0.4,
         "quantité_produite": 1,
         "photos": [
             "theiere_3-a.jpg",
@@ -605,7 +606,7 @@
             "fr": "Petite théière en argile non émaillée, interagissant avec le thé. Il est conseillé d'utiliser cette théière pour une seule famille de thé."
         },
         "prix": 132.00,
-        "poids": 0.3,
+        "poids": 0.4,
         "quantité_produite": 1,
         "photos": [
             "theiere_4-a.jpg",
@@ -628,7 +629,7 @@
             "fr": "Cette théière, réalisée par l'artiste 下彩虹 XiàCǎiHóng, est composée de deux argiles, l'une violette et l'autre noire."
         },
         "prix": 89.00,
-        "poids": 0.3,
+        "poids": 0.4,
         "quantité_produite": 1,
         "capacité": 130,
         "photos": [
@@ -649,8 +650,8 @@
         "création": "2021-07-02",
         "catégorie": "Théière",
         "description": {
-            "en": "With a capacity of two cups, this delightful, tiny teapot is the smallest conceivable for sharing tea. The 扁西施 - BiǎnXīShī shape is among the classics of Chinese tradition. It was made in 臺灣 - TáiWān in 半手工 - BànShǒuGōng mode, that is, semi-manual, using molds, it is made of purple clay - 紫泥 ZǐNí.",
-            "fr": "D'une capacité de deux tasses, cette ravissante et minuscule théière est la plus petite envisageable pour partager un thé. La forme 扁西施 - BiǎnXīShī fait partie des classiques de la tradition chinoise. Elle a été fabriquée à 臺灣 - TáiWān en mode 半手工 - BànShǒuGōng, c'est à dire semi-manuelle, à l'aide de moules, elle est en argile pourpre - 紫泥 ZǐNí."
+            "en": "With a capacity of two tea bowls, this delightful, tiny teapot is the smallest conceivable for sharing tea. The 扁西施 - BiǎnXīShī shape is among the classics of Chinese tradition. It was made in 臺灣 - TáiWān in 半手工 - BànShǒuGōng mode, that is, semi-manual, using molds, it is made of purple clay - 紫泥 ZǐNí.",
+            "fr": "D'une capacité de deux bols à thé, cette ravissante et minuscule théière est la plus petite envisageable pour partager un thé. La forme 扁西施 - BiǎnXīShī fait partie des classiques de la tradition chinoise. Elle a été fabriquée à 臺灣 - TáiWān en mode 半手工 - BànShǒuGōng, c'est à dire semi-manuelle, à l'aide de moules, elle est en argile pourpre - 紫泥 ZǐNí."
         },
         "prix": 40.00,
         "quantité_produite": 1,
@@ -675,7 +676,7 @@
             "fr": "Petite théière en argile non émaillée, interagissant avec le thé. Il est conseillé d'utiliser cette théière pour une seule famille de thé."
         },
         "prix": 132.00,
-        "poids": 0.3,
+        "poids": 0.4,
         "quantité_produite": 1,
         "photos": [
             "theiere_7-a.jpg",
@@ -700,7 +701,7 @@
             "fr": "Petite théière en argile non émaillée, interagissant avec le thé. Il est conseillé d'utiliser cette théière pour une seule famille de thé."
         },
         "prix": 132.00,
-        "poids": 0.3,
+        "poids": 0.4,
         "quantité_produite": 1,
         "photos": [
             "theiere_8-a.jpg",
@@ -725,7 +726,7 @@
             "fr": "Petite théière en argile non émaillée, interagissant avec le thé. Il est conseillé d'utiliser cette théière pour une seule famille de thé."
         },
         "prix": 132.00,
-        "poids": 0.3,
+        "poids": 0.4,
         "quantité_produite": 1,
         "photos": [
             "theiere_9-a.jpg",
@@ -750,7 +751,7 @@
             "fr": "Petite théière en argile non émaillée, interagissant avec le thé. Il est conseillé d'utiliser cette théière pour une seule famille de thé."
         },
         "prix": 132.00,
-        "poids": 0.3,
+        "poids": 0.4,
         "quantité_produite": 1,
         "photos": [
             "theiere_10-a.jpg",
@@ -762,18 +763,19 @@
     {
         "id": "manontas1",
         "titre": {
-            "en": "Teacup",
-            "fr": "Tasse"
+            "en": "茶杯 - CháBēi (small tea bowl)",
+            "fr": "茶杯 - CháBēi (petit bol à thé)"
         },
         "modification": "2021-09-08",
         "création": "2021-09-08",
         "catégorie": "Manon Clouzeau",
         "description": {
-            "en": "Glazed teacup. Unique piece.",
-            "fr": "Tasse à thé émaillée. Pièce unique."
+            "en": "Glazed 茶杯 - CháBēi. Unique piece.",
+            "fr": "茶杯 - CháBēi émaillé. Pièce unique."
         },
         "prix": 15.00,
-        "poids": 0.3,
+        "poids": 0.04,
+        "capacité": 60,
         "quantité_produite": 1,
         "photos": [
             "manon_tasse_1-a.jpg",
@@ -783,18 +785,19 @@
     {
         "id": "manontas2",
         "titre": {
-            "en": "Teacup",
-            "fr": "Tasse"
+            "en": "茶杯 - CháBēi (small tea bowl)",
+            "fr": "茶杯 - CháBēi (petit bol à thé)"
         },
         "modification": "2021-09-08",
         "création": "2021-09-08",
         "catégorie": "Manon Clouzeau",
         "description": {
-            "en": "Glazed teacup. Unique piece.",
-            "fr": "Tasse à thé émaillée. Pièce unique."
+            "en": "Glazed 茶杯 - CháBēi. Unique piece.",
+            "fr": "茶杯 - CháBēi émaillé. Pièce unique."
         },
         "prix": 15.00,
-        "poids": 0.3,
+        "poids": 0.04,
+        "capacité": 60,
         "quantité_produite": 1,
         "photos": [
             "manon_tasse_2-a.jpg"
@@ -803,18 +806,19 @@
     {
         "id": "manontas3",
         "titre": {
-            "en": "Teacup",
-            "fr": "Tasse"
+            "en": "茶杯 - CháBēi (small tea bowl)",
+            "fr": "茶杯 - CháBēi (petit bol à thé)"
         },
         "modification": "2021-09-08",
         "création": "2021-09-08",
         "catégorie": "Manon Clouzeau",
         "description": {
-            "en": "Glazed teacup. Unique piece.",
-            "fr": "Tasse à thé émaillée. Pièce unique."
+            "en": "Glazed 茶杯 - CháBēi. Unique piece.",
+            "fr": "茶杯 - CháBēi émaillé. Pièce unique."
         },
         "prix": 15.00,
-        "poids": 0.3,
+        "poids": 0.04,
+        "capacité": 60,
         "quantité_produite": 1,
         "photos": [
             "manon_tasse_3-a.jpg",
@@ -824,18 +828,19 @@
     {
         "id": "manontas4",
         "titre": {
-            "en": "Teacup",
-            "fr": "Tasse"
+            "en": "茶杯 - CháBēi (small tea bowl)",
+            "fr": "茶杯 - CháBēi (petit bol à thé)"
         },
         "modification": "2021-09-08",
         "création": "2021-09-08",
         "catégorie": "Manon Clouzeau",
         "description": {
-            "en": "Glazed teacup. Unique piece.",
-            "fr": "Tasse à thé émaillée. Pièce unique."
+            "en": "Glazed 茶杯 - CháBēi. Unique piece.",
+            "fr": "茶杯 - CháBēi émaillé. Pièce unique."
         },
         "prix": 15.00,
-        "poids": 0.3,
+        "poids": 0.04,
+        "capacité": 60,
         "quantité_produite": 1,
         "photos": [
             "manon_tasse_4-a.jpg",
@@ -845,18 +850,19 @@
     {
         "id": "manontas5",
         "titre": {
-            "en": "Teacup",
-            "fr": "Tasse"
+            "en": "茶杯 - CháBēi (small tea bowl)",
+            "fr": "茶杯 - CháBēi (petit bol à thé)"
         },
         "modification": "2021-09-08",
         "création": "2021-09-08",
         "catégorie": "Manon Clouzeau",
         "description": {
-            "en": "Glazed teacup. Unique piece.",
-            "fr": "Tasse à thé émaillée. Pièce unique."
+            "en": "Glazed 茶杯 - CháBēi. Unique piece.",
+            "fr": "茶杯 - CháBēi émaillé. Pièce unique."
         },
         "prix": 15.00,
-        "poids": 0.3,
+        "poids": 0.04,
+        "capacité": 60,
         "quantité_produite": 1,
         "photos": [
             "manon_tasse_5-a.jpg",
@@ -866,18 +872,19 @@
     {
         "id": "manontas6",
         "titre": {
-            "en": "Teacup",
-            "fr": "Tasse"
+            "en": "茶杯 - CháBēi (small tea bowl)",
+            "fr": "茶杯 - CháBēi (petit bol à thé)"
         },
         "modification": "2021-09-08",
         "création": "2021-09-08",
         "catégorie": "Manon Clouzeau",
         "description": {
-            "en": "Glazed teacup. Unique piece.",
-            "fr": "Tasse à thé émaillée. Pièce unique."
+            "en": "Glazed 茶杯 - CháBēi. Unique piece.",
+            "fr": "茶杯 - CháBēi émaillé. Pièce unique."
         },
         "prix": 15.00,
-        "poids": 0.3,
+        "poids": 0.04,
+        "capacité": 60,
         "quantité_produite": 1,
         "photos": [
             "manon_tasse_6-a.jpg",
@@ -894,11 +901,12 @@
         "création": "2021-09-08",
         "catégorie": "Manon Clouzeau",
         "description": {
-            "en": "Large lazed bowl. Unique piece.",
+            "en": "Large glazed bowl. Unique piece.",
             "fr": "Grand bol émaillé. Pièce unique."
         },
         "prix": 60.00,
         "poids": 0.4,
+        "capacité": 800,
         "quantité_produite": 1,
         "photos": [
             "manon_bol_1-a.jpg",
@@ -920,6 +928,7 @@
         },
         "prix": 60.00,
         "poids": 0.4,
+        "capacité": 800,
         "quantité_produite": 1,
         "photos": [
             "manon_bol_2-a.jpg",
@@ -942,6 +951,7 @@
         },
         "prix": 60.00,
         "poids": 0.4,
+        "capacité": 800,
         "quantité_produite": 1,
         "photos": [
             "manon_bol_3-a.jpg",
@@ -963,6 +973,7 @@
         },
         "prix": 60.00,
         "poids": 0.4,
+        "capacité": 800,
         "quantité_produite": 1,
         "photos": [
             "manon_bol_4-a.jpg",
@@ -972,18 +983,19 @@
     {
         "id": "manonga1",
         "titre": {
-            "en": "Gaiwan",
-            "fr": "Gaiwan"
+            "en": "GàiWǎn",
+            "fr": "GàiWǎn"
         },
         "modification": "2021-09-08",
         "création": "2021-09-08",
         "catégorie": "Manon Clouzeau",
         "description": {
-            "en": "Glazed gaiwan. Unique piece.",
-            "fr": "Gaiwan émaillé. Pièce unique."
+            "en": "Glazed GàiWǎn. Unique piece.",
+            "fr": "GàiWǎn émaillé. Pièce unique."
         },
         "prix": 55.00,
-        "poids": 0.41,
+        "poids": 0.12,
+        "capacité": 140,
         "quantité_produite": 1,
         "photos": [
             "manon_gaiwan_1-a.jpg",
@@ -995,15 +1007,15 @@
     {
         "id": "manonga2",
         "titre": {
-            "en": "Gaiwan",
-            "fr": "Gaiwan"
+            "en": "GàiWǎn",
+            "fr": "GàiWǎn"
         },
         "modification": "2021-09-08",
         "création": "2021-09-08",
         "catégorie": "Manon Clouzeau",
         "description": {
-            "en": "Glazed gaiwan. Unique piece.",
-            "fr": "Gaiwan émaillé. Pièce unique."
+            "en": "Glazed GàiWǎn. Unique piece.",
+            "fr": "GàiWǎn émaillé. Pièce unique."
         },
         "prix": 55.00,
         "poids": 0.41,
@@ -1016,15 +1028,15 @@
     {
         "id": "manonga3",
         "titre": {
-            "en": "Gaiwan",
-            "fr": "Gaiwan"
+            "en": "GàiWǎn",
+            "fr": "GàiWǎn"
         },
         "modification": "2021-09-08",
         "création": "2021-09-08",
         "catégorie": "Manon Clouzeau",
         "description": {
-            "en": "Glazed gaiwan. Unique piece.",
-            "fr": "Gaiwan émaillé. Pièce unique."
+            "en": "Glazed GàiWǎn. Unique piece.",
+            "fr": "Gaiwan GàiWǎn. Pièce unique."
         },
         "prix": 55.00,
         "poids": 0.41,
@@ -1038,18 +1050,19 @@
     {
         "id": "manonver1",
         "titre": {
-            "en": "Tea serving pot",
-            "fr": "Verseuse"
+            "en": "茶杯 - CháBēi (Tea serving pot)",
+            "fr": "茶杯 - CháBēi (Verseuse)"
         },
         "modification": "2021-09-08",
         "création": "2021-09-08",
         "catégorie": "Manon Clouzeau",
         "description": {
-            "en": "Glazed tea serving pot. Unique piece.",
-            "fr": "Verseuse émaillée. Pièce unique."
+            "en": "CháBēi, Glazed tea serving pot. Unique piece.",
+            "fr": "CháBēi, verseuse émaillée. Pièce unique."
         },
         "prix": 30.00,
-        "poids": 0.41,
+        "poids": 0.074,
+        "capacité": 180,
         "quantité_produite": 1,
         "photos": [
             "manon_verseuse_1-a.jpg",
@@ -1067,11 +1080,12 @@
         "création": "2021-09-08",
         "catégorie": "Manon Clouzeau",
         "description": {
-            "en": "Glazed tea set with one gaiwan, one tea serving pot and two teacups. Unique pieces.",
-            "fr": "Set à thé émaillé comprenant un gaiwan, une verseuse et deux tasses. Pièces uniques."
+            "en": "Glazed tea set with a 蓋碗 - GàiWǎn, a 茶海 - CháHǎi et two bowls (茶杯 - CháBēi). Unique pieces.",
+            "fr": "Set à thé émaillé comprenant un 蓋碗 - GàiWǎn, un 茶海 - CháHǎi et deux bols à thé (茶杯 - CháBēi). Pièces uniques."
         },
         "prix": 90.00,
-        "poids": 0.41,
+        "poids": 0.17,
+        "capacité": "56",
         "quantité_produite": 1,
         "photos": [
             "manon_set_1-a.jpg",
@@ -1089,11 +1103,12 @@
         "création": "2021-09-08",
         "catégorie": "Manon Clouzeau",
         "description": {
-            "en": "Glazed tea set with one gaiwan and one teacup. Unique pieces.",
-            "fr": "Set à thé émaillé comprenant un gaiwan et une tasse. Pièces uniques."
+            "en": "Glazed tea set with un 蓋碗 - GàiWǎn et un bol à thé (茶杯 - CháBēi). Unique pieces.",
+            "fr": "Set à thé émaillé comprenant un 蓋碗 - GàiWǎn et un bol à thé (茶杯 - CháBēi). Pièces uniques."
         },
         "prix": 70.00,
-        "poids": 0.41,
+        "poids": 0.2,
+        "capacité": 140,
         "quantité_produite": 1,
         "photos": [
             "manon_set_tortue-a.jpg",
