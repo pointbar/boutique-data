@@ -617,19 +617,20 @@
     {
         "id": "th5",
         "titre": {
-            "en": "Teapot 3.4oz",
-            "fr": "Théière 10cl"
+            "en": "Teapot 黑金鋼沙 HēiJīnGāngShā - 西施 XīShī - 宜興 YíXìng",
+            "fr": "Théière 黑金鋼沙 HēiJīnGāngShā - 西施 XīShī - 宜興 YíXìng"
         },
         "modification": "2021-04-10",
         "création": "2021-04-10",
         "catégorie": "Théière",
         "description": {
-            "en": "Small unglazed clay teapot, interacting with tea. It is advisable to use this teapot for only one family of tea.",
-            "fr": "Petite théière en argile non émaillée, interagissant avec le thé. Il est conseillé d'utiliser cette théière pour une seule famille de thé."
+            "en": "This teapot, created by the artist 下彩虹 XiàCǎiHóng, is made of two clays, a purple one and a black one.",
+            "fr": "Cette théière, réalisée par l'artiste 下彩虹 XiàCǎiHóng, est composée de deux argiles, l'une violette et l'autre noire."
         },
-        "prix": 132.00,
+        "prix": 89.00,
         "poids": 0.3,
         "quantité_produite": 1,
+        "capacité": 130,
         "photos": [
             "theiere_5-a.jpg",
             "theiere_5-b.jpg",
