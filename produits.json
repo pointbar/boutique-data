@@ -420,18 +420,19 @@
     {
         "id": "ga2",
         "titre": {
-            "en": "Gaiwan 3.4oz",
-            "fr": "Gaiwan 10cl"
+            "en": "Gaiwan",
+            "fr": "Gaiwan"
         },
         "modification": "2021-04-10",
         "création": "2021-04-10",
         "catégorie": "Gaiwan",
         "description": {
-            "en": "3.4oz white porcelain gaiwan.",
-            "fr": "Gaïwan de 10cl en porcelaine blanche."
+            "en": "White basic porcelain gaiwan.",
+            "fr": "Gaïwan basique en porcelaine blanche."
         },
-        "prix": 58.00,
+        "prix": 8.00,
         "poids": 0.3,
+        "capacité": 100,
         "quantité_produite": 1,
         "photos": [
             "gaiwan_2-a.jpg",
@@ -475,12 +476,13 @@
         "création": "2021-04-10",
         "catégorie": "Gaiwan",
         "description": {
-            "en": "3.4oz glass gaiwan.",
-            "fr": "Gaïwan de 10cl en verre."
+            "en": "Glass gaiwan. This is not the traditional approach, but it is convenient to witness the spectacle of your brews.",
+            "fr": "Gaïwan en verre. Ce n'est pas l'approche traditionnel, mais c'est pratique pour assister au spectacle de vos infusions."
         },
-        "prix": 58.00,
+        "prix": 10.00,
         "poids": 0.3,
         "quantité_produite": 1,
+        "capacité": 120,
         "photos": [
             "gaiwan_3-a.jpg",
             "gaiwan_3-b.jpg",
