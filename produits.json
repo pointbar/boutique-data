@@ -983,8 +983,8 @@
     {
         "id": "manonga1",
         "titre": {
-            "en": "GàiWǎn",
-            "fr": "GàiWǎn"
+            "en": "蓋碗 - GàiWǎn",
+            "fr": "蓋碗 - GàiWǎn"
         },
         "modification": "2021-09-08",
         "création": "2021-09-08",
@@ -1007,8 +1007,8 @@
     {
         "id": "manonga2",
         "titre": {
-            "en": "GàiWǎn",
-            "fr": "GàiWǎn"
+            "en": "蓋碗 - GàiWǎn",
+            "fr": "蓋碗 - GàiWǎn"
         },
         "modification": "2021-09-08",
         "création": "2021-09-08",
@@ -1028,15 +1028,15 @@
     {
         "id": "manonga3",
         "titre": {
-            "en": "GàiWǎn",
-            "fr": "GàiWǎn"
+            "en": "蓋碗 - GàiWǎn",
+            "fr": "蓋碗 - GàiWǎn"
         },
         "modification": "2021-09-08",
         "création": "2021-09-08",
         "catégorie": "Manon Clouzeau",
         "description": {
             "en": "Glazed GàiWǎn. Unique piece.",
-            "fr": "Gaiwan GàiWǎn. Pièce unique."
+            "fr": "GàiWǎn émaillé. Pièce unique."
         },
         "prix": 55.00,
         "poids": 0.41,
@@ -1057,7 +1057,7 @@
         "création": "2021-09-08",
         "catégorie": "Manon Clouzeau",
         "description": {
-            "en": "CháBēi, Glazed tea serving pot. Unique piece.",
+            "en": "CháBēi, glazed tea serving pot. Unique piece.",
             "fr": "CháBēi, verseuse émaillée. Pièce unique."
         },
         "prix": 30.00,
@@ -1080,7 +1080,7 @@
         "création": "2021-09-08",
         "catégorie": "Manon Clouzeau",
         "description": {
-            "en": "Glazed tea set with a 蓋碗 - GàiWǎn, a 茶海 - CháHǎi et two bowls (茶杯 - CháBēi). Unique pieces.",
+            "en": "Glazed tea set with a 蓋碗 - GàiWǎn, a 茶海 - CháHǎi et two tea bowls (茶杯 - CháBēi). Unique pieces.",
             "fr": "Set à thé émaillé comprenant un 蓋碗 - GàiWǎn, un 茶海 - CháHǎi et deux bols à thé (茶杯 - CháBēi). Pièces uniques."
         },
         "prix": 90.00,
@@ -1103,7 +1103,7 @@
         "création": "2021-09-08",
         "catégorie": "Manon Clouzeau",
         "description": {
-            "en": "Glazed tea set with un 蓋碗 - GàiWǎn et un bol à thé (茶杯 - CháBēi). Unique pieces.",
+            "en": "Glazed tea set with a 蓋碗 - GàiWǎn and a tea bowl (茶杯 - CháBēi). Unique pieces.",
             "fr": "Set à thé émaillé comprenant un 蓋碗 - GàiWǎn et un bol à thé (茶杯 - CháBēi). Pièces uniques."
         },
         "prix": 70.00,
