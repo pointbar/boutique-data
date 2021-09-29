@@ -572,8 +572,8 @@
     {
         "id": "th3",
         "titre": {
-            "en": "Teapot 3.4oz",
-            "fr": "Théière 10cl"
+            "en": "Teapot",
+            "fr": "Théière"
         },
         "modification": "2021-04-10",
         "création": "2021-04-10",
@@ -582,8 +582,7 @@
             "en": "Small unglazed clay teapot, interacting with tea. It is advisable to use this teapot for only one family of tea.",
             "fr": "Petite théière en argile non émaillée, interagissant avec le thé. Il est conseillé d'utiliser cette théière pour une seule famille de thé."
         },
-        "prix": 132.00,
-        "poids": 0.4,
+        "prix": 89.00,
         "quantité_produite": 1,
         "photos": [
             "theiere_3-a.jpg",
@@ -595,8 +594,8 @@
     {
         "id": "th4",
         "titre": {
-            "en": "Teapot 3.4oz",
-            "fr": "Théière 10cl"
+            "en": "Teapot",
+            "fr": "Théière"
         },
         "modification": "2021-04-10",
         "création": "2021-04-10",
@@ -605,8 +604,7 @@
             "en": "Small unglazed clay teapot, interacting with tea. It is advisable to use this teapot for only one family of tea.",
             "fr": "Petite théière en argile non émaillée, interagissant avec le thé. Il est conseillé d'utiliser cette théière pour une seule famille de thé."
         },
-        "prix": 132.00,
-        "poids": 0.4,
+        "prix": 55.00,
         "quantité_produite": 1,
         "photos": [
             "theiere_4-a.jpg",
@@ -715,8 +713,8 @@
     {
         "id": "th9",
         "titre": {
-            "en": "Teapot 3.4oz",
-            "fr": "Théière 10cl"
+            "en": "Teapot",
+            "fr": "Théière"
         },
         "modification": "2021-06-01",
         "création": "2021-06-01",
@@ -725,7 +723,7 @@
             "en": "Small unglazed clay teapot, interacting with tea. It is advisable to use this teapot for only one family of tea.",
             "fr": "Petite théière en argile non émaillée, interagissant avec le thé. Il est conseillé d'utiliser cette théière pour une seule famille de thé."
         },
-        "prix": 132.00,
+        "prix": 80.00,
         "poids": 0.4,
         "quantité_produite": 1,
         "photos": [
