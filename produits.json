@@ -691,8 +691,8 @@
     {
         "id": "th8",
         "titre": {
-            "en": "Teapot 3.4oz",
-            "fr": "Théière 10cl"
+            "en": "Teapot ZǐZhì, 宜興 - YíXìng",
+            "fr": "Théière ZǐZhì, 宜興 - YíXìng"
         },
         "modification": "2021-06-01",
         "création": "2021-06-01",
@@ -701,8 +701,7 @@
             "en": "Small unglazed clay teapot, interacting with tea. It is advisable to use this teapot for only one family of tea.",
             "fr": "Petite théière en argile non émaillée, interagissant avec le thé. Il est conseillé d'utiliser cette théière pour une seule famille de thé."
         },
-        "prix": 132.00,
-        "poids": 0.4,
+        "prix": 120.00,
         "quantité_produite": 1,
         "photos": [
             "theiere_8-a.jpg",
@@ -1040,19 +1039,8 @@
             "fr": "GàiWǎn émaillé. Pièce unique."
         },
         "prix": 55.00,
-        <<
-        <<
-        <<
-        <
-        Updated upstream "poids": 0.41,
-        ===
-        ===
-        =
         "poids": 0.12,
-        >>>
-        >>>
-        >
-        Stashed changes "capacité": 140,
+        "capacité": 140,
         "quantité_produite": 1,
         "photos": [
             "manon_gaiwan_3-a.jpg",
