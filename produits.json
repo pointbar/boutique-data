@@ -740,18 +740,17 @@
     {
         "id": "th10",
         "titre": {
-            "en": "Teapot 3.4oz",
-            "fr": "Théière 10cl"
+            "en": "Teapot",
+            "fr": "Théière"
         },
-        "modification": "2021-06-01",
-        "création": "2021-06-01",
+        "modification": "2021-07-02",
+        "création": "2021-07-02",
         "catégorie": "Théière",
         "description": {
-            "en": "Small unglazed clay teapot, interacting with tea. It is advisable to use this teapot for only one family of tea.",
-            "fr": "Petite théière en argile non émaillée, interagissant avec le thé. Il est conseillé d'utiliser cette théière pour une seule famille de thé."
+            "en": "With a capacity of two tea bowls, this delightful, tiny teapot is the smallest conceivable for sharing tea. The 晓桂非 - XiǎoGuìFēi shape is among the classics of Chinese tradition. It was made in 臺灣 - TáiWān in 半手工 - BànShǒuGōng mode, that is, semi-manual, using molds, it is made of purple clay - 紫泥 ZǐNí.",
+            "fr": "D'une capacité de deux bols à thé, cette ravissante et minuscule théière est la plus petite envisageable pour partager un thé. La forme 晓桂非 - XiǎoGuìFēi fait partie des classiques de la tradition chinoise. Elle a été fabriquée à 臺灣 - TáiWān en mode 半手工 - BànShǒuGōng, c'est à dire semi-manuelle, à l'aide de moules, elle est en argile pourpre - 紫泥 ZǐNí."
         },
-        "prix": 132.00,
-        "poids": 0.4,
+        "prix": 40.00,
         "quantité_produite": 1,
         "photos": [
             "theiere_10-a.jpg",
@@ -1018,7 +1017,7 @@
             "fr": "GàiWǎn émaillé. Pièce unique."
         },
         "prix": 55.00,
-        "poids": 0.41,
+        "poids": 0.12,
         "capacité": 140,
         "quantité_produite": 1,
         "photos": [
@@ -1040,7 +1039,7 @@
             "fr": "GàiWǎn émaillé. Pièce unique."
         },
         "prix": 55.00,
-        "poids": 0.41,
+        "poids": 0.12,
         "capacité": 140,
         "quantité_produite": 1,
         "photos": [
@@ -1087,7 +1086,7 @@
         },
         "prix": 90.00,
         "poids": 0.17,
-        "capacité": "56",
+        "capacité": 56,
         "quantité_produite": 1,
         "photos": [
             "manon_set_1-a.jpg",
