@@ -395,15 +395,15 @@
     {
         "id": "puer2",
         "titre": {
-            "en": "普洱 - Pǔ'ěr - 茶化石 - ChaHuaShi",
-            "fr": "普洱 - Pǔ'ěr - 茶化石 - ChaHuaShi"
+            "en": "普洱 - Pǔ'ěr - 茶化石 - CháHuàShí",
+            "fr": "普洱 - Pǔ'ěr - 茶化石 - CháHuàShí"
         },
         "modification": "2021-09-15",
         "création": "2021-06-06",
         "catégorie": "Thé",
         "description": {
-            "en": "This 茶化石 - ChaHuaShi is the only fossil tea of the brand, marking the originality from other cooked Pǔ'ěr. This very rare tea is worked to obtain a shape of small pebbles, which do not reveal the leaves and buds during infusion. Each numbered box comes with a certificate of authenticity.",
-            "fr": "Ce 茶化石 - ChaHuaShi est le seul thé fossile de la marque, marquant l’originalité d’avec les autres Pǔ'ěr cuit. Ce thé très rare est travaillé afin d'obtenir une forme de petits cailloux, qui ne révèlent pas les feuilles et bourgeons à l’infusion. Chaque boite numérotée est livrée avec un certificat d'authenticité."
+            "en": "This 茶化石 - CháHuàShí is the only fossil tea of the brand, marking the originality from other cooked Pǔ'ěr. This very rare tea is worked to obtain a shape of small pebbles, which do not reveal the leaves and buds during infusion. Each numbered box comes with a certificate of authenticity.",
+            "fr": "Ce 茶化石 - CháHuàShí est le seul thé fossile de la marque, marquant l’originalité d’avec les autres Pǔ'ěr cuit. Ce thé très rare est travaillé afin d'obtenir une forme de petits cailloux, qui ne révèlent pas les feuilles et bourgeons à l’infusion. Chaque boite numérotée est livrée avec un certificat d'authenticité."
         },
         "prix": 100.00,
         "poids": 0.15,
@@ -572,8 +572,8 @@
     {
         "id": "th3",
         "titre": {
-            "en": "Teapot 3.4oz",
-            "fr": "Théière 10cl"
+            "en": "Teapot",
+            "fr": "Théière"
         },
         "modification": "2021-04-10",
         "création": "2021-04-10",
@@ -582,8 +582,7 @@
             "en": "Small unglazed clay teapot, interacting with tea. It is advisable to use this teapot for only one family of tea.",
             "fr": "Petite théière en argile non émaillée, interagissant avec le thé. Il est conseillé d'utiliser cette théière pour une seule famille de thé."
         },
-        "prix": 132.00,
-        "poids": 0.4,
+        "prix": 89.00,
         "quantité_produite": 1,
         "photos": [
             "theiere_3-a.jpg",
@@ -595,8 +594,8 @@
     {
         "id": "th4",
         "titre": {
-            "en": "Teapot 3.4oz",
-            "fr": "Théière 10cl"
+            "en": "Teapot",
+            "fr": "Théière"
         },
         "modification": "2021-04-10",
         "création": "2021-04-10",
@@ -605,8 +604,7 @@
             "en": "Small unglazed clay teapot, interacting with tea. It is advisable to use this teapot for only one family of tea.",
             "fr": "Petite théière en argile non émaillée, interagissant avec le thé. Il est conseillé d'utiliser cette théière pour une seule famille de thé."
         },
-        "prix": 132.00,
-        "poids": 0.4,
+        "prix": 55.00,
         "quantité_produite": 1,
         "photos": [
             "theiere_4-a.jpg",
@@ -665,18 +663,19 @@
     {
         "id": "th7",
         "titre": {
-            "en": "Teapot 3.4oz",
-            "fr": "Théière 10cl"
+            "en": "Teapot 蓮花湖 - LiánHuāHú, 宜興 - YíXìng",
+            "fr": "Théière 蓮花湖 - LiánHuāHú, 宜興 YíXìng"
         },
         "modification": "2021-06-01",
         "création": "2021-06-01",
         "catégorie": "Théière",
         "description": {
             "en": "Small unglazed clay teapot, interacting with tea. It is advisable to use this teapot for only one family of tea.",
-            "fr": "Petite théière en argile non émaillée, interagissant avec le thé. Il est conseillé d'utiliser cette théière pour une seule famille de thé."
+            "fr": "Théière 宜興 - YíXìng - 蓮花湖 - LiánHuāHú représentant une fleur de Lotus 140 cc - fait 100% main par la maître céramiste - PānBóHong"
         },
         "prix": 132.00,
-        "poids": 0.4,
+        "capacité": 140,
+        "producteur": "PānBóHóng",
         "quantité_produite": 1,
         "photos": [
             "theiere_7-a.jpg",
@@ -690,8 +689,8 @@
     {
         "id": "th8",
         "titre": {
-            "en": "Teapot 3.4oz",
-            "fr": "Théière 10cl"
+            "en": "Teapot ZǐZhì, 宜興 - YíXìng",
+            "fr": "Théière ZǐZhì, 宜興 - YíXìng"
         },
         "modification": "2021-06-01",
         "création": "2021-06-01",
@@ -700,8 +699,7 @@
             "en": "Small unglazed clay teapot, interacting with tea. It is advisable to use this teapot for only one family of tea.",
             "fr": "Petite théière en argile non émaillée, interagissant avec le thé. Il est conseillé d'utiliser cette théière pour une seule famille de thé."
         },
-        "prix": 132.00,
-        "poids": 0.4,
+        "prix": 120.00,
         "quantité_produite": 1,
         "photos": [
             "theiere_8-a.jpg",
@@ -715,8 +713,8 @@
     {
         "id": "th9",
         "titre": {
-            "en": "Teapot 3.4oz",
-            "fr": "Théière 10cl"
+            "en": "Teapot",
+            "fr": "Théière"
         },
         "modification": "2021-06-01",
         "création": "2021-06-01",
@@ -725,7 +723,7 @@
             "en": "Small unglazed clay teapot, interacting with tea. It is advisable to use this teapot for only one family of tea.",
             "fr": "Petite théière en argile non émaillée, interagissant avec le thé. Il est conseillé d'utiliser cette théière pour une seule famille de thé."
         },
-        "prix": 132.00,
+        "prix": 80.00,
         "poids": 0.4,
         "quantité_produite": 1,
         "photos": [
@@ -840,7 +838,7 @@
         "prix": 15.00,
         "poids": 0.04,
         "capacité": 60,
-        "quantité_produite": 1,
+        "quantité_produite": 0,
         "photos": [
             "manon_tasse_4-a.jpg",
             "manon_tasse_4-b.jpg"
@@ -862,7 +860,7 @@
         "prix": 15.00,
         "poids": 0.04,
         "capacité": 60,
-        "quantité_produite": 1,
+        "quantité_produite": 0,
         "photos": [
             "manon_tasse_5-a.jpg",
             "manon_tasse_5-b.jpg"
@@ -951,7 +949,7 @@
         "prix": 60.00,
         "poids": 0.4,
         "capacité": 800,
-        "quantité_produite": 1,
+        "quantité_produite": 0,
         "photos": [
             "manon_bol_3-a.jpg",
             "manon_bol_3-b.jpg"
