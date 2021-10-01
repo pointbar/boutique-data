@@ -454,12 +454,12 @@
             "en": "The porcelains of 汝窯 - RǔYáo, have a celadon green glaze that is both bright and cloudy, similar to jade. Its smooth surface is subtly cracked. The tea seeps into the cracks to produce, over time, a unique piece."
         },
         "prix": 69.00,
-        "poids": 0.23,
+        "poids": 0.25,
         "dimension": {
-            "largeur": 10.3,
+            "largeur": 10,
             "hauteur": 7.8
         },
-        "capacité": 120,
+        "capacité": 100,
         "quantité_produite": 1,
         "photos": [
             "gaiwan_1-a.jpg",
@@ -480,9 +480,9 @@
             "fr": "GàiWǎn en verre. Ce n'est pas l'approche traditionnel, mais c'est pratique pour assister au spectacle de vos infusions."
         },
         "prix": 10.00,
-        "poids": 0.2,
+        "poids": 0.140,
+        "capacité": 130,
         "quantité_produite": 1,
-        "capacité": 100,
         "photos": [
             "gaiwan_3-a.jpg",
             "gaiwan_3-b.jpg",
@@ -503,9 +503,9 @@
             "fr": "Ce kit de démarrage comprend les éléments essentiels à la préparation du thé authentique : un 蓋碗 - GàiWǎn, un 茶海 - CháHǎi et trois bols à thé (茶杯 - CháBēi). C'est aussi le compagnon de voyage idéal grâce à sa housse de protection."
         },
         "prix": 45.00,
-        "poids": 0.470,
+        "poids": 0.450,
         "capacité": 110,
-        "quantité_produite": 16,
+        "quantité_produite": 17,
         "photos": [
             "set-de-voyage_1-a.jpg",
             "set-de-voyage_1-b.jpg",
@@ -528,12 +528,12 @@
             "fr": "Les théières 湯瓶 - TāngPíng sont nées en Chine pendant la dynastie Song (960-1279). C'est au Japon qu'elles ont connu leurs évolutions sous le terme de 横手急須 - Yokode Kyūsu. Sa caractéristique emblématique est qu'elle possède une poignée latérale. L'argile riche en minéraux adoucit le thé en limitant l'astringence. Cette théière a été cuite à haute température, puis un glaçage au sable est appliqué."
         },
         "prix": 36.00,
-        "poids": 0.4,
+        "poids": 0.250,
         "dimension": {
             "largeur": 18,
-            "hauteur": 7.5
+            "hauteur": 9
         },
-        "capacité": 220,
+        "capacité": 200,
         "quantité_produite": 4,
         "photos": [
             "theiere_1-a.jpg",
@@ -555,12 +555,12 @@
             "fr": "Les poteries de NíXìng sont uniques car elles obtiennent une coloration complexe et tachetée pendant la cuisson. Elles sont fabriquées en mélangeant l'argile des deux rives de la rivière 欽江 - QīnJiāng. La couleur change dans le four en évoluant du brun bronze au gris-bleu, rendant chaque pièce unique."
         },
         "prix": 169.00,
-        "poids": 0.4,
+        "poids": 0.150,
         "dimension": {
             "largeur": 11.8,
             "hauteur": 7.2
         },
-        "capacité": 180,
+        "capacité": 170,
         "quantité_produite": 1,
         "photos": [
             "theiere_2-a.jpg",
@@ -583,6 +583,8 @@
             "fr": "Petite théière en argile non émaillée, interagissant avec le thé. Il est conseillé d'utiliser cette théière pour une seule famille de thé."
         },
         "prix": 89.00,
+        "poids": 0.180,
+        "capacité": 130,
         "quantité_produite": 1,
         "photos": [
             "theiere_3-a.jpg",
@@ -605,6 +607,8 @@
             "fr": "Petite théière en argile non émaillée, interagissant avec le thé. Il est conseillé d'utiliser cette théière pour une seule famille de thé."
         },
         "prix": 55.00,
+        "poids": 0.185,
+        "capacité": 200,
         "quantité_produite": 1,
         "photos": [
             "theiere_4-a.jpg",
@@ -627,9 +631,9 @@
             "fr": "Cette théière, réalisée par l'artiste 下彩虹 XiàCǎiHóng, est composée de deux argiles, l'une violette et l'autre noire."
         },
         "prix": 89.00,
-        "poids": 0.4,
+        "poids": 0.115,
         "quantité_produite": 1,
-        "capacité": 130,
+        "capacité": 120,
         "photos": [
             "theiere_5-a.jpg",
             "theiere_5-b.jpg",
@@ -703,6 +707,8 @@
             "fr": "Petite théière en argile non émaillée, interagissant avec le thé. Il est conseillé d'utiliser cette théière pour une seule famille de thé."
         },
         "prix": 120.00,
+        "poids": 0.150,
+        "capacité": 130,
         "quantité_produite": 1,
         "photos": [
             "theiere_8-a.jpg",
@@ -727,7 +733,8 @@
             "fr": "Petite théière en argile non émaillée, interagissant avec le thé. Il est conseillé d'utiliser cette théière pour une seule famille de thé."
         },
         "prix": 80.00,
-        "poids": 0.4,
+        "poids": 0.135,
+        "capacité": 220,
         "quantité_produite": 1,
         "photos": [
             "theiere_9-a.jpg",
