@@ -16,7 +16,7 @@
         "quantité_produite": 8,
         "altitude": 1000,
         "producteur": "Famille Móu",
-        "type": "BáiChá",
+        "type": "blanc - 白茶 - BáiChá",
         "village": "",
         "province": "贵州 - Guìzhōu",
         "photos": [
@@ -44,7 +44,7 @@
         "quantité_produite": 8,
         "altitude": 1000,
         "producteur": "Famille Móu",
-        "type": "LǜChá",
+        "type": "vert - 綠茶 - LǜChá",
         "village": "",
         "province": "贵州 - Guìzhōu",
         "photos": [
@@ -75,7 +75,7 @@
         "quantité_produite": 7,
         "altitude": 1000,
         "producteur": "Madame Luó",
-        "type": "LǜChá",
+        "type": "vert - 綠茶 - LǜChá",
         "village": "",
         "province": "貴州 - GuìZhōu",
         "photos": [
@@ -107,7 +107,7 @@
         "quantité_produite": 7,
         "altitude": 1000,
         "producteur": "Madame Wèn",
-        "type": "LǜChá",
+        "type": "vert - 綠茶 - LǜChá",
         "village": "",
         "province": "湖北 - Húběi",
         "photos": [
