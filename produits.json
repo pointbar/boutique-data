@@ -15,9 +15,9 @@
          "poids": 0.025,
          "quantité_produite": 8,
          "altitude": 1000,
-         "producteur": "Famille Móu",
+         "producteur": "Famille 牟 - Móu",
          "type": "blanc - 白茶 - BáiChá",
-         "village": "",
+         "village": "鳳岡 - FèngGāng",
          "province": "贵州 - Guìzhōu",
          "photos": [
              "BaiCha_Lao_1-a.jpg",
@@ -43,9 +43,9 @@
          "poids": 0.025,
          "quantité_produite": 8,
          "altitude": 1000,
-         "producteur": "Famille Móu",
+         "producteur": "Famille 牟 - Móu",
          "type": "vert - 綠茶 - LǜChá",
-         "village": "",
+         "village": "鳳岡 - FèngGāng",
          "province": "贵州 - Guìzhōu",
          "photos": [
              "LuCha_YiPingXiang_1-a.jpg",
@@ -60,8 +60,8 @@
      {
          "id": "lu2",
          "titre": {
-             "en": "都匀毛尖 - DuYum MaoJian",
-             "fr": "都匀毛尖 - DuYum MaoJian"
+             "en": "都匀毛尖 - DūYúnMáoJiān",
+             "fr": "都匀毛尖 - DūYúnMáoJiān"
          },
          "modification": "2021-06-28",
          "création": "2021-06-28",
@@ -74,7 +74,7 @@
          "poids": 0.025,
          "quantité_produite": 7,
          "altitude": 1000,
-         "producteur": "Madame Luó",
+         "producteur": "Madame 螺 - Luó",
          "type": "vert - 綠茶 - LǜChá",
          "village": "",
          "province": "貴州 - GuìZhōu",
@@ -92,23 +92,23 @@
      {
          "id": "lu3",
          "titre": {
-             "en": "供芽 - Gōng yá",
-             "fr": "供芽 - Gōng yá"
+             "en": "供芽 - GōngYá",
+             "fr": "供芽 - GōngYá"
          },
          "modification": "2021-06-28",
          "création": "2021-06-28",
          "catégorie": "Thé",
          "description": {
-             "en": "This tea is harvested and prepared in the three days before 清明节 - QīngMíngJié, April 4th, by Madame 问 - Wèn of the TuJia Taoist ethnic group. QingMingJie is the day of the annual visit to the ancestors' tombs by the families. It is lightly fired on traditional kilns, which allows it to develop its flavours while keeping the qualities of bud teas.",
-             "fr": "Ce thé est récolté et fabriqué dans les trois jours précédant 清明节 - QīngMíngJié, le 4 avril, par Madame 问 - Wèn de l’ethnie taoïste TuJia. QingMingJie est le jour de la visite annuelle des tombes des ancêtres par les familles. Il est légèrement cuit sur des fours traditionnels, ce qui lui permet de développer ses arômes tout en gardant les qualités des thés en bourgeon."
+             "en": "This tea is harvested and prepared in the three days before 清明节 - QīngMíngJié, April 4th, by Madame 问 - Wèn of the 土家族 - TǔJiāZú Taoist ethnic group. QīngMíngJié is the day of the annual visit to the ancestors' tombs by the families. It is lightly fired on traditional kilns, which allows it to develop its flavours while keeping the qualities of bud teas.",
+             "fr": "Ce thé est récolté et fabriqué dans les trois jours précédant 清明节 - QīngMíngJié, le 4 avril, par Madame 问 - Wèn de l’ethnie taoïste 土家族 - TǔJiāZú. QīngMíngJié est le jour de la visite annuelle des tombes des ancêtres par les familles. Il est légèrement cuit sur des fours traditionnels, ce qui lui permet de développer ses arômes tout en gardant les qualités des thés en bourgeon."
          },
          "prix": 15.00,
          "poids": 0.025,
          "quantité_produite": 7,
          "altitude": 1000,
-         "producteur": "Madame Wèn",
+         "producteur": "Madame 问 - Wèn",
          "type": "vert - 綠茶 - LǜChá",
-         "village": "",
+         "village": "宜昌市 - YíChāngShì",
          "province": "湖北 - Húběi",
          "photos": [
              "LuCha_GongYa_1-a.jpg",
@@ -121,8 +121,8 @@
      {
          "id": "wulong1",
          "titre": {
-             "en": "香番薯單叢 - XiāngFānShǔ DānCóng",
-             "fr": "香番薯單叢 - XiāngFānShǔ DānCóng"
+             "en": "番薯香單叢 - FānShǔXiāng DānCóng",
+             "fr": "番薯香單叢 - FānShǔXiāng DānCóng"
          },
          "modification": "2021-06-06",
          "création": "2021-06-06",
@@ -150,24 +150,24 @@
      {
          "id": "wulong2",
          "titre": {
-             "en": "金萱 - Jīn Xuān",
-             "fr": "金萱 - Jīn Xuān"
+             "en": "金萱 - JīnXuān",
+             "fr": "金萱 - JīnXuān"
          },
          "modification": "2021-06-06",
          "création": "2021-06-06",
          "catégorie": "Thé",
          "description": {
-             "en": "This 烏龍 - WūLóng seems to us to be particularly suitable for people who are switching from flavored teas to authentic teas. It is known for its milky wulong flavor.",
-             "fr": "Ce 烏龍 - WūLóng nous semble particulièrement adapté pour les personnes qui passent des thés aromatisés aux thés authentiques. Il est réputé pour sa saveur laiteuse (milky wulong)."
+             "en": "This 烏龍 - WūLóng seems to us to be particularly suitable for people who are switching from flavored teas to authentic teas. It is known for its milky WūLóng flavor.",
+             "fr": "Ce 烏龍 - WūLóng nous semble particulièrement adapté pour les personnes qui passent des thés aromatisés aux thés authentiques. Il est réputé pour sa saveur laiteuse (milky WūLóng)."
          },
          "prix": 15.00,
          "poids": 0.025,
          "quantité_produite": 3,
-         "producteur": "M. Li",
+         "producteur": "M. 李 - Lǐ",
          "type": "bleu-vert - 青茶 - QīngChá",
          "fiche": "JinXuan",
          "province": "臺灣 - Táiwān",
-         "cultivar": "金萱 - Jīn Xuān",
+         "cultivar": "金萱 - JīnXuān",
          "photos": [
              "QingCha_JinXuan_2-a.jpg",
              "QingCha_JinXuan_2-b.jpg"
@@ -183,14 +183,14 @@
          "création": "2021-06-06",
          "catégorie": "Thé",
          "description": {
-             "en": "A 烏龍 - WūLóng of high mountain 高山 GāoShān. Low oxidized and very elegant. Produced in central 臺灣 - Táiwān, in the mountains of 阿里山 - ĀlǐShān.",
-             "fr": "Un 烏龍 - WūLóng de haute montagne 高山 GāoShān. Peu oxydé et très élégant. Produit au centre de 臺灣 - Táiwān, dans les montagnes de 阿里山 - ĀlǐShān."
+             "en": "A 烏龍 - WūLóng of high mountain 高山 - GāoShān. Low oxidized and very elegant. Produced in central 臺灣 - Táiwān, in the mountains of 阿里山 - ĀlǐShān.",
+             "fr": "Un 烏龍 - WūLóng de haute montagne 高山 - GāoShān. Peu oxydé et très élégant. Produit au centre de 臺灣 - Táiwān, dans les montagnes de 阿里山 - ĀlǐShān."
          },
          "prix": 15.00,
          "poids": 0.025,
          "quantité_produite": 5,
          "origine": "臺灣 - Táiwān",
-         "producteur": "M. Huang Zhen Xing",
+         "producteur": "M. 黃振興 - HuángZhènXīng",
          "type": "bleu-vert - 青茶 - QīngChá",
          "fiche": "GaoShanCha",
          "altitude": 1800,
@@ -213,13 +213,14 @@
          "création": "2021-06-06",
          "catégorie": "Thé",
          "description": {
-             "en": "A 烏龍 - WūLóng in low oxidized pearl produced by Mr. Zheng. The cultivar was created recently (1981), the translation -four spring seasons- expresses the idea that all crops are as interesting as the first spring.",
-             "fr": "Un 烏龍 - WūLóng en perle peu oxydé produit par Mr Zheng. Le cultivar a été créé récemment (1981), la traduction -quatre saisons printemps- exprime l'idée que toutes les récoltes sont aussi intéressantes que la première de printemps."
+             "en": "A 烏龍 - WūLóng in low oxidized pearl produced by 鄭 - Zhèng. The cultivar was created recently (1981), the translation -four spring seasons- expresses the idea that all crops are as interesting as the first spring.",
+             "fr": "Un 烏龍 - WūLóng en perle peu oxydé produit par 鄭 - Zhèng. Le cultivar a été créé récemment (1981), la traduction -quatre saisons printemps- exprime l'idée que toutes les récoltes sont aussi intéressantes que la première de printemps."
          },
          "prix": 15.00,
+         "altitude": "3000",
          "poids": 0.025,
          "quantité_produite": 3,
-         "producteur": "M. Zheng",
+         "producteur": "鄭 - Zhèng",
          "type": "bleu-vert - 青茶 - QīngChá",
          "fiche": "SiJiChun",
          "village": "南投 - NánTóu",
@@ -304,7 +305,7 @@
          "poids": 0.025,
          "quantité_produite": 3,
          "altitude": 1000,
-         "producteur": "Famille Mou",
+         "producteur": "Famille 牟 - Móu",
          "type": "rouge - 紅茶 - HóngChá",
          "fiche": "BaoShi",
          "village": "",
@@ -326,13 +327,13 @@
          "création": "2021-06-06",
          "catégorie": "Thé",
          "description": {
-             "en": "This 蜜香 - MìXiāng is a very aromatic red tea, produced by Mr Huang in north Taïwan.",
-             "fr": "Ce 蜜香 - MìXiāng est un thé rouge très aromatique, produit par M. Huang, au nord de Taïwan."
+             "en": "This 蜜香 - MìXiāng is a very aromatic red tea, produced by Mr 黃 - Huáng in north 臺灣 - Táiwān.",
+             "fr": "Ce 蜜香 - MìXiāng est un thé rouge très aromatique, produit par M. 黃 - Huáng, au nord de 臺灣 - Táiwān."
          },
          "prix": 15.00,
          "poids": 0.025,
          "quantité_produite": 2,
-         "producteur": "M. Huang",
+         "producteur": "M. 黃 - Huáng",
          "type": "rouge - 紅茶 - HóngChá",
          "fiche": "",
          "village": "",
@@ -353,13 +354,13 @@
          "création": "2021-06-06",
          "catégorie": "Thé",
          "description": {
-             "en": "A 紅茶 - HóngChá (red tea) from old tea bushes and very high quality, produced in central 臺灣 - Táiwān by Mr. Zhuang, a young producer, awarded in several tea competitions.",
-             "fr": "Un 紅茶 - HóngChá (thé rouge) issu de vieux théiers et de très haute qualité, produit au centre de 臺灣 - Táiwān par M. Zhuang, un jeune producteur, récompensé dans plusieurs concours de thés."
+             "en": "A 紅茶 - HóngChá (red tea) from old tea bushes and very high quality, produced in central 臺灣 - Táiwān by Mr. 莊 - Zhuāng, a young producer, awarded in several tea competitions.",
+             "fr": "Un 紅茶 - HóngChá (thé rouge) issu de vieux théiers et de très haute qualité, produit au centre de 臺灣 - Táiwān par M. 莊 - Zhuāng, un jeune producteur, récompensé dans plusieurs concours de thés."
          },
          "prix": 15.00,
          "poids": 0.025,
          "quantité_produite": 5,
-         "producteur": "M. Zhuang",
+         "producteur": "M. 莊 - Zhuāng",
          "origine": "臺灣 - Táiwān",
          "type": "rouge - 紅茶 - HóngChá",
          "fiche": "",
@@ -380,13 +381,13 @@
          "création": "2021-06-06",
          "catégorie": "Thé",
          "description": {
-             "en": "This 生普洱-Shēng Pǔ'ěr of 白福藏倉-BáiFúCáng Cāng comes from wild tea bushes that are between 300 years old and 1000 years old and grow in areas that are little known to date.",
-             "fr": "Ce 生普洱 - Shēng Pǔ'ěr de 白福藏倉-BáiFúCáng Cāng est issu de théiers sauvages âgés entre 300 ans et 1000 ans et poussent dans des zones peu connues à ce jour."
+             "en": "This 生普洱 - Shēng Pǔ'ěr of 白福藏倉 - BáiFúCángCāng comes from wild tea bushes that are between 300 years old and 1000 years old and grow in areas that are little known to date.",
+             "fr": "Ce 生普洱 - Shēng Pǔ'ěr de 白福藏倉 - BáiFúCángCāng est issu de théiers sauvages âgés entre 300 ans et 1000 ans et poussent dans des zones peu connues à ce jour."
          },
          "prix": 100.00,
          "poids": 0.25,
          "quantité_produite": 1,
-         "producteur": "白福藏倉 - BáiFúCáng Cāng",
+         "producteur": "白福藏倉 - BáiFúCángCāng",
          "type": "Pǔ'ěr cru - 普洱生茶 - Pǔ’ěr ShēngChá",
          "cultivar": "大葉 - DàYè",
          "photos": [
@@ -410,8 +411,9 @@
          "prix": 100.00,
          "poids": 0.15,
          "quantité_produite": 2,
-         "producteur": "龙园号 - LongYuanHao",
-         "province": "西双版纳州 - XiShuangBanNa",
+         "altitude": 560,
+         "producteur": "龍園號 - LóngYuánHào",
+         "province": "西雙版納州 - XīShuāngBǎnNàZhōu",
          "type": "Pǔ'ěr cuit - 熟普洱 - Shú Pǔ'ěr",
          "photos": [
              "PuEr_ChaHuaShi_1-a.jpg",
@@ -433,9 +435,9 @@
              "fr": "GàiWǎn basique en porcelaine blanche."
          },
          "prix": 8.00,
-         "poids": 0.2,
-         "capacité": 100,
-         "quantité_produite": 1,
+         "poids": 0.12,
+         "capacité": 70,
+         "quantité_produite": 4,
          "photos": [
              "gaiwan_2-a.jpg",
              "gaiwan_2-b.jpg"
@@ -443,7 +445,7 @@
      },
      {
          "id": "ga3",
-         "origine": "德化 - DéHuà, 泉州- QuánZhōu, 福建 - Fújiàn",
+         "origine": "德化 - DéHuà, 泉州 - QuánZhōu, 福建 - Fújiàn",
          "titre": {
              "en": "GàiWǎn RǔYáo",
              "fr": "GàiWǎn RǔYáo"
