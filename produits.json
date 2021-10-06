@@ -8,8 +8,8 @@
          "création": "2021-06-28",
          "catégorie": "Thé",
          "description": {
-             "en": "This white tea is made by the 牟 - Móu family. The term 老白茶, meaning old white tea, is used to describe a white tea that has been allowed to age for at least 10 years before being released to the market. During the aging process, the tea's aromas and medicinal properties develop into the exceptional characteristics that tea lovers seek.",
-             "fr": "Ce thé blanc est fabriqué par la famille 牟 - Móu. Le terme 老白茶, qui signifie vieux thé blanc, est utilisé pour décrire un thé blanc que l’on a laissé vieillir pendant au moins 10 ans avant de le mettre sur le marché. Durant la maturation, les arômes ainsi que les propriétés médicinales du thé se développent pour donner les caractéristiques exceptionnelles recherchées par les amateurs."
+             "en": "This white tea is made by the 牟 - Móu family. The term Lǎo BáiChá meaning old white tea, is used to describe a white tea that has been allowed to age for at least 10 years before being released to the market. During the aging process, the tea's aromas and medicinal properties develop into the exceptional characteristics that tea lovers seek.",
+             "fr": "Ce thé blanc est fabriqué par la famille 牟 - Móu. Le terme Lǎo BáiChá qui signifie vieux thé blanc, est utilisé pour décrire un thé blanc que l’on a laissé vieillir pendant au moins 10 ans avant de le mettre sur le marché. Durant la maturation, les arômes ainsi que les propriétés médicinales du thé se développent pour donner les caractéristiques exceptionnelles recherchées par les amateurs."
          },
          "prix": 15.00,
          "poids": 0.025,
@@ -374,8 +374,8 @@
      {
          "id": "puer1",
          "titre": {
-             "en": "生普洱 - Shēng Pǔ'ěr - 禅悦 ChánYuè",
-             "fr": "生普洱 - Shēng Pǔ'ěr - 禅悦 ChánYuè"
+             "en": "禅悦 ChánYuè - 3.53 oz",
+             "fr": "禅悦 ChánYuè - 100 g"
          },
          "modification": "2021-06-06",
          "création": "2021-06-06",
@@ -385,7 +385,7 @@
              "fr": "Ce 生普洱 - Shēng Pǔ'ěr de 白福藏倉 - BáiFúCángCāng est issu de théiers sauvages âgés entre 300 ans et 1000 ans et poussent dans des zones peu connues à ce jour."
          },
          "prix": 100.00,
-         "poids": 0.25,
+         "poids": 0.1,
          "quantité_produite": 1,
          "producteur": "白福藏倉 - BáiFúCángCāng",
          "type": "Pǔ'ěr cru - 普洱生茶 - Pǔ’ěr ShēngChá",
@@ -398,8 +398,8 @@
      {
          "id": "puer2",
          "titre": {
-             "en": "普洱 - Pǔ'ěr - 茶化石 - CháHuàShí",
-             "fr": "普洱 - Pǔ'ěr - 茶化石 - CháHuàShí"
+             "en": "茶化石 - CháHuàShí - 5.29 oz",
+             "fr": "茶化石 - CháHuàShí - 150 g"
          },
          "modification": "2021-09-15",
          "création": "2021-06-06",
@@ -908,15 +908,15 @@
      {
          "id": "manonbol1",
          "titre": {
-             "en": "Bowl",
-             "fr": "Bol"
+             "en": "碗 - Wǎn (bowl)",
+             "fr": "碗 - Wǎn (bol)"
          },
          "modification": "2021-09-08",
          "création": "2021-09-08",
          "catégorie": "Manon Clouzeau",
          "description": {
-             "en": "Large glazed bowl. Unique piece.",
-             "fr": "Grand bol émaillé. Pièce unique."
+             "en": "Large glazed food bowl. Unique piece.",
+             "fr": "Grand bol alimentaire émaillé. Pièce unique."
          },
          "prix": 60.00,
          "poids": 0.4,
@@ -930,15 +930,15 @@
      {
          "id": "manonbol2",
          "titre": {
-             "en": "Bowl",
-             "fr": "Bol"
+             "en": "碗 - Wǎn (bowl)",
+             "fr": "碗 - Wǎn (bol)"
          },
          "modification": "2021-09-08",
          "création": "2021-09-08",
          "catégorie": "Manon Clouzeau",
          "description": {
-             "en": "Large glazed bowl. Unique piece.",
-             "fr": "Grand bol émaillé. Pièce unique."
+             "en": "Large glazed food bowl. Unique piece.",
+             "fr": "Grand bol alimentaire émaillé. Pièce unique."
          },
          "prix": 60.00,
          "poids": 0.4,
@@ -953,15 +953,15 @@
      {
          "id": "manonbol3",
          "titre": {
-             "en": "Bowl",
-             "fr": "Bol"
+             "en": "碗 - Wǎn (bowl)",
+             "fr": "碗 - Wǎn (bol)"
          },
          "modification": "2021-09-08",
          "création": "2021-09-08",
          "catégorie": "Manon Clouzeau",
          "description": {
-             "en": "Large glazed bowl. Unique piece.",
-             "fr": "Grand bol émaillé. Pièce unique."
+             "en": "Large glazed food bowl. Unique piece.",
+             "fr": "Grand bol alimentaire émaillé. Pièce unique."
          },
          "prix": 60.00,
          "poids": 0.4,
@@ -975,15 +975,15 @@
      {
          "id": "manonbol4",
          "titre": {
-             "en": "Bowl",
-             "fr": "Bol"
+             "en": "碗 - Wǎn (bowl)",
+             "fr": "碗 - Wǎn (bol)"
          },
          "modification": "2021-09-08",
          "création": "2021-09-08",
          "catégorie": "Manon Clouzeau",
          "description": {
-             "en": "Large glazed bowl. Unique piece.",
-             "fr": "Grand bol émaillé. Pièce unique."
+             "en": "Large glazed food bowl. Unique piece.",
+             "fr": "Grand bol alimentaire émaillé. Pièce unique."
          },
          "prix": 60.00,
          "poids": 0.4,
@@ -1066,15 +1066,15 @@
      {
          "id": "manonver1",
          "titre": {
-             "en": "茶杯 - CháBēi (Tea serving pot)",
-             "fr": "茶杯 - CháBēi (Verseuse)"
+             "en": "茶海 - CháHǎi (Tea serving pot)",
+             "fr": "茶海 - CháHǎi (Verseuse)"
          },
          "modification": "2021-09-08",
          "création": "2021-09-08",
          "catégorie": "Manon Clouzeau",
          "description": {
-             "en": "CháBēi, glazed tea serving pot. Unique piece.",
-             "fr": "CháBēi, verseuse émaillée. Pièce unique."
+             "en": "CháHǎi, glazed tea serving pot. Unique piece.",
+             "fr": "CháHǎi, verseuse émaillée. Pièce unique."
          },
          "prix": 30.00,
          "poids": 0.074,
