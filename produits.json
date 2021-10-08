@@ -422,6 +422,60 @@
          ]
      },
      {
+        "id": "puer3",
+        "titre": {
+            "en": "莽枝 - MǎngZhī",
+            "fr": "莽枝 - MǎngZhī"
+        },
+        "modification": "2021-06-06",
+        "création": "2021-06-06",
+        "catégorie": "Thé",
+        "description": {
+            "en": "This 生普洱 - Shēng Pǔ'ěr ",
+            "fr": "Ce 生普洱 - Shēng Pǔ'ěr ."
+        },
+        "prix": 15.00,
+        "poids": 0.025,
+        "quantité_produite": 0,
+        "producteur": "",
+        "type": "Pǔ'ěr cru - 普洱生茶 - Pǔ’ěr ShēngChá",
+        "cultivar": "",
+        "photos": [
+            "PuEr_MangZhi_1-a.jpg",
+            "PuEr_MangZhi_1-b.jpg",
+            "PuEr_MangZhi_1-c.jpg",
+            "PuEr_MangZhi_1-d.jpg",
+            "PuEr_MangZhi_1-e.jpg"
+        ]
+     },
+     {
+        "id": "puer4",
+        "titre": {
+            "en": "冰島 壩歪 - BīngDǎo Bà Wāi",
+            "fr": "冰島 壩歪 - BīngDǎo Bà Wāi"
+        },
+        "modification": "2021-10-08",
+        "création": "2021-10-08",
+        "catégorie": "Thé",
+        "description": {
+            "en": "This 生普洱 - Shēng Pǔ'ěr ",
+            "fr": "Ce 生普洱 - Shēng Pǔ'ěr ."
+        },
+        "prix": 15.00,
+        "poids": 0.025,
+        "quantité_produite": 0,
+        "producteur": "",
+        "type": "Pǔ'ěr cru - 普洱生茶 - Pǔ’ěr ShēngChá",
+        "cultivar": "",
+        "photos": [
+            "PuEr_Bingdao-Ba-Wai_1-a.jpg",
+            "PuEr_Bingdao-Ba-Wai_1-b.jpg",
+            "PuEr_Bingdao-Ba-Wai_1-c.jpg",
+            "PuEr_Bingdao-Ba-Wai_1-d.jpg",
+            "PuEr_Bingdao-Ba-Wai_1-e.jpg"
+        ]
+     },
+     {
          "id": "ga2",
          "titre": {
              "en": "Basic GàiWǎn",
