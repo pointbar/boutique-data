@@ -68,7 +68,7 @@
          "catégorie": "Thé",
          "description": {
              "en": "This tea is one of the iconic teas of 貴州 - GuìZhōu. Miss 螺 - Luó has tea bushes that she planted herself, but also wild tea bushes, growing on extremely healthy land in a breathtaking landscape. This tea is from those wild tea bushes.",
-             "fr": "Ce thé l’un des thés emblématiques du 貴州 - GuìZhōu. Madame 螺 - Luó possède des théiers qu’elle a elle-même plantés, mais aussi des théiers sauvages, poussant sur des terres extrêmement saines dans un paysage à couper le souffle. Ce thé est issu des théiers sauvages de ses parcelles."
+             "fr": "Ce thé est l’un des thés emblématiques du 貴州 - GuìZhōu. Madame 螺 - Luó possède des théiers qu’elle a elle-même plantés, mais aussi des théiers sauvages, poussant sur des terres extrêmement saines dans un paysage à couper le souffle. Ce thé est issu des théiers sauvages de ses parcelles."
          },
          "prix": 15.00,
          "poids": 0.025,
@@ -99,8 +99,8 @@
          "création": "2021-06-28",
          "catégorie": "Thé",
          "description": {
-             "en": "This tea is harvested and prepared in the three days before 清明节 - QīngMíngJié, April 4th, by Madame 问 - Wèn of the 土家族 - TǔJiāZú Taoist ethnic group. QīngMíngJié is the day of the annual visit to the ancestors' tombs by the families. It is lightly fired on traditional kilns, which allows it to develop its flavours while keeping the qualities of bud teas.",
-             "fr": "Ce thé est récolté et fabriqué dans les trois jours précédant 清明节 - QīngMíngJié, le 4 avril, par Madame 问 - Wèn de l’ethnie taoïste 土家族 - TǔJiāZú. QīngMíngJié est le jour de la visite annuelle des tombes des ancêtres par les familles. Il est légèrement cuit sur des fours traditionnels, ce qui lui permet de développer ses arômes tout en gardant les qualités des thés en bourgeon."
+             "en": "This tea is harvested and prepared in the three days before 清明節 - QīngMíngJié, April 4th, by Madame 问 - Wèn of the 土家族 - TǔJiāZú Taoist ethnic group. QīngMíngJié is the day of the annual visit to the ancestors' tombs by the families. It is lightly cooked on traditional kilns, which allows it to develop its flavours while keeping the qualities of bud teas.",
+             "fr": "Ce thé est récolté et fabriqué dans les trois jours précédant 清明節 - QīngMíngJié, le 4 avril, par Madame 问 - Wèn de l’ethnie taoïste 土家族 - TǔJiāZú. QīngMíngJié est le jour de la visite annuelle des tombes des ancêtres par les familles. Il est légèrement cuit sur des fours traditionnels, ce qui lui permet de développer ses arômes tout en gardant les qualités des thés en bourgeon."
          },
          "prix": 15.00,
          "poids": 0.025,
@@ -235,8 +235,8 @@
      {
          "id": "wulong5",
          "titre": {
-             "en": "安溪鐵觀音 - ĀnXī TiěGuānYīn",
-             "fr": "安溪鐵觀音 - ĀnXī TiěGuānYīn"
+             "en": "安溪 鐵觀音 - ĀnXī TiěGuānYīn",
+             "fr": "安溪 鐵觀音 - ĀnXī TiěGuānYīn"
          },
          "modification": "2021-06-06",
          "création": "2021-06-06",
@@ -272,7 +272,7 @@
          "catégorie": "Thé",
          "description": {
              "en": "This 金駿眉 - JīnJùnMéi is a perfect representative of 紅茶 - HóngChá (red teas). It is exclusively composed of buds. It was harvested in late March 2021 in the village of 桐木關 - TóngMùGuān.",
-             "fr": "Ce 金駿眉 - JīnJùnMéi est un parfait représentant des 紅茶 - HóngChá (thés rouges). Il est exclusivement composés de bourgeons. La récolte a été réalisée fin mars 2021 dans le village de 桐木關 - TóngMùGuān."
+             "fr": "Ce 金駿眉 - JīnJùnMéi est un parfait représentant des 紅茶 - HóngChá (thés rouges). Il est exclusivement composé de bourgeons. La récolte a été réalisée fin mars 2021 dans le village de 桐木關 - TóngMùGuān."
          },
          "prix": 15.00,
          "poids": 0.025,
@@ -501,7 +501,7 @@
          "prix": 8.00,
          "poids": 0.12,
          "capacité": 70,
-         "quantité_produite": 10,
+         "quantité_produite": 8,
          "photos": [
              "gaiwan_2-a.jpg",
              "gaiwan_2-b.jpg"
