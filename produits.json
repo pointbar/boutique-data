@@ -1176,4 +1176,27 @@
              "manon_set_tortue-f.jpg"
          ]
      }
+      {
+         "id": "manonset1",
+         "titre": {
+             "en": "Tea set",
+             "fr": "Set à thé"
+         },
+         "modification": "2021-09-08",
+         "création": "2021-09-08",
+         "catégorie": "Manon Clouzeau",
+         "description": {
+             "en": "Glazed tea set with a 蓋碗 - GàiWǎn, a 茶海 - CháHǎi et two tea bowls (茶杯 - CháBēi). Unique pieces.",
+             "fr": "Set à thé émaillé comprenant un 蓋碗 - GàiWǎn, un 茶海 - CháHǎi et deux bols à thé (茶杯 - CháBēi). Pièces uniques."
+         },
+         "prix": 90.00,
+         "poids": 0.17,
+         "capacité": 56,
+         "quantité_produite": 1,
+         "photos": [
+             "manon_set_1-a.jpg",
+             "manon_set_1-b.jpg",
+             "manon_set_1-c.jpg"
+         ]
+     }
  ]
