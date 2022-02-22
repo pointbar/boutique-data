@@ -1190,7 +1190,7 @@
             "fr": "Set de bols pour le gongfucha composé d'un bol à boire (茶杯 - CháBēi) et d'un bol à sentir."
         },
         "prix": 25.00,
-        "poids": 0.1,
+        "poids": 0.072,
         "capacité": 20,
         "quantité_produite": 4,
         "photos": [
@@ -1214,7 +1214,7 @@
         },
         "prix": 26.00,
         "poids": 0.134,
-        "capacité": 15,
+        "capacité": 150,
         "quantité_produite": 1,
         "photos": [
             "jerome_verseuse_1-a.jpg",
@@ -1222,5 +1222,81 @@
             "jerome_verseuse_1-c.jpg",
             "jerome_verseuse_1-d.jpg"
         ]
-    }
+    },
+    {
+        "id": "jetheiere",
+        "titre": {
+            "en": "Small teapot in raw clay",
+            "fr": "Petite théière en terre brute"
+        },
+        "modification": "2021-02-22",
+        "création": "2022-02-22",
+        "catégorie": "Jé le Potier",
+        "description": {
+            "en": "Unique piece. Small teapot made from a very dense clay. This high quality stoneware is made in Germany. The porosity of this clay is 0,8%. The density of the clay limits the water temperature drop during the infusion. The pouring is fluid and fast.",
+            "fr": "Pièce unique. Petite théière fabriquée dans une argile très dense. Ce grès de grande qualité est réalisée en Allemagne. La porosité de cette argile est de 0,8%. La densité de l'argile permet de limiter la descente en température de l'eau pendant l'infusion. La verse est fluide et rapide."
+        },
+        "prix": 132.00,
+        "poids": 0.120,
+        "capacité": 100,
+        "quantité_produite": 1,
+        "photos": [
+            "jerome_theiere_2-a.jpg",
+            "jerome_theiere_2-b.jpg",
+            "jerome_theiere_2-c.jpg",
+            "jerome_theiere_2-d.jpg",
+            "jerome_theiere_2-e.jpg"
+        ]
+    },
+    {
+        "id": "jetheiere",
+        "titre": {
+            "en": "Small teapot in raw clay",
+            "fr": "Petite théière en terre brute"
+        },
+        "modification": "2021-02-22",
+        "création": "2022-02-22",
+        "catégorie": "Jé le Potier",
+        "description": {
+            "en": "Unique piece. Small teapot made of Treigny stoneware, a soft natural clay. This teapot is not glazed and will acquire a unique patina over time. The pouring is fluid and fast.",
+            "fr": "Pièce unique. Petite théière fabriquée en grès de Treigny, une argile naturelle assez tendre. Cette théière n'est pas émaillée et se patinera avec le temps. La verse est fluide et rapide."
+        },
+        "prix": 132.00,
+        "poids": 0.130,
+        "capacité": 100,
+        "quantité_produite": 1,
+        "photos": [
+            "jerome_theiere_3-a.jpg",
+            "jerome_theiere_3-b.jpg",
+            "jerome_theiere_3-c.jpg",
+            "jerome_theiere_3-d.jpg",
+            "jerome_theiere_3-e.jpg"
+        ]
+    },
+    {
+        "id": "jehohin",
+        "titre": {
+            "en": "Hohin in raw stoneware",
+            "fr": "Hohin en grès brut"
+        },
+        "modification": "2021-02-22",
+        "création": "2022-02-22",
+        "catégorie": "Jé le Potier",
+        "description": {
+            "en": "Unique piece. A traditional Japanese piece for brewing Gyokuro. It is however possible to brew other types of tea. The hohin is very easy to use. It pours abundantly and very quickly. The stoneware used for this piece is a very dense clay. This high quality stoneware is made in Germany. The porosity of this clay is 0,8% and its density limits the water temperature drop during the infusion.",
+            "fr": "Pièce unique. Le hohin est une pièce issue de la tradition japonaise et destinée à l'infusion des Gyokuro. Il est toute fois possible d'infuser d'autres types de thé. Le hohin est une pièce très facile d'utilisation. Sa verse est abondante et très rapide. Cette pièce est fabriquée dans une argile très dense, de grande qualité, réalisée en Allemagne. La porosité de cette argile est de 0,8%. Sa densité permet de limiter la descente en température de l'eau pendant l'infusion"
+        },
+        "prix": 96.00,
+        "poids": 0.125,
+        "capacité": 100,
+        "quantité_produite": 1,
+        "photos": [
+            "jerome_hohin_1-a.jpg",
+            "jerome_hohin_1-b.jpg",
+            "jerome_hohin_1-c.jpg",
+            "jerome_hohin_1-d.jpg",
+            "jerome_hohin_1-e.jpg",
+            "jerome_hohin_1-f.jpg"
+        ]
+    }  
  ]
