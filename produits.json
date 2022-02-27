@@ -970,6 +970,95 @@
          ]
      },
      {
+        "id": "manontas8",
+        "titre": {
+            "en": "茶杯 - CháBēi (small tea bowl)",
+            "fr": "茶杯 - CháBēi (petit bol à thé)"
+        },
+        "modification": "2022-02-27",
+        "création": "2021-02-27",
+        "catégorie": "Manon Clouzeau",
+        "description": {
+            "en": "Glazed 茶杯 - CháBēi. Unique piece.",
+            "fr": "茶杯 - CháBēi émaillé. Pièce unique."
+        },
+        "prix": 15.00,
+        "poids": 0.04,
+        "capacité": 60,
+        "quantité_produite": 1,
+        "photos": [
+            "manon_tasse_8-a.jpg",
+            "manon_tasse_8-b.jpg"
+        ]
+    },
+    {
+        "id": "manontas9",
+        "titre": {
+            "en": "茶杯 - CháBēi (small tea bowl)",
+            "fr": "茶杯 - CháBēi (petit bol à thé)"
+        },
+        "modification": "2022-02-27",
+        "création": "2022-02-27",
+        "catégorie": "Manon Clouzeau",
+        "description": {
+            "en": "Glazed 茶杯 - CháBēi. Unique piece.",
+            "fr": "茶杯 - CháBēi émaillé. Pièce unique."
+        },
+        "prix": 15.00,
+        "poids": 0.04,
+        "capacité": 60,
+        "quantité_produite": 1,
+        "photos": [
+            "manon_tasse_9-a.jpg",
+            "manon_tasse_9-b.jpg",
+            "manon_tasse_9-c.jpg"
+        ]
+    },
+    {
+        "id": "manontas10",
+        "titre": {
+            "en": "茶杯 - CháBēi (small tea bowl)",
+            "fr": "茶杯 - CháBēi (petit bol à thé)"
+        },
+        "modification": "2022-02-27",
+        "création": "2022-02-27",
+        "catégorie": "Manon Clouzeau",
+        "description": {
+            "en": "Glazed 茶杯 - CháBēi. Unique piece.",
+            "fr": "茶杯 - CháBēi émaillé. Pièce unique."
+        },
+        "prix": 15.00,
+        "poids": 0.04,
+        "capacité": 60,
+        "quantité_produite": 1,
+        "photos": [
+            "manon_tasse_10-a.jpg",
+            "manon_tasse_10-b.jpg"
+        ]
+    },
+    {
+        "id": "manontas11",
+        "titre": {
+            "en": "茶杯 - CháBēi (small tea bowl)",
+            "fr": "茶杯 - CháBēi (petit bol à thé)"
+        },
+        "modification": "2022-02-27",
+        "création": "2022-02-27",
+        "catégorie": "Manon Clouzeau",
+        "description": {
+            "en": "Glazed 茶杯 - CháBēi. Unique piece.",
+            "fr": "茶杯 - CháBēi émaillé. Pièce unique."
+        },
+        "prix": 15.00,
+        "poids": 0.04,
+        "capacité": 60,
+        "quantité_produite": 1,
+        "photos": [
+            "manon_tasse_11-a.jpg",
+            "manon_tasse_11-b.jpg"
+        ]
+    },
+     {
          "id": "manonbol1",
          "titre": {
              "en": "碗 - Wǎn (bowl)",
@@ -1127,6 +1216,30 @@
              "manon_gaiwan_3-c.jpg"
          ]
      },
+     {
+        "id": "manonga4",
+        "titre": {
+            "en": "蓋碗 - GàiWǎn",
+            "fr": "蓋碗 - GàiWǎn"
+        },
+        "modification": "2022-02-27",
+        "création": "2022-02-27",
+        "catégorie": "Manon Clouzeau",
+        "description": {
+            "en": "Glazed GàiWǎn. Unique piece.",
+            "fr": "GàiWǎn émaillé. Pièce unique."
+        },
+        "prix": 55.00,
+        "poids": 0.12,
+        "capacité": 140,
+        "quantité_produite": 1,
+        "photos": [
+            "manon_gaiwan_4-a.jpg",
+            "manon_gaiwan_4-b.jpg",
+            "manon_gaiwan_4-c.jpg",
+            "manon_gaiwan_4-d.jpg"
+        ]
+    },
      {
          "id": "manonver1",
          "titre": {
