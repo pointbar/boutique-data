@@ -1200,6 +1200,31 @@
         ]
     },
     {
+        "id": "jetheiere1",
+        "titre": {
+            "en": "Small glazed teapot",
+            "fr": "Petite théière émaillée"
+        },
+        "modification": "2021-02-27",
+        "création": "2022-02-27",
+        "catégorie": "Jé le Potier",
+        "description": {
+            "en": "Unique piece. Small glazed teapot. The glaze inside gives this teapot a certain versatility. The pouring is fast and fluid.",
+            "fr": "Pièce unique. Petite théière émaillée. L'émail présent à l'intérieur, confère à cette théière une certaine polyvalence. La verse et rapide et fluide."
+        },
+        "prix": 142.00,
+        "poids": 0.120,
+        "capacité": 80,
+        "quantité_produite": 1,
+        "photos": [
+            "jerome_theiere_1-a.jpg",
+            "jerome_theiere_1-b.jpg",
+            "jerome_theiere_1-c.jpg",
+            "jerome_theiere_1-d.jpg",
+            "jerome_theiere_1-e.jpg"
+        ]
+    },
+    {
         "id": "jetheiere2",
         "titre": {
             "en": "Small teapot in raw clay",
@@ -1246,7 +1271,33 @@
             "jerome_theiere_3-b.jpg",
             "jerome_theiere_3-c.jpg",
             "jerome_theiere_3-d.jpg",
-            "jerome_theiere_3-e.jpg"
+            "jerome_theiere_3-e.jpg",
+            "jerome_theiere_3-f.jpg"
+        ]
+    },
+    {
+        "id": "jetheiere4",
+        "titre": {
+            "en": "Small glazed teapot",
+            "fr": "Petite théière émaillée"
+        },
+        "modification": "2021-02-27",
+        "création": "2022-02-27",
+        "catégorie": "Jé le Potier",
+        "description": {
+            "en": "Unique piece. Small glazed teapot. The glaze inside gives this teapot a certain versatility. The pouring is fast and fluid.",
+            "fr": "Pièce unique. Petite théière émaillée. L'émail présent à l'intérieur, confère à cette théière une certaine polyvalence. La verse et rapide et fluide."
+        },
+        "prix": 142.00,
+        "poids": 0.120,
+        "capacité": 80,
+        "quantité_produite": 1,
+        "photos": [
+            "jerome_theiere_4-a.jpg",
+            "jerome_theiere_4-b.jpg",
+            "jerome_theiere_4-c.jpg",
+            "jerome_theiere_4-d.jpg",
+            "jerome_theiere_4-e.jpg"
         ]
     },
     {
@@ -1272,6 +1323,31 @@
             "jerome_hohin_1-c.jpg",
             "jerome_hohin_1-d.jpg",
             "jerome_hohin_1-e.jpg"
+        ]
+    },
+    {
+        "id": "jega1",
+        "titre": {
+            "en": "蓋碗 - GàiWǎn",
+            "fr": "蓋碗 - GàiWǎn"
+        },
+        "modification": "2021-02-27",
+        "création": "2022-02-27",
+        "catégorie": "Jé le Potier",
+        "description": {
+            "en": "Unique piece. Stoneware glazed 蓋碗 - GàiWǎn.",
+            "fr": "Pièce unique. 蓋碗 - GàiWǎn en grès émaillé."
+        },
+        "prix": 52.00,
+        "poids": 0.300,
+        "capacité": 100,
+        "quantité_produite": 1,
+        "photos": [
+            "jerome_gaiwan_1-a.jpg",
+            "jerome_gaiwan_1-b.jpg",
+            "jerome_gaiwan_1-c.jpg",
+            "jerome_gaiwan_1-d.jpg",
+            "jerome_gaiwan_1-e.jpg"
         ]
     }  
  ]
