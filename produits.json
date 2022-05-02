@@ -1530,10 +1530,10 @@
         "capacité": 90,
         "quantité_produite": 5,
         "photos": [
-            "melles_ceramique_gaiwan_1-a.jpg",
-            "melles_ceramique_gaiwan_1-b.jpg",
-            "melles_ceramique_gaiwan_1-c.jpg",
-            "melles_ceramique_gaiwan_1-d.jpg"
+            "melles-ceramique_gaiwan_1-a.jpg",
+            "melles-ceramique_gaiwan_1-b.jpg",
+            "melles-ceramique_gaiwan_1-c.jpg",
+            "melles-ceramique_gaiwan_1-d.jpg"
         ]
     },
     {
@@ -1547,19 +1547,19 @@
         "catégorie": "Mademoiselles Céramique",
         "description": {
             "en": "井蘭-JǐngLán teapot made of 紅泥 - HóngNí (red clay) from Yixing, turned by hand on a potter's wheel. Unique piece",
-            "fr": "Theière 井蘭 - JǐngLán en 紅泥 - HóngNí (argile rouge) de Yixing, tournée à la main. Pièce unique."
+            "fr": "Théière 井蘭 - JǐngLán en 紅泥 - HóngNí (argile rouge) de Yixing, tournée à la main. Pièce unique."
         },
         "prix": 200.00,
         "poids": 0.235,
         "capacité": 100,
         "quantité_produite": 1,
         "photos": [
-            "melles_ceramique_theiere_1-a.jpg",
-            "melles_ceramique_theiere_1-b.jpg",
-            "melles_ceramique_theiere_1-c.jpg",
-            "melles_ceramique_theiere_1-d.jpg",
-            "melles_ceramique_theiere_1-e.jpg",
-            "melles_ceramique_theiere_1-f.jpg"
+            "melles-ceramique_theiere_1-a.jpg",
+            "melles-ceramique_theiere_1-b.jpg",
+            "melles-ceramique_theiere_1-c.jpg",
+            "melles-ceramique_theiere_1-d.jpg",
+            "melles-ceramique_theiere_1-e.jpg",
+            "melles-ceramique_theiere_1-f.jpg"
         ]
     }  
  ]
