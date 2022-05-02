@@ -1429,7 +1429,7 @@
         "prix": 96.00,
         "poids": 0.125,
         "capacité": 100,
-        "quantité_produite": 1,
+        "quantité_produite": 0,
         "photos": [
             "jerome_hohin_1-a.jpg",
             "jerome_hohin_1-b.jpg",
@@ -1479,7 +1479,7 @@
         "prix": 86.00,
         "poids": 0.300,
         "capacité": 100,
-        "quantité_produite": 1,
+        "quantité_produite": 0,
         "photos": [
             "jerome_shiboridashi_1-a.jpg",
             "jerome_shiboridashi_1-b.jpg",
@@ -1510,6 +1510,56 @@
             "jerome_tasse_1-b.jpg",
             "jerome_tasse_1-c.jpg",
             "jerome_tasse_1-d.jpg"
+        ]
+    },
+    {
+        "id": "melles_ceramiquega1",
+        "titre": {
+            "en": "蓋碗 - GàiWǎn",
+            "fr": "蓋碗 - GàiWǎn"
+        },
+        "modification": "2022-05-02",
+        "création": "2022-05-02",
+        "catégorie": "Mademoiselles Céramique",
+        "description": {
+            "en": "White porcelain GàiWǎn.",
+            "fr": "GàiWǎn en porcelaine blanche."
+        },
+        "prix": 60.00,
+        "poids": 0.215,
+        "capacité": 90,
+        "quantité_produite": 5,
+        "photos": [
+            "melles_ceramique_gaiwan_1-a.jpg",
+            "melles_ceramique_gaiwan_1-b.jpg",
+            "melles_ceramique_gaiwan_1-c.jpg",
+            "melles_ceramique_gaiwan_1-d.jpg"
+        ]
+    },
+    {
+        "id": "melles_ceramiquetheiere1",
+        "titre": {
+            "en": "Small teapot in raw clay",
+            "fr": "Petite théière en terre brute"
+        },
+        "modification": "2022-05-02",
+        "création": "2022-05-02",
+        "catégorie": "Mademoiselles Céramique",
+        "description": {
+            "en": "井蘭-JǐngLán teapot made of 紅泥 - HóngNí (red clay) from Yixing, turned by hand on a potter's wheel. Unique piece",
+            "fr": "Theière 井蘭 - JǐngLán en 紅泥 - HóngNí (argile rouge) de Yixing, tournée à la main. Pièce unique."
+        },
+        "prix": 200.00,
+        "poids": 0.235,
+        "capacité": 100,
+        "quantité_produite": 1,
+        "photos": [
+            "melles_ceramique_theiere_1-a.jpg",
+            "melles_ceramique_theiere_1-b.jpg",
+            "melles_ceramique_theiere_1-c.jpg",
+            "melles_ceramique_theiere_1-d.jpg",
+            "melles_ceramique_theiere_1-e.jpg",
+            "melles_ceramique_theiere_1-f.jpg"
         ]
     }  
  ]
