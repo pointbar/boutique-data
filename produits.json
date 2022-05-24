@@ -1491,7 +1491,8 @@
              "manon_tasse_29-a.jpg",
              "manon_tasse_29-b.jpg",
              "manon_tasse_29-c.jpg"
-         ] {
+         ]
+         }, {
              "id": "manontas29",
              "titre": {
                  "en": "茶杯 - CháBēi (small tea bowl)",
@@ -2190,7 +2191,6 @@
              },
              "prix": 30.00,
              "poids": 0.074,
-             "capacité": 180,
              "capacité": 140,
              "quantité_produite": 1,
              "photos": [
