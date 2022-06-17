@@ -1792,7 +1792,7 @@
          },
          "poids": 0.035,
          "capacité": 50,
-         "quantité_produite": 1,
+         "quantité_produite": 0,
          "photos": [
              "manon_tasse_39-a.jpg",
              "manon_tasse_39-b.jpg",
@@ -1819,7 +1819,7 @@
          },
          "poids": 0.035,
          "capacité": 50,
-         "quantité_produite": 1,
+         "quantité_produite": 0,
          "photos": [
              "manon_tasse_40-a.jpg",
              "manon_tasse_40-b.jpg",
