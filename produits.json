@@ -12,7 +12,7 @@
              "fr": "Ce billet vous donne accès pour la journée du vendredi au parc aux bambous de Lapenne en Ariège - Pyrénées. Vous pourrez profitez de l'ensemble du programme proposé par le festival - https://gongfucha.brutdethé.fr/programme. L'affiche GongFuCha vous sera remise à l'entrée."
          },
          "prix": 12.00,
-         "poids": 0,
+         "quantité_produite": 100,
          "photos": [
              "ticket-gongfucha.jpg"
          ]
@@ -31,7 +31,7 @@
              "fr": "Ce billet vous donne accès pour la journée du samedi au parc aux bambous de Lapenne en Ariège - Pyrénées. Vous pourrez profitez de l'ensemble du programme proposé par le festival - https://gongfucha.brutdethé.fr/programme. L'affiche GongFuCha vous sera remise à l'entrée."
          },
          "prix": 15.00,
-         "poids": 0,
+         "quantité_produite": 100,
          "photos": [
              "ticket-gongfucha.jpg"
          ]
@@ -50,7 +50,7 @@
              "fr": "Ce billet vous donne accès pour la journée du dimanche au parc aux bambous de Lapenne en Ariège - Pyrénées. Vous pourrez profitez de l'ensemble du programme proposé par le festival - https://gongfucha.brutdethé.fr/programme. L'affiche GongFuCha vous sera remise à l'entrée."
          },
          "prix": 15.00,
-         "poids": 0,
+         "quantité_produite": 100,
          "photos": [
              "ticket-gongfucha.jpg"
          ]
@@ -69,7 +69,7 @@
              "fr": "Ce billet vous donne accès pour les trois journées au parc aux bambous de Lapenne en Ariège - Pyrénées. Vous pourrez profitez de l'ensemble du [programme proposé par le festival](https://gongfucha.brutdethé.fr/programme). L'affiche GongFuCha vous sera remise à l'entrée et vous pourrez choisir un bol à thé en céramique."
          },
          "prix": 50.00,
-         "poids": 0,
+         "quantité_produite": 100,
          "photos": [
              "ticket-gongfucha.jpg"
          ]
