@@ -14,7 +14,7 @@
          "prix": 12.00,
          "poids": 0,
          "photos": [
-             "theiere_5-a.jpg"
+             "ticket-gongfucha.jpg"
          ]
      },
      {
@@ -33,7 +33,7 @@
          "prix": 15.00,
          "poids": 0,
          "photos": [
-             "theiere_5-a.jpg"
+             "ticket-gongfucha.jpg"
          ]
      },
      {
@@ -52,7 +52,7 @@
          "prix": 15.00,
          "poids": 0,
          "photos": [
-             "theiere_5-a.jpg"
+             "ticket-gongfucha.jpg"
          ]
      },
      {
@@ -65,14 +65,13 @@
          "création": "2022-08-08",
          "catégorie": "Festival",
          "description": {
-             "en": "This ticket gives you access for the three days to the bamboo park of Lapenne in Ariège - Pyrénées. You can enjoy the entire - <a href="
-             https: //gongfucha.brutdethé.fr/programme">program offered by the festival</a>. The GongFuCha poster will be given to you at the entrance and you can choose a beautiful tea cup.",
-                 "fr": "Ce billet vous donne accès pour les trois journées au parc aux bambous de Lapenne en Ariège - Pyrénées. Vous pourrez profitez de l'ensemble du [programme proposé par le festival](https://gongfucha.brutdethé.fr/programme). L'affiche GongFuCha vous sera remise à l'entrée et vous pourrez choisir un bol à thé en céramique."
+             "en": "This ticket gives you access for the three days to the bamboo park of Lapenne in Ariège - Pyrénées. You can enjoy the entire - <a href=\"//gongfucha.brutdethé.fr/programme\">program offered by the festival</a>. The GongFuCha poster will be given to you at the entrance and you can choose a beautiful tea cup.",
+             "fr": "Ce billet vous donne accès pour les trois journées au parc aux bambous de Lapenne en Ariège - Pyrénées. Vous pourrez profitez de l'ensemble du [programme proposé par le festival](https://gongfucha.brutdethé.fr/programme). L'affiche GongFuCha vous sera remise à l'entrée et vous pourrez choisir un bol à thé en céramique."
          },
          "prix": 50.00,
          "poids": 0,
          "photos": [
-             "theiere_5-a.jpg"
+             "ticket-gongfucha.jpg"
          ]
      },
      {
@@ -2705,4 +2704,3 @@
              "melles-ceramique_theiere_1-f.jpg"
          ]
      }
- ]
