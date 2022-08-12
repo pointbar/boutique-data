@@ -1,12 +1,21 @@
 {
-    "Festival": {
+    "Dons GongFuCha": {
+        "titre": {
+            "fr": "Dons GongFuCha",
+            "en": "GongFuCha donations"
+        },
+        "description": {
+            "fr": "Aidez-nous à financer le festival 工夫茶 - GongFuCha, une balade poétique et bucolique ponctuée d’une dizaine d’expériences autour du monde du Thé, qui vous invitent à des dégustations, des rencontres et des conférences présentées par des céramistes, des cultivateurs et d’autres artisans passionnés de Thé.",
+            "en": "Help us fund the 工夫茶 - GongFuCha festival, a poetic and bucolic stroll punctuated by a dozen experiences around the world of tea, which invite you to tastings, meetings and conferences presented by ceramists, growers and other tea enthusiastic craftmen and craftwomen."
+        }
+    },"Festival": {
         "titre": {
             "fr": "Festival",
             "en": "Festival"
         },
         "description": {
             "fr": "Du 30 sep au 2 oct - Le festival 工夫茶 - GongFuCha propose une balade poétique et bucolique ponctuée d’une dizaine d’expériences autour du monde du Thé, qui vous invitent à des dégustations, des rencontres et des conférences présentées par des céramistes, des cultivateurs et d’autres artisans passionnés de Thé.",
-            "en": "From Sep 30 to Oct 2 - The 工夫茶 - GongFuCha festival offers a poetic and bucolic stroll punctuated by a dozen experiences around the world of tea, which invite you to tastings, meetings and conferences presented by ceramists, growers and other artisans. Tea enthusiasts."
+            "en": "From Sep 30 to Oct 2 - The 工夫茶 - GongFuCha festival offers a poetic and bucolic stroll punctuated by a dozen experiences around the world of tea, which invite you to tastings, meetings and conferences presented by ceramists, growers and other tea enthusiastic craftmen and craftwomen"
         }
     },
     "Thé": {
