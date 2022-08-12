@@ -77,17 +77,55 @@
      {
         "id": "Don5",
         "titre": {
-            "en": "Don de 5 €",
+            "en": "5 € donation",
             "fr": "Don de 5 €"
         },
         "modification": "2022-08-11",
         "création": "2022-08-12",
-        "catégorie": "",
+        "catégorie": "Dons GongFuCha",
         "description": {
-            "en": "Give 5 € and get a huge thanks from us.",
+            "en": "Donate 5 € and get a huge thank you from us.",
             "fr": "Fais un don de 5 € et reçoit un grand merci."
         },
         "prix": 5.00,
+        "quantité_produite": 30,
+        "photos": [
+            "ticket-gongfucha.jpg"
+        ]
+    },
+    {
+        "id": "Don10",
+        "titre": {
+            "en": "10 € donation",
+            "fr": "Don de 10 €"
+        },
+        "modification": "2022-08-11",
+        "création": "2022-08-12",
+        "catégorie": "Dons GongFuCha",
+        "description": {
+            "en": "Donate 10 € and receive the festival poster.",
+            "fr": "Fais un don de 10 € et reçoit l'affiche du festival."
+        },
+        "prix": 10.00,
+        "quantité_produite": 30,
+        "photos": [
+            "ticket-gongfucha.jpg"
+        ]
+    },
+    {
+        "id": "Don50",
+        "titre": {
+            "en": "50 € donation",
+            "fr": "Don de 50 €"
+        },
+        "modification": "2022-08-11",
+        "création": "2022-08-12",
+        "catégorie": "Dons GongFuCha",
+        "description": {
+            "en": "Donate 50 € and receive a tea bowl mad eby Manon Clouzeau and the festival poster.",
+            "fr": "Fais un don de 50 € et reçoit un bol à thé de Manon Clouzeau et l'affiche du festival."
+        },
+        "prix": 50.00,
         "quantité_produite": 30,
         "photos": [
             "ticket-gongfucha.jpg"
