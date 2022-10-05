@@ -12,7 +12,7 @@
              "fr": "Ce billet vous donne accès pour la journée du vendredi au parc aux bambous de Lapenne en Ariège - Pyrénées. Vous pourrez profitez de l'ensemble du programme proposé par le festival. L'affiche GongFuCha vous sera remise à l'entrée."
          },
          "prix": 12.00,
-         "quantité_produite": 60,
+         "quantité_produite": 0,
          "photos": [
              "ticket-gongfucha.jpg"
          ]
@@ -31,7 +31,7 @@
              "fr": "Ce billet vous donne accès pour la journée du samedi au parc aux bambous de Lapenne en Ariège - Pyrénées. Vous pourrez profitez de l'ensemble du programme proposé par le festival. L'affiche GongFuCha vous sera remise à l'entrée."
          },
          "prix": 15.00,
-         "quantité_produite": 60,
+         "quantité_produite": 0,
          "photos": [
              "ticket-gongfucha.jpg"
          ]
@@ -50,7 +50,7 @@
              "fr": "Ce billet vous donne accès pour la journée du dimanche au parc aux bambous de Lapenne en Ariège - Pyrénées. Vous pourrez profitez de l'ensemble du programme proposé par le festival. L'affiche GongFuCha vous sera remise à l'entrée."
          },
          "prix": 15.00,
-         "quantité_produite": 60,
+         "quantité_produite": 0,
          "photos": [
              "ticket-gongfucha.jpg"
          ]
@@ -69,7 +69,7 @@
              "fr": "Ce billet vous donne accès pour les trois journées et à la nocturne au parc aux bambous de Lapenne en Ariège - Pyrénées. Vous pourrez profitez de l'ensemble du programme proposé par le festival. L'affiche GongFuCha vous sera remise à l'entrée et vous pourrez choisir un bol à thé en céramique."
          },
          "prix": 80.00,
-         "quantité_produite": 25,
+         "quantité_produite": 0,
          "photos": [
              "ticket-gongfucha.jpg"
          ]
@@ -88,7 +88,7 @@
              "fr": "Ce billet vous donne accès à la soirée nocturne du samedi."
          },
          "prix": 35.00,
-         "quantité_produite": 33,
+         "quantité_produite": 0,
          "photos": [
              "ticket-gongfucha-nocturne.jpg",
              "ticket-gongfucha.jpg"
@@ -108,7 +108,7 @@
              "fr": "Fais un don de 5 € et reçois un grand merci."
          },
          "prix": 5.00,
-         "quantité_produite": 30,
+         "quantité_produite": 0,
          "photos": [
              "ticket-gongfucha.jpg"
          ]
@@ -127,7 +127,7 @@
              "fr": "Fais un don de 10 € et reçois l'affiche du festival."
          },
          "prix": 10.00,
-         "quantité_produite": 30,
+         "quantité_produite": 0,
          "photos": [
              "ticket-gongfucha.jpg"
          ]
@@ -146,7 +146,7 @@
              "fr": "Fais un don de 50 € et reçois un bol à thé de Manon Clouzeau et l'affiche du festival."
          },
          "prix": 50.00,
-         "quantité_produite": 30,
+         "quantité_produite": 0,
          "photos": [
              "ticket-gongfucha.jpg"
          ]
@@ -165,7 +165,7 @@
              "fr": "Fais un don de 100 € et reçois un kit de dégustation, un bol à thé de Manon Clouzeau et l'affiche du festival."
          },
          "prix": 100.00,
-         "quantité_produite": 30,
+         "quantité_produite": 0,
          "photos": [
              "ticket-gongfucha.jpg"
          ]
@@ -184,7 +184,7 @@
              "fr": "Fais un don de 200 € et reçois une théière de Jé le Potier, un kit de dégustation, un bol à thé de Manon Clouzeau et l'affiche du festival."
          },
          "prix": 200.00,
-         "quantité_produite": 30,
+         "quantité_produite": 0,
          "photos": [
              "ticket-gongfucha.jpg"
          ]
@@ -577,7 +577,7 @@
          },
          "prix": 100.00,
          "poids": 0.1,
-         "quantité_produite": 1,
+         "quantité_produite": 0,
          "producteur": "白福藏倉 - BáiFúCángCāng",
          "type": "Pǔ'ěr cru - 普洱生茶 - Pǔ’ěr ShēngChá",
          "cultivar": "大葉 - DàYè",
@@ -968,7 +968,7 @@
          "prix": 120.00,
          "poids": 0.150,
          "capacité": 130,
-         "quantité_produite": 1,
+         "quantité_produite": 0,
          "photos": [
              "theiere_8-a.jpg",
              "theiere_8-b.jpg",
