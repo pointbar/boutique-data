@@ -813,7 +813,7 @@
          "prix": 169.00,
          "poids": 0.150,
          "capacité": 170,
-         "quantité_produite": 1,
+         "quantité_produite": 0,
          "photos": [
              "theiere_2-a.jpg",
              "theiere_2-b.jpg",
@@ -1021,7 +1021,7 @@
          "prix": 40.00,
          "poids": 0.053,
          "capacité": 60,
-         "quantité_produite": 1,
+         "quantité_produite": 0,
          "photos": [
              "theiere_10-a.jpg",
              "theiere_10-b.jpg",
