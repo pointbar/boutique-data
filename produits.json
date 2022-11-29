@@ -1,100 +1,4 @@
  [{
-         "id": "billet1",
-         "titre": {
-             "en": "Simple one day ticket - Friday 30 Sep 2022 - 11h-18h",
-             "fr": "Billet simple - vendredi 30 sept 2022 - 11h-18h"
-         },
-         "modification": "2022-08-08",
-         "création": "2022-08-08",
-         "catégorie": "Festival",
-         "description": {
-             "en": "This ticket gives you access for the thursday to the bamboo park of Lapenne in Ariège - Pyrénées. You can enjoy the entire program offered by the festival. The GongFuCha poster will be given to you at the entrance.",
-             "fr": "Ce billet vous donne accès pour la journée du vendredi au parc aux bambous de Lapenne en Ariège - Pyrénées. Vous pourrez profitez de l'ensemble du programme proposé par le festival. L'affiche GongFuCha vous sera remise à l'entrée."
-         },
-         "prix": 12.00,
-         "quantité_produite": 0,
-         "photos": [
-             "ticket-gongfucha.jpg"
-         ]
-     },
-     {
-         "id": "billet2",
-         "titre": {
-             "en": "Simple one day ticket - Saturday 1 Oct 2022 - 11h-18h",
-             "fr": "Billet simple - samedi 1 oct 2022 - 11h-18h"
-         },
-         "modification": "2022-08-08",
-         "création": "2022-08-08",
-         "catégorie": "Festival",
-         "description": {
-             "en": "This ticket gives you access for the saturday to the bamboo park of Lapenne in Ariège - Pyrénées. You can enjoy the entire program offered by the festival. The GongFuCha poster will be given to you at the entrance.",
-             "fr": "Ce billet vous donne accès pour la journée du samedi au parc aux bambous de Lapenne en Ariège - Pyrénées. Vous pourrez profitez de l'ensemble du programme proposé par le festival. L'affiche GongFuCha vous sera remise à l'entrée."
-         },
-         "prix": 15.00,
-         "quantité_produite": 0,
-         "photos": [
-             "ticket-gongfucha.jpg"
-         ]
-     },
-     {
-         "id": "billet3",
-         "titre": {
-             "en": "Simple one day ticket - Sunday 2 oct 2022 - 11h-18h",
-             "fr": "Billet simple - dimanche 2 oct 2022 - 11h-18h"
-         },
-         "modification": "2022-08-08",
-         "création": "2022-08-08",
-         "catégorie": "Festival",
-         "description": {
-             "en": "This ticket gives you access for the sunday to the bamboo park of Lapenne in Ariège - Pyrénées. You can enjoy the entire program offered by the festival. The GongFuCha poster will be given to you at the entrance.",
-             "fr": "Ce billet vous donne accès pour la journée du dimanche au parc aux bambous de Lapenne en Ariège - Pyrénées. Vous pourrez profitez de l'ensemble du programme proposé par le festival. L'affiche GongFuCha vous sera remise à l'entrée."
-         },
-         "prix": 15.00,
-         "quantité_produite": 0,
-         "photos": [
-             "ticket-gongfucha.jpg"
-         ]
-     },
-     {
-         "id": "billet4",
-         "titre": {
-             "en": "Aficionado ticket - all access + cup + nocturne",
-             "fr": "Aficionado - accès libre + bol + nocturne"
-         },
-         "modification": "2022-08-08",
-         "création": "2022-08-08",
-         "catégorie": "Festival",
-         "description": {
-             "en": "This ticket gives you access for the three days and nocturnal to the bamboo park of Lapenne in Ariège - Pyrénées. You can enjoy the entire program offered by the festival. The GongFuCha poster will be given to you at the entrance and you can choose a beautiful tea cup.",
-             "fr": "Ce billet vous donne accès pour les trois journées et à la nocturne au parc aux bambous de Lapenne en Ariège - Pyrénées. Vous pourrez profitez de l'ensemble du programme proposé par le festival. L'affiche GongFuCha vous sera remise à l'entrée et vous pourrez choisir un bol à thé en céramique."
-         },
-         "prix": 80.00,
-         "quantité_produite": 0,
-         "photos": [
-             "ticket-gongfucha.jpg"
-         ]
-     },
-     {
-         "id": "billet5",
-         "titre": {
-             "en": "Nocturnal - Saturday 1st oct 2022 - 20h01-22h59",
-             "fr": "Nocturne - Saturday 1 oct 2022 - 20h01-22h59"
-         },
-         "modification": "2022-08-08",
-         "création": "2022-08-08",
-         "catégorie": "Festival",
-         "description": {
-             "en": "This ticket gives you access for the saturday's nocturnal.",
-             "fr": "Ce billet vous donne accès à la soirée nocturne du samedi."
-         },
-         "prix": 35.00,
-         "quantité_produite": 0,
-         "photos": [
-             "ticket-gongfucha-nocturne.jpg",
-             "ticket-gongfucha.jpg"
-         ]
-     },
-     {
          "id": "Don5",
          "titre": {
              "en": "5 € donation",
@@ -218,37 +122,6 @@
          ]
      },
      {
-         "id": "lu1",
-         "titre": {
-             "en": "一品香 - YīPǐnXiāng",
-             "fr": "一品香 - YīPǐnXiāng"
-         },
-         "modification": "2021-06-28",
-         "création": "2021-06-06",
-         "catégorie": "Thé",
-         "description": {
-             "en": "This tea, created in 2011, is a variant of the famous 綠寶石 - LǜBǎoShí created by the 牟 - Móu family and bought by the 貴茶 - GuìChá company. It is particularly sweet. It is a pure and simple green tea, ideal for getting closer to the essence of this tea family.",
-             "fr": "Ce thé, créé en 2011, est une variante du célèbre 綠寶石 - LǜBǎoShí créé par la famille 牟 - Móu et racheté par la société 貴茶 - GuìChá. Il est particulièrement doux. C’est un thé vert pur et simple, idéal pour se rapprocher de l’essence même de cette famille de thé."
-         },
-         "prix": 15.00,
-         "poids": 0.025,
-         "quantité_produite": 0,
-         "altitude": 1000,
-         "producteur": "Famille 牟 - Móu",
-         "type": "vert - 綠茶 - LǜChá",
-         "village": "鳳岡 - FèngGāng",
-         "province": "贵州 - Guìzhōu",
-         "photos": [
-             "LuCha_YiPingXiang_1-a.jpg",
-             "LuCha_YiPingXiang_1-b.jpg",
-             "LuCha_YiPingXiang_1-c.jpg",
-             "LuCha_YiPingXiang_1-d.jpg",
-             "LuCha_YiPingXiang_1-e.jpg",
-             "LuCha_YiPingXiang_1-f.jpg",
-             "LuCha_YiPingXiang_1-g.jpg"
-         ]
-     },
-     {
          "id": "lu2",
          "titre": {
              "en": "都匀毛尖 - DūYúnMáoJiān",
@@ -281,35 +154,6 @@
          ]
      },
      {
-         "id": "lu3",
-         "titre": {
-             "en": "供芽 - GōngYá",
-             "fr": "供芽 - GōngYá"
-         },
-         "modification": "2021-06-28",
-         "création": "2021-06-28",
-         "catégorie": "Thé",
-         "description": {
-             "en": "This tea is harvested and prepared in the three days before 清明節 - QīngMíngJié, April 4th, by Madame 问 - Wèn of the 土家族 - TǔJiāZú Taoist ethnic group. QīngMíngJié is the day of the annual visit to the ancestors' tombs by the families. It is lightly cooked on traditional kilns, which allows it to develop its flavours while keeping the qualities of bud teas.",
-             "fr": "Ce thé est récolté et fabriqué dans les trois jours précédant 清明節 - QīngMíngJié, le 4 avril, par Madame 问 - Wèn de l’ethnie taoïste 土家族 - TǔJiāZú. QīngMíngJié est le jour de la visite annuelle des tombes des ancêtres par les familles. Il est légèrement cuit sur des fours traditionnels, ce qui lui permet de développer ses arômes tout en gardant les qualités des thés en bourgeon."
-         },
-         "prix": 15.00,
-         "poids": 0.025,
-         "quantité_produite": 0,
-         "altitude": 1000,
-         "producteur": "Madame 问 - Wèn",
-         "type": "vert - 綠茶 - LǜChá",
-         "village": "宜昌市 - YíChāngShì",
-         "province": "湖北 - Húběi",
-         "photos": [
-             "LuCha_GongYa_1-a.jpg",
-             "LuCha_GongYa_1-b.jpg",
-             "LuCha_GongYa_1-c.jpg",
-             "LuCha_GongYa_1-d.jpg",
-             "LuCha_GongYa_1-e.jpg"
-         ]
-     },
-     {
          "id": "wulong1",
          "titre": {
              "en": "番薯香單叢 - FānShǔXiāng DānCóng",
@@ -336,62 +180,6 @@
          "photos": [
              "QingCha_FanShuXiang-DanCong_1-a.jpg",
              "QingCha_FanShuXiang-DanCong_1-b.jpg"
-         ]
-     },
-     {
-         "id": "wulong2",
-         "titre": {
-             "en": "金萱 - JīnXuān",
-             "fr": "金萱 - JīnXuān"
-         },
-         "modification": "2021-06-06",
-         "création": "2021-06-06",
-         "catégorie": "Thé",
-         "description": {
-             "en": "This 烏龍 - WūLóng seems to us to be particularly suitable for people who are switching from flavored teas to authentic teas. It is known for its milky WūLóng flavor.",
-             "fr": "Ce 烏龍 - WūLóng nous semble particulièrement adapté pour les personnes qui passent des thés aromatisés aux thés authentiques. Il est réputé pour sa saveur laiteuse (milky WūLóng)."
-         },
-         "prix": 15.00,
-         "poids": 0.025,
-         "quantité_produite": 0,
-         "producteur": "M. 李 - Lǐ",
-         "type": "bleu-vert - 青茶 - QīngChá",
-         "fiche": "JinXuan",
-         "province": "臺灣 - Táiwān",
-         "cultivar": "金萱 - JīnXuān",
-         "photos": [
-             "QingCha_JinXuan_2-a.jpg",
-             "QingCha_JinXuan_2-b.jpg"
-         ]
-     },
-     {
-         "id": "wulong3",
-         "titre": {
-             "en": "貴妃 - GuìFēi",
-             "fr": "貴妃 - GuìFēi"
-         },
-         "modification": "2021-06-06",
-         "création": "2021-06-06",
-         "catégorie": "Thé",
-         "description": {
-             "en": "A 烏龍 - WūLóng of high mountain 高山 - GāoShān. Low oxidized and very elegant. Produced in central 臺灣 - Táiwān, in the mountains of 阿里山 - ĀlǐShān.",
-             "fr": "Un 烏龍 - WūLóng de haute montagne 高山 - GāoShān. Peu oxydé et très élégant. Produit au centre de 臺灣 - Táiwān, dans les montagnes de 阿里山 - ĀlǐShān."
-         },
-         "prix": 15.00,
-         "poids": 0.025,
-         "quantité_produite": 0,
-         "origine": "臺灣 - Táiwān",
-         "producteur": "M. 黃振興 - HuángZhènXīng",
-         "type": "bleu-vert - 青茶 - QīngChá",
-         "fiche": "GaoShanCha",
-         "altitude": 1800,
-         "village": "阿里山 - ĀlǐShān",
-         "province": "臺灣 - Táiwān",
-         "cultivar": "",
-         "photos": [
-             "QingCha_GuiFei_3-a.jpg",
-             "QingCha_GuiFei_3-b.jpg",
-             "QingCha_GuiFei_3-c.jpg"
          ]
      },
      {
@@ -563,30 +351,6 @@
          ]
      },
      {
-         "id": "puer1",
-         "titre": {
-             "en": "禅悦 ChánYuè - 3.53 oz",
-             "fr": "禅悦 ChánYuè - 100 g"
-         },
-         "modification": "2021-06-06",
-         "création": "2021-06-06",
-         "catégorie": "Thé",
-         "description": {
-             "en": "This 生普洱 - Shēng Pǔ'ěr of 白福藏倉 - BáiFúCángCāng comes from wild tea bushes that are between 300 years old and 1000 years old and grow in areas that are little known to date.",
-             "fr": "Ce 生普洱 - Shēng Pǔ'ěr de 白福藏倉 - BáiFúCángCāng est issu de théiers sauvages âgés entre 300 ans et 1000 ans et poussent dans des zones peu connues à ce jour."
-         },
-         "prix": 100.00,
-         "poids": 0.1,
-         "quantité_produite": 0,
-         "producteur": "白福藏倉 - BáiFúCángCāng",
-         "type": "Pǔ'ěr cru - 普洱生茶 - Pǔ’ěr ShēngChá",
-         "cultivar": "大葉 - DàYè",
-         "photos": [
-             "PuEr_HeHa_1-a.jpg",
-             "PuEr_HeHa_1-b.jpg"
-         ]
-     },
-     {
          "id": "puer2",
          "titre": {
              "en": "茶化石 - CháHuàShí - 5.29 oz",
@@ -610,38 +374,6 @@
              "PuEr_ChaHuaShi_1-a.jpg",
              "PuEr_ChaHuaShi_1-b.jpg",
              "PuEr_ChaHuaShi_1-c.jpg"
-         ]
-     },
-     {
-         "id": "puer3",
-         "titre": {
-             "en": "莽枝 - MǎngZhī",
-             "fr": "莽枝 - MǎngZhī"
-         },
-         "modification": "2021-10-11",
-         "création": "2021-10-08",
-         "catégorie": "Thé",
-         "description": {
-             "en": "This 生普洱 - Shēng Pǔ'ěr tea comes from tea bushes that grow on the 莽枝 - MǎngZhī mountain，situated in the 勐臘 - MěngLà prefecture, in the 西雙版納 - XīShuāngBǎnNà. This mountain is part of the 古今六大茶山 - GǔJīn Liù Dà CháShān, the six « ancient » tea mountains in China, where local minority ethnic groups have been growing tea for thousands of years.",
-             "fr": "Ce thé 生普洱 - Shēng Pǔ'ěr est issu de théiers qui poussent sur la montagne 莽枝 - MǎngZhī，située dans la préfecture du 勐臘 - MěngLà, dans le 西雙版納 - XīShuāngBǎnNà. Cette montagne fait partie fait partie des 古今六大茶山 - GǔJīn Liù Dà CháShān, les six « anciennes » montagnes à thé en Chine, où les ethnies minoritaires locales cultivent le thé depuis des millénaires."
-         },
-         "prix": 15.00,
-         "poids": 0.025,
-         "quantité_produite": 0,
-         "producteur": "劉姐 - Liú jiě",
-         "type": "Pǔ'ěr cru - 普洱生茶 - Pǔ’ěr ShēngChá",
-         "altitude": 1000,
-         "village": "",
-         "province": "雲南 - Yúnnán",
-         "cultivar": "",
-         "photos": [
-             "PuEr_MangZhi_1-a.jpg",
-             "PuEr_MangZhi_1-b.jpg",
-             "PuEr_MangZhi_1-c.jpg",
-             "PuEr_MangZhi_1-d.jpg",
-             "PuEr_MangZhi_1-e.jpg",
-             "PuEr_MangZhi_1-f.jpg",
-             "PuEr_MangZhi_1-g.jpg"
          ]
      },
      {
@@ -726,29 +458,6 @@
          ]
      },
      {
-         "id": "ga4",
-         "titre": {
-             "en": "Glass GàiWǎn",
-             "fr": "GàiWǎn en verre"
-         },
-         "modification": "2021-04-10",
-         "création": "2021-04-10",
-         "catégorie": "Gaiwan",
-         "description": {
-             "en": "Glass GàiWǎn. This is not the traditional approach, but it is convenient to witness the spectacle of your brews.",
-             "fr": "GàiWǎn en verre. Ce n'est pas l'approche traditionnel, mais c'est pratique pour assister au spectacle de vos infusions."
-         },
-         "prix": 10.00,
-         "poids": 0.140,
-         "capacité": 130,
-         "quantité_produite": 0,
-         "photos": [
-             "gaiwan_3-a.jpg",
-             "gaiwan_3-b.jpg",
-             "gaiwan_3-c.jpg"
-         ]
-     },
-     {
          "id": "sdv2",
          "titre": {
              "en": "Travel set",
@@ -770,55 +479,6 @@
              "set-de-voyage_1-b.jpg",
              "set-de-voyage_1-c.jpg",
              "set-de-voyage_1-d.jpg"
-         ]
-     },
-     {
-         "id": "th1",
-         "origine": "福建 - FúJiàn - 德化縣 - DéHuà Xiàn",
-         "titre": {
-             "en": "西施 - 湯瓶 - TāngPíng teapot ",
-             "fr": "Théière 西施 - 湯瓶 - TāngPíng"
-         },
-         "modification": "2021-04-10",
-         "création": "2021-04-10",
-         "catégorie": "Théière",
-         "description": {
-             "en": "Teapots 湯瓶 - TāngPíng originated in China during the Song Dynasty (960-1279). It was in Japan that they had their evolutions under the term 横手急須 - Yokode Kyūsu. Its iconic feature is that it has a side handle. The mineral-rich clay softens the tea by limiting astringency. This teapot was fired at high temperature, then a sand glaze is applied.",
-             "fr": "Les théières 湯瓶 - TāngPíng sont nées en Chine pendant la dynastie Song (960-1279). C'est au Japon qu'elles ont connu leurs évolutions sous le terme de 横手急須 - Yokode Kyūsu. Sa caractéristique emblématique est qu'elle possède une poignée latérale. L'argile riche en minéraux adoucit le thé en limitant l'astringence. Cette théière a été cuite à haute température, puis un glaçage au sable est appliqué."
-         },
-         "prix": 36.00,
-         "poids": 0.250,
-         "capacité": 200,
-         "quantité_produite": 0,
-         "photos": [
-             "theiere_1-a.jpg",
-             "theiere_1-b.jpg"
-         ]
-     },
-     {
-         "id": "th2",
-         "origine": "欽州 - QīnZhōu, 廣西 - GuǎngXī",
-         "titre": {
-             "en": "西施 - XīShī - 坭興 - NíXìng teapot ",
-             "fr": "Théière 西施 - XīShī - 坭興 - NíXìng"
-         },
-         "modification": "2021-05-21",
-         "création": "2021-05-21",
-         "producteur": "烏英 WūYīng",
-         "catégorie": "Théière",
-         "description": {
-             "en": "NíXìng pottery is unique because it achieves a complex, mottled coloring during firing. They are made by mixing clay from both banks of the 欽江 - QīnJiāng River. The color changes in the kiln as it evolves from bronze brown to blue-gray, making each piece unique. 全手工 QuánShǒuGōng (handmade).",
-             "fr": "Les poteries NíXìng sont uniques car elles obtiennent une coloration complexe et tachetée pendant la cuisson. Elles sont fabriquées en mélangeant l'argile des deux rives de la rivière 欽江 - QīnJiāng. La couleur change dans le four en évoluant du brun bronze au gris-bleu, rendant chaque pièce unique. 全手工 QuánShǒuGōng (fait à la main)."
-         },
-         "prix": 169.00,
-         "poids": 0.150,
-         "capacité": 170,
-         "quantité_produite": 0,
-         "photos": [
-             "theiere_2-a.jpg",
-             "theiere_2-b.jpg",
-             "theiere_2-c.jpg",
-             "theiere_2-d.jpg"
          ]
      },
      {
@@ -870,32 +530,6 @@
              "theiere_4-b.jpg",
              "theiere_4-c.jpg",
              "theiere_4-d.jpg"
-         ]
-     },
-     {
-         "id": "th5",
-         "titre": {
-             "en": "黑金鋼沙 - HēiJīnGāngShā - 西施 - XīShī teapot",
-             "fr": "Théière 黑金鋼沙 - HēiJīnGāngShā - 西施 - XīShī"
-         },
-         "modification": "2021-04-10",
-         "création": "2021-04-10",
-         "origine": "宜興 - YíXìng - 江蘇 - JiāngSū",
-         "catégorie": "Théière",
-         "description": {
-             "en": "This teapot, created by the artist 下彩虹 - XiàCǎiHóng.  It was made from 黑金鋼沙 - HēiJīnGāngShā, a mix of two clays: 紫泥 - ZǐNí and 寶藍朱泥 - BǎolánZhūNí.",
-             "fr": "Cette théière, réalisée par l'artiste 下彩虹 - XiàCǎiHóng. Elle a été fabriquée à partir d'un mélange appelé 黑金鋼沙 - HēiJīnGāngShā, composé de deux argiles : 紫泥 - ZǐNí et 寶藍朱泥 - BǎolánZhūNí."
-         },
-         "prix": 89.00,
-         "poids": 0.115,
-         "capacité": 120,
-         "quantité_produite": 0,
-         "photos": [
-             "theiere_5-a.jpg",
-             "theiere_5-b.jpg",
-             "theiere_5-c.jpg",
-             "theiere_5-d.jpg",
-             "theiere_5-e.jpg"
          ]
      },
      {
@@ -1006,30 +640,6 @@
          ]
      },
      {
-         "id": "th10",
-         "titre": {
-             "en": "西施 XīShī - 晓桂非 - XiǎoGuìFēi teapot",
-             "fr": "Théière 晓桂非 - XiǎoGuìFēi - 西施 XīShī"
-         },
-         "modification": "2021-07-02",
-         "création": "2021-07-02",
-         "catégorie": "Théière",
-         "description": {
-             "en": "With a capacity of two tea bowls, this delightful, tiny teapot is the smallest conceivable for sharing tea. The 西施 XīShī - 晓桂非 - XiǎoGuìFēi shape is among the classics of Chinese tradition. It was made in 臺灣 - TáiWān in 半手工 - BànShǒuGōng mode, which means semi-manual, using molds. It is made of purple clay - 紫泥 ZǐNí.",
-             "fr": "D'une capacité de deux bols à thé, cette ravissante et minuscule théière est la plus petite envisageable pour partager un thé. La forme 西施 XīShī - 晓桂非 - XiǎoGuìFēi fait partie des classiques de la tradition chinoise. Elle a été fabriquée à 臺灣 - TáiWān en mode 半手工 - BànShǒuGōng, c'est à dire semi-manuelle, à l'aide de moules. Elle est en argile pourpre - 紫泥 ZǐNí."
-         },
-         "prix": 40.00,
-         "poids": 0.053,
-         "capacité": 60,
-         "quantité_produite": 0,
-         "photos": [
-             "theiere_10-a.jpg",
-             "theiere_10-b.jpg",
-             "theiere_10-c.jpg",
-             "theiere_10-d.jpg"
-         ]
-     },
-     {
          "id": "manontas1",
          "titre": {
              "en": "茶杯 - CháBēi (small tea bowl)",
@@ -1114,28 +724,6 @@
          "photos": [
              "manon_tasse_4-a.jpg",
              "manon_tasse_4-b.jpg"
-         ]
-     },
-     {
-         "id": "manontas5",
-         "titre": {
-             "en": "茶杯 - CháBēi (small tea bowl)",
-             "fr": "茶杯 - CháBēi (petit bol à thé)"
-         },
-         "modification": "2021-09-08",
-         "création": "2021-09-08",
-         "catégorie": "Manon Clouzeau",
-         "description": {
-             "en": "Glazed 茶杯 - CháBēi. Unique piece.",
-             "fr": "茶杯 - CháBēi émaillé. Pièce unique."
-         },
-         "prix": 15.00,
-         "poids": 0.04,
-         "capacité": 60,
-         "quantité_produite": 0,
-         "photos": [
-             "manon_tasse_5-a.jpg",
-             "manon_tasse_5-b.jpg"
          ]
      },
      {
@@ -1277,32 +865,6 @@
          ]
      },
      {
-         "id": "manontas13",
-         "titre": {
-             "en": "茶杯 - CháBēi (small tea bowl)",
-             "fr": "茶杯 - CháBēi (petit bol à thé)"
-         },
-         "modification": "2022-05-17",
-         "création": "2022-05-17",
-         "catégorie": "Manon Clouzeau",
-         "description": {
-             "en": "Glazed porcelain 茶杯 - CháBēi. Unique piece.",
-             "fr": "茶杯 - CháBēi en porcelaine émaillée, 1250°C. Pièce unique."
-         },
-         "prix": 20.00,
-         "dimension": {
-             "largeur": 6.9,
-             "hauteur": 3.5
-         },
-         "poids": 0.035,
-         "capacité": 50,
-         "quantité_produite": 0,
-         "photos": [
-             "manon_tasse_13-a.jpg",
-             "manon_tasse_13-b.jpg",
-             "manon_tasse_13-c.jpg"
-         ]
-     }, {
          "id": "manontas14",
          "titre": {
              "en": "茶杯 - CháBēi (small tea bowl)",
@@ -1431,58 +993,6 @@
              "manon_tasse_18-a.jpg",
              "manon_tasse_18-b.jpg",
              "manon_tasse_18-c.jpg"
-         ]
-     }, {
-         "id": "manontas19",
-         "titre": {
-             "en": "茶杯 - CháBēi (small tea bowl)",
-             "fr": "茶杯 - CháBēi (petit bol à thé)"
-         },
-         "modification": "2022-05-17",
-         "création": "2022-05-17",
-         "catégorie": "Manon Clouzeau",
-         "description": {
-             "en": "Glazed porcelain 茶杯 - CháBēi. Unique piece.",
-             "fr": "茶杯 - CháBēi en porcelaine émaillée, 1250°C. Pièce unique."
-         },
-         "prix": 15.00,
-         "dimension": {
-             "largeur": 6.7,
-             "hauteur": 2.8
-         },
-         "poids": 0.035,
-         "capacité": 50,
-         "quantité_produite": 0,
-         "photos": [
-             "manon_tasse_19-a.jpg",
-             "manon_tasse_19-b.jpg",
-             "manon_tasse_19-c.jpg"
-         ]
-     }, {
-         "id": "manontas20",
-         "titre": {
-             "en": "茶杯 - CháBēi (small tea bowl)",
-             "fr": "茶杯 - CháBēi (petit bol à thé)"
-         },
-         "modification": "2022-05-17",
-         "création": "2022-05-17",
-         "catégorie": "Manon Clouzeau",
-         "description": {
-             "en": "Glazed porcelain 茶杯 - CháBēi. Unique piece.",
-             "fr": "茶杯 - CháBēi en porcelaine émaillée, 1250°C. Pièce unique."
-         },
-         "prix": 15.00,
-         "dimension": {
-             "largeur": 6.5,
-             "hauteur": 3.2
-         },
-         "poids": 0.035,
-         "capacité": 50,
-         "quantité_produite": 0,
-         "photos": [
-             "manon_tasse_20-a.jpg",
-             "manon_tasse_20-b.jpg",
-             "manon_tasse_20-c.jpg"
          ]
      }, {
          "id": "manontas21",
@@ -2015,30 +1525,6 @@
              "manon_tasse_40-a.jpg",
              "manon_tasse_40-b.jpg",
              "manon_tasse_40-c.jpg"
-         ]
-     },
-
-
-     {
-         "id": "manonbol1",
-         "titre": {
-             "en": "碗 - Wǎn (bowl)",
-             "fr": "碗 - Wǎn (bol)"
-         },
-         "modification": "2021-09-08",
-         "création": "2021-09-08",
-         "catégorie": "Manon Clouzeau",
-         "description": {
-             "en": "Large glazed food bowl. Unique piece.",
-             "fr": "Grand bol alimentaire émaillé. Pièce unique."
-         },
-         "prix": 60.00,
-         "poids": 0.4,
-         "capacité": 360,
-         "quantité_produite": 1,
-         "photos": [
-             "manon_bol_1-a.jpg",
-             "manon_bol_1-b.jpg"
          ]
      },
      {
@@ -2671,31 +2157,6 @@
          ]
      },
      {
-         "id": "jehohin1",
-         "titre": {
-             "en": "Hohin in raw stoneware",
-             "fr": "Hohin en grès brut"
-         },
-         "modification": "2021-02-22",
-         "création": "2022-02-22",
-         "catégorie": "Jé le Potier",
-         "description": {
-             "en": "Unique piece. A traditional Japanese piece for brewing Gyokuro. It is however possible to brew other types of tea. The hohin is very easy to use. It pours abundantly and very quickly. The stoneware used for this piece is a very dense clay. This high quality stoneware is made in Germany. The porosity of this clay is 0,8% and its density limits the water temperature drop during the infusion.",
-             "fr": "Pièce unique. Le hohin est une pièce issue de la tradition japonaise et destinée à l'infusion des Gyokuro. Il est toute fois possible d'infuser d'autres types de thé. Le hohin est une pièce très facile d'utilisation. Sa verse est abondante et très rapide. Cette pièce est fabriquée dans une argile très dense, de grande qualité, réalisée en Allemagne. La porosité de cette argile est de 0,8%. Sa densité permet de limiter la descente en température de l'eau pendant l'infusion"
-         },
-         "prix": 96.00,
-         "poids": 0.125,
-         "capacité": 100,
-         "quantité_produite": 0,
-         "photos": [
-             "jerome_hohin_1-a.jpg",
-             "jerome_hohin_1-b.jpg",
-             "jerome_hohin_1-c.jpg",
-             "jerome_hohin_1-d.jpg",
-             "jerome_hohin_1-e.jpg"
-         ]
-     },
-     {
          "id": "jega1",
          "titre": {
              "en": "蓋碗 - GàiWǎn",
@@ -2718,31 +2179,6 @@
              "jerome_gaiwan_1-c.jpg",
              "jerome_gaiwan_1-d.jpg",
              "jerome_gaiwan_1-e.jpg"
-         ]
-     },
-     {
-         "id": "jeshibo1",
-         "titre": {
-             "en": "Glazed shiboridashi",
-             "fr": "Shiboridashi émaillé"
-         },
-         "modification": "2021-02-27",
-         "création": "2022-02-27",
-         "catégorie": "Jé le Potier",
-         "description": {
-             "en": "Unique piece. Stoneware glazed 蓋碗 - GàiWǎn.",
-             "fr": "Pièce unique. Shiboridashi en grès émaillé."
-         },
-         "prix": 86.00,
-         "poids": 0.300,
-         "capacité": 100,
-         "quantité_produite": 0,
-         "photos": [
-             "jerome_shiboridashi_1-a.jpg",
-             "jerome_shiboridashi_1-b.jpg",
-             "jerome_shiboridashi_1-c.jpg",
-             "jerome_shiboridashi_1-d.jpg",
-             "jerome_shiboridashi_1-e.jpg"
          ]
      },
      {
@@ -2785,7 +2221,7 @@
          "prix": 60.00,
          "poids": 0.215,
          "capacité": 90,
-         "quantité_produite": 4,
+         "quantité_produite": 1,
          "photos": [
              "melles-ceramique_gaiwan_1-a.jpg",
              "melles-ceramique_gaiwan_1-b.jpg",
