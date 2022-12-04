@@ -586,13 +586,13 @@
              "en": "Glazed porcelain 茶杯 - CháBēi. Unique piece.",
              "fr": "茶杯 - CháBēi en porcelaine émaillée, 1250°C. Pièce unique."
          },
-         "prix": 15.00,
+         "prix": 20.00,
          "dimension": {
              "largeur": 7,
-             "hauteur": 3.5
+             "hauteur": 4
          },
-         "poids": 0.035,
-         "capacité": 50,
+         "poids": 0.048,
+         "capacité": 44,
          "quantité_produite": 1,
          "photos": [
              "manon_tasse_50-a.jpg",
@@ -616,11 +616,11 @@
          },
          "prix": 15.00,
          "dimension": {
-             "largeur": 7,
-             "hauteur": 3.5
+             "largeur": 6,
+             "hauteur": 3
          },
-         "poids": 0.035,
-         "capacité": 50,
+         "poids": 0.027,
+         "capacité": 34,
          "quantité_produite": 1,
          "photos": [
              "manon_tasse_51-a.jpg",
@@ -644,11 +644,11 @@
          },
          "prix": 15.00,
          "dimension": {
-             "largeur": 7,
+             "largeur": 6.5,
              "hauteur": 3.5
          },
-         "poids": 0.035,
-         "capacité": 50,
+         "poids": 0.040,
+         "capacité": 49,
          "quantité_produite": 1,
          "photos": [
              "manon_tasse_52-a.jpg",
@@ -672,11 +672,11 @@
          },
          "prix": 15.00,
          "dimension": {
-             "largeur": 7,
+             "largeur": 6,
              "hauteur": 3.5
          },
-         "poids": 0.035,
-         "capacité": 50,
+         "poids": 0.036,
+         "capacité": 37,
          "quantité_produite": 1,
          "photos": [
              "manon_tasse_53-a.jpg",
@@ -700,11 +700,11 @@
          },
          "prix": 15.00,
          "dimension": {
-             "largeur": 7,
+             "largeur": 6.5,
              "hauteur": 3.5
          },
-         "poids": 0.035,
-         "capacité": 50,
+         "poids": 0.037,
+         "capacité": 47,
          "quantité_produite": 1,
          "photos": [
              "manon_tasse_54-a.jpg",
@@ -728,11 +728,11 @@
          },
          "prix": 15.00,
          "dimension": {
-             "largeur": 7,
+             "largeur": 6.7,
              "hauteur": 3.5
          },
-         "poids": 0.035,
-         "capacité": 50,
+         "poids": 0.034,
+         "capacité": 33,
          "quantité_produite": 1,
          "photos": [
              "manon_tasse_55-a.jpg",
@@ -756,11 +756,11 @@
          },
          "prix": 15.00,
          "dimension": {
-             "largeur": 7,
+             "largeur": 6.5,
              "hauteur": 3.5
          },
-         "poids": 0.035,
-         "capacité": 50,
+         "poids": 0.037,
+         "capacité": 30,
          "quantité_produite": 1,
          "photos": [
              "manon_tasse_56-a.jpg",
@@ -787,8 +787,8 @@
              "largeur": 7,
              "hauteur": 3.5
          },
-         "poids": 0.035,
-         "capacité": 50,
+         "poids": 0.042,
+         "capacité": 47,
          "quantité_produite": 1,
          "photos": [
              "manon_tasse_57-a.jpg",
@@ -812,11 +812,11 @@
          },
          "prix": 15.00,
          "dimension": {
-             "largeur": 7,
+             "largeur": 5.8,
              "hauteur": 3.5
          },
-         "poids": 0.035,
-         "capacité": 50,
+         "poids": 0.025,
+         "capacité": 25,
          "quantité_produite": 1,
          "photos": [
              "manon_tasse_58-a.jpg",
@@ -840,11 +840,11 @@
          },
          "prix": 15.00,
          "dimension": {
-             "largeur": 7,
-             "hauteur": 3.5
+             "largeur": 6.5,
+             "hauteur": 3.8
          },
-         "poids": 0.035,
-         "capacité": 50,
+         "poids": 0.034,
+         "capacité": 45,
          "quantité_produite": 1,
          "photos": [
              "manon_tasse_59-a.jpg",
@@ -868,11 +868,11 @@
          },
          "prix": 15.00,
          "dimension": {
-             "largeur": 7,
+             "largeur": 6.5,
              "hauteur": 3.5
          },
-         "poids": 0.035,
-         "capacité": 50,
+         "poids": 0.045,
+         "capacité": 44,
          "quantité_produite": 1,
          "photos": [
              "manon_tasse_60-a.jpg",
@@ -899,8 +899,8 @@
              "largeur": 7,
              "hauteur": 3.5
          },
-         "poids": 0.035,
-         "capacité": 50,
+         "poids": 0.039,
+         "capacité": 40,
          "quantité_produite": 1,
          "photos": [
              "manon_tasse_61-a.jpg",
@@ -927,8 +927,8 @@
              "largeur": 7,
              "hauteur": 3.5
          },
-         "poids": 0.035,
-         "capacité": 50,
+         "poids": 0.037,
+         "capacité": 40,
          "quantité_produite": 1,
          "photos": [
              "manon_tasse_62-a.jpg",
@@ -955,8 +955,8 @@
              "largeur": 7,
              "hauteur": 3.5
          },
-         "poids": 0.035,
-         "capacité": 50,
+         "poids": 0.037,
+         "capacité": 40,
          "quantité_produite": 1,
          "photos": [
              "manon_tasse_63-a.jpg",
@@ -981,10 +981,10 @@
          "prix": 15.00,
          "dimension": {
              "largeur": 7,
-             "hauteur": 3.5
+             "hauteur": 3
          },
-         "poids": 0.035,
-         "capacité": 50,
+         "poids": 0.036,
+         "capacité": 33,
          "quantité_produite": 1,
          "photos": [
              "manon_tasse_64-a.jpg",
@@ -1006,13 +1006,13 @@
              "en": "Glazed porcelain 茶杯 - CháBēi. Unique piece.",
              "fr": "茶杯 - CháBēi en porcelaine émaillée, 1250°C. Pièce unique."
          },
-         "prix": 15.00,
+         "prix": 20.00,
          "dimension": {
-             "largeur": 7,
+             "largeur": 7.6,
              "hauteur": 3.5
          },
-         "poids": 0.035,
-         "capacité": 50,
+         "poids": 0.042,
+         "capacité": 54,
          "quantité_produite": 1,
          "photos": [
              "manon_tasse_65-a.jpg",
@@ -1034,13 +1034,13 @@
              "en": "Glazed porcelain 茶杯 - CháBēi. Unique piece.",
              "fr": "茶杯 - CháBēi en porcelaine émaillée, 1250°C. Pièce unique."
          },
-         "prix": 15.00,
+         "prix": 20.00,
          "dimension": {
-             "largeur": 7,
-             "hauteur": 3.5
+             "largeur": 8,
+             "hauteur": 4
          },
-         "poids": 0.035,
-         "capacité": 50,
+         "poids": 0.058,
+         "capacité": 75,
          "quantité_produite": 1,
          "photos": [
              "manon_tasse_66-a.jpg",
@@ -1062,13 +1062,13 @@
              "en": "Glazed porcelain 茶杯 - CháBēi. Unique piece.",
              "fr": "茶杯 - CháBēi en porcelaine émaillée, 1250°C. Pièce unique."
          },
-         "prix": 15.00,
+         "prix": 20.00,
          "dimension": {
-             "largeur": 7,
-             "hauteur": 3.5
+             "largeur": 7.2,
+             "hauteur": 4
          },
-         "poids": 0.035,
-         "capacité": 50,
+         "poids": 0.043,
+         "capacité": 44,
          "quantité_produite": 1,
          "photos": [
              "manon_tasse_67-a.jpg",
