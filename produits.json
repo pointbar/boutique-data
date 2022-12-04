@@ -364,11 +364,11 @@
          },
          "prix": 15.00,
          "dimension": {
-             "largeur": 7,
+             "largeur": 6.5,
              "hauteur": 3.5
          },
-         "poids": 0.035,
-         "capacité": 50,
+         "poids": 0.036,
+         "capacité": 30,
          "quantité_produite": 1,
          "photos": [
              "manon_tasse_42-a.jpg",
@@ -393,10 +393,10 @@
          "prix": 15.00,
          "dimension": {
              "largeur": 7,
-             "hauteur": 3.5
+             "hauteur": 4
          },
-         "poids": 0.035,
-         "capacité": 50,
+         "poids": 0.037.5,
+         "capacité": 40,
          "quantité_produite": 1,
          "photos": [
              "manon_tasse_43-a.jpg",
@@ -418,13 +418,13 @@
              "en": "Glazed porcelain 茶杯 - CháBēi. Unique piece.",
              "fr": "茶杯 - CháBēi en porcelaine émaillée, 1250°C. Pièce unique."
          },
-         "prix": 15.00,
+         "prix": 20.00,
          "dimension": {
              "largeur": 7,
              "hauteur": 3.5
          },
-         "poids": 0.035,
-         "capacité": 50,
+         "poids": 0.039,
+         "capacité": 42,
          "quantité_produite": 1,
          "photos": [
              "manon_tasse_44-a.jpg",
@@ -449,10 +449,10 @@
          "prix": 15.00,
          "dimension": {
              "largeur": 7,
-             "hauteur": 3.5
+             "hauteur": 3
          },
          "poids": 0.035,
-         "capacité": 50,
+         "capacité": 40,
          "quantité_produite": 1,
          "photos": [
              "manon_tasse_45-a.jpg",
@@ -476,11 +476,11 @@
          },
          "prix": 15.00,
          "dimension": {
-             "largeur": 7,
+             "largeur": 6.5,
              "hauteur": 3.5
          },
-         "poids": 0.035,
-         "capacité": 50,
+         "poids": 0.032,
+         "capacité": 40,
          "quantité_produite": 1,
          "photos": [
              "manon_tasse_46-a.jpg",
@@ -505,10 +505,10 @@
          "prix": 15.00,
          "dimension": {
              "largeur": 7,
-             "hauteur": 3.5
+             "hauteur": 3.2
          },
-         "poids": 0.035,
-         "capacité": 50,
+         "poids": 0.030,
+         "capacité": 38,
          "quantité_produite": 1,
          "photos": [
              "manon_tasse_47-a.jpg",
@@ -530,13 +530,13 @@
              "en": "Glazed porcelain 茶杯 - CháBēi. Unique piece.",
              "fr": "茶杯 - CháBēi en porcelaine émaillée, 1250°C. Pièce unique."
          },
-         "prix": 15.00,
+         "prix": 20.00,
          "dimension": {
              "largeur": 7,
-             "hauteur": 3.5
+             "hauteur": 4
          },
-         "poids": 0.035,
-         "capacité": 50,
+         "poids": 0.040,
+         "capacité": 58,
          "quantité_produite": 1,
          "photos": [
              "manon_tasse_48-a.jpg",
@@ -558,13 +558,13 @@
              "en": "Glazed porcelain 茶杯 - CháBēi. Unique piece.",
              "fr": "茶杯 - CháBēi en porcelaine émaillée, 1250°C. Pièce unique."
          },
-         "prix": 15.00,
+         "prix": 20.00,
          "dimension": {
-             "largeur": 7,
-             "hauteur": 3.5
+             "largeur": 6.8,
+             "hauteur": 4
          },
-         "poids": 0.035,
-         "capacité": 50,
+         "poids": 0.041,
+         "capacité": 55,
          "quantité_produite": 1,
          "photos": [
              "manon_tasse_49-a.jpg",
@@ -1112,9 +1112,9 @@
              "en": "Glazed GàiWǎn. Unique piece.",
              "fr": "GàiWǎn émaillé. Pièce unique."
          },
-         "prix": 60.00,
-         "poids": 0.12,
-         "capacité": 110,
+         "prix": 55.00,
+         "poids": 0.156,
+         "capacité": 100,
          "quantité_produite": 1,
          "photos": [
              "manon_gaiwan_13-a.jpg",
@@ -1135,9 +1135,9 @@
              "en": "Glazed GàiWǎn. Unique piece.",
              "fr": "GàiWǎn émaillé. Pièce unique."
          },
-         "prix": 55.00,
-         "poids": 0.12,
-         "capacité": 85,
+         "prix": 45.00,
+         "poids": 0.093,
+         "capacité": 70,
          "quantité_produite": 1,
          "photos": [
              "manon_gaiwan_14-a.jpg",
@@ -1158,9 +1158,9 @@
              "en": "Glazed GàiWǎn. Unique piece.",
              "fr": "GàiWǎn émaillé. Pièce unique."
          },
-         "prix": 60.00,
-         "poids": 0.12,
-         "capacité": 110,
+         "prix": 45.00,
+         "poids": 0.085,
+         "capacité": 62,
          "quantité_produite": 1,
          "photos": [
              "manon_gaiwan_15-a.jpg",
@@ -1181,9 +1181,9 @@
              "en": "CháHǎi, glazed tea serving pot. Unique piece.",
              "fr": "CháHǎi, verseuse émaillée. Pièce unique."
          },
-         "prix": 35.00,
-         "poids": 0.074,
-         "capacité": 140,
+         "prix": 25.00,
+         "poids": 0.079,
+         "capacité": 62,
          "quantité_produite": 1,
          "photos": [
              "manon_verseuse_5-a.jpg",
